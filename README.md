@@ -4,8 +4,9 @@
 
 ## Javascript
 * [Fancybox Lightbox Image](http://fancyapps.com/fancybox/3/)
-* [Lightbox Lightbox Image](https://lokeshdhakar.com/projects/lightbox2/#examples)
+* [Fine Uploader](https://fineuploader.com/)
 * [W3Schools How To](https://www.w3schools.com/howto/howto_js_lightbox.asp)
+* [Lightbox Lightbox Image](https://lokeshdhakar.com/projects/lightbox2/#examples)
 * [Featherlight.js](https://noelboss.github.io/featherlight/)
 
 ## Adim Dashboard
@@ -16,3 +17,14 @@
 
 ## Markdown
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+## Dotnet
+### Manipulating files
+* [Uploading Files In ASP.net Core](https://dotnetcoretutorials.com/2017/03/12/uploading-files-asp-net-core)
+* [Upload/Download Files in ASP.NET Core 2.0](https://www.codeproject.com/Articles/1203408/Upload-Download-Files-in-ASP-NET-Core)
+* [File uploads in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/file-uploads?view=aspnetcore-2.2)
+* [ASP.NET Core 2.2 MVC File Upload with MS SQL SERVER FileTable](https://damienbod.com/2015/12/05/asp-net-5-mvc-6-file-upload-with-ms-sql-server-filetable/)
+* [Uploading Files In ASP.net Core](https://dotnetcoretutorials.com/2017/03/12/uploading-files-asp-net-core)
+* [Uploading Files In ASP.net Core](https://dotnetcoretutorials.com/2017/03/12/uploading-files-asp-net-core)
+* [Uploading Files In ASP.net Core](https://dotnetcoretutorials.com/2017/03/12/uploading-files-asp-net-core)
+* [Uploading Files In ASP.net Core](https://dotnetcoretutorials.com/2017/03/12/uploading-files-asp-net-core)
