@@ -6,15 +6,45 @@
 ### Image Manipulation
 * [Fancybox Lightbox Image](http://fancyapps.com/fancybox/3/)
 * [Fine Uploader](https://fineuploader.com/)
-* [W3Schools How To](https://www.w3schools.com/howto/howto_js_lightbox.asp)
+* [jQuery File Upload](https://blueimp.github.io/jQuery-File-Upload/index.html)
+* [DropzoneJS](https://www.dropzonejs.com/)
 * [Lightbox Lightbox Image](https://lokeshdhakar.com/projects/lightbox2/#examples)
 * [Featherlight.js](https://noelboss.github.io/featherlight/)
 
+### Reference
+* [MDN](https://developer.mozilla.org/pt-PT/docs/Web/JavaScript)
+
+### How To
+* [W3Schools How To](https://www.w3schools.com/howto/howto_js_lightbox.asp)
+
+### Utility
+* [Jsonlint](https://jsonlint.com/)
+* [FastClick](https://labs.ft.com/fastclick/)
+* [Autosize](http://www.jacklmoore.com/autosize/)
+* [Animate CSS](https://daneden.github.io/animate.css/)
+
 ## Admin Dashboard
+* [Shards Dashboard Lite](https://designrevision.com/downloads/shards-dashboard-lite/)
+* [Bootstrap Dashboard](https://demo.bootstrapious.com/dashboard/1-4-4/index.html)
+* [Modular Admin](https://modularcode.io/modular-admin-html/index.html)
+* [Sufee Admin](https://colorlib.com/polygon/sufee/forms-basic.html)
+* [Sing App](https://flatlogic.github.io/sing-app/index.html)
+* [Bootstrap Dashboard](http://demo.bootstrapious.com/admin/)
 * [Octopus](https://colorlib.com/polygon/octopus/ui-elements-lightbox.html)
 * [Admindek](https://colorlib.com//polygon/admindek/default/alert.html)
 * [Adminty](https://colorlib.com//polygon/adminty/default/alert.html)
 * [Gentelella Bootstrap 3](https://colorlib.com/polygon/gentelella/general_elements.html#)
+
+## HTML
+### Reference
+* [MDN](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
+
+## CSS
+### Reference
+* [MDN](https://developer.mozilla.org/en-US/docs/Glossary/CSS)
+
+## Bootstrap 4 Theme
+* [Themefisher](https://themefisher.com/products/category/bootstrap-4/)
 
 ## Markdown
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
