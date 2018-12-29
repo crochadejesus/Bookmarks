@@ -64,3 +64,11 @@
 * [Uploading Files In ASP.net Core](https://dotnetcoretutorials.com/2017/03/12/uploading-files-asp-net-core)
 * [Uploading Files In ASP.net Core](https://dotnetcoretutorials.com/2017/03/12/uploading-files-asp-net-core)
 * [Uploading Files In ASP.net Core](https://dotnetcoretutorials.com/2017/03/12/uploading-files-asp-net-core)
+
+## CouchDB
+
+## Radio
+* [BBC Radio 1](https://www.bbc.co.uk/radio1)
+* [.977 Adults Hits](https://tunein.com/radio/977-Adult-Hits-s48941/)
+* [Hitsradio](https://www.hitsradio.com/#/)
+* [B98.7 KBEE-FM](http://www.b987.com/)
