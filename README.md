@@ -22,6 +22,7 @@
 * [FastClick](https://labs.ft.com/fastclick/)
 * [Autosize](http://www.jacklmoore.com/autosize/)
 * [Animate CSS](https://daneden.github.io/animate.css/)
+* [Gauge](http://bernii.github.io/gauge.js/)
 
 ## Admin Dashboard
 * [Shards Dashboard Lite](https://designrevision.com/downloads/shards-dashboard-lite/)
