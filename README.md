@@ -19,6 +19,9 @@
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Dotnet
+### .Net Core
+* [ASP.NET Core 2.2](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.2)
+
 ### Manipulating files
 * [Uploading Files In ASP.net Core](https://dotnetcoretutorials.com/2017/03/12/uploading-files-asp-net-core)
 * [Upload/Download Files in ASP.NET Core 2.0](https://www.codeproject.com/Articles/1203408/Upload-Download-Files-in-ASP-NET-Core)
