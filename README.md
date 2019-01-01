@@ -63,6 +63,7 @@
 * [Uploading Files In ASP.net Core](https://dotnetcoretutorials.com/2017/03/12/uploading-files-asp-net-core)
 
 ### Help
+* [Using jQuery Unobtrusive AJAX in ASP.NET Core Razor Pages](https://www.learnrazorpages.com/razor-pages/ajax/unobtrusive-ajax)
 * [Submiting form using AjaxBeginForm with Tag Helpers](https://stackoverflow.com/questions/35202804/submitting-a-razor-form-using-jquery-ajax-in-mvc6-using-the-built-in-functionali)
 * [Ajax.BeginForm In ASP.NET MVC 5](https://www.c-sharpcorner.com/UploadFile/0c1bb2/ajax-beginform-in-Asp-Net-mvc-5/)
 
