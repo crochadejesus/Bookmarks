@@ -70,6 +70,7 @@
 ## CouchDB
 * [Apache CouchDB](http://couchdb.apache.org/)
 * [MyCouch Github](https://github.com/danielwertheim/MyCouch)
+* [Introduction to CouchDB with .NET](https://dotnetcodr.com/2017/05/15/introduction-to-couchdb-with-net-part-1-foundations-and-setup/)
 
 ## Radio
 * [BBC Radio 1](https://www.bbc.co.uk/radio1)
