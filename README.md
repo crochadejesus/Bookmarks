@@ -15,7 +15,7 @@ Responsive, touch-enabled and customizable.
 Eight years later — still going strong!
 * [Featherlight.js](https://noelboss.github.io/featherlight/) -- Featherlight is a very lightweight jQuery lightbox.
 ### Library
-* [Algolia](https://community.algolia.com/places/) - Turn any <input> into an address autocomplete
+* [Algolia](https://community.algolia.com/places/) -- Turn any <input> into an address autocomplete
 
 ### Reference
 * [MDN](https://developer.mozilla.org/pt-PT/docs/Web/JavaScript)
@@ -78,7 +78,7 @@ Eight years later — still going strong!
 * [Introduction to CouchDB with .NET](https://dotnetcodr.com/2017/05/15/introduction-to-couchdb-with-net-part-1-foundations-and-setup/)
 ### MyCouch
 * [MyCouch Github](https://github.com/danielwertheim/MyCouch)
-* [Hot Examples](https://csharp.hotexamples.com/examples/MyCouch/MyCouchClient/-/php-mycouchclient-class-examples.html)
+* [MyCouch MyCouchClient Code Examples](https://csharp.hotexamples.com/examples/MyCouch/MyCouchClient/-/php-mycouchclient-class-examples.html)
 * [MyCouch client configuration and usage](https://stackoverflow.com/questions/24796300/mycouch-client-configuration-and-usage)
 
 ## Radio
