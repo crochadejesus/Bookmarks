@@ -6,12 +6,16 @@
 * [Javacripting](https://www.javascripting.com/?sort=rating) -- The definitive source of the best 
 JavaScript libraries, frameworks, and plugins.
 ### Image Manipulation
-* [Fancybox Lightbox Image](http://fancyapps.com/fancybox/3/)
-* [Fine Uploader](https://fineuploader.com/)
-* [jQuery File Upload](https://blueimp.github.io/jQuery-File-Upload/index.html)
-* [DropzoneJS](https://www.dropzonejs.com/)
-* [Lightbox Lightbox Image](https://lokeshdhakar.com/projects/lightbox2/#examples)
-* [Featherlight.js](https://noelboss.github.io/featherlight/)
+* [Fancybox Lightbox Image](http://fancyapps.com/fancybox/3/) -- JavaScript lightbox library for presenting various types of media. 
+Responsive, touch-enabled and customizable.
+* [Fine Uploader](https://fineuploader.com/) -- File uploading without the hassle
+* [jQuery File Upload](https://blueimp.github.io/jQuery-File-Upload/index.html) -- File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery.
+* [DropzoneJS](https://www.dropzonejs.com/) -- DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.
+* [Lightbox Lightbox Image](https://lokeshdhakar.com/projects/lightbox2/#examples) -- The original lightbox script. 
+Eight years later — still going strong!
+* [Featherlight.js](https://noelboss.github.io/featherlight/) -- Featherlight is a very lightweight jQuery lightbox.
+### Library
+* [Algolia](https://community.algolia.com/places/) - Turn any <input> into an address autocomplete
 
 ### Reference
 * [MDN](https://developer.mozilla.org/pt-PT/docs/Web/JavaScript)
@@ -20,11 +24,11 @@ JavaScript libraries, frameworks, and plugins.
 * [W3Schools How To](https://www.w3schools.com/howto/howto_js_lightbox.asp)
 
 ### Utility
-* [Jsonlint](https://jsonlint.com/)
-* [FastClick](https://labs.ft.com/fastclick/)
-* [Autosize](http://www.jacklmoore.com/autosize/)
-* [Animate CSS](https://daneden.github.io/animate.css/)
-* [Gauge](http://bernii.github.io/gauge.js/)
+* [Jsonlint](https://jsonlint.com/) -- JSONLint is a validator and reformatter for JSON, a lightweight data-interchange format.
+* [FastClick](https://labs.ft.com/fastclick/) -- Polyfill to remove click delays on browsers with touch UIs
+* [Autosize](http://www.jacklmoore.com/autosize/) -- A small, stand-alone script to automatically adjust textarea height.
+* [Animate CSS](https://daneden.github.io/animate.css/) -- Just-add-water CSS animations
+* [Gauge](http://bernii.github.io/gauge.js/) -- 100% native and cool looking animated JavaScript/CoffeeScript
 
 ## Admin Dashboard
 * [Shards Dashboard Lite](https://designrevision.com/downloads/shards-dashboard-lite/)
