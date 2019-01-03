@@ -73,6 +73,7 @@
 ### MyCouch
 * [MyCouch Github](https://github.com/danielwertheim/MyCouch)
 * [Hot Examples](https://csharp.hotexamples.com/examples/MyCouch/MyCouchClient/-/php-mycouchclient-class-examples.html)
+* [MyCouch client configuration and usage](https://stackoverflow.com/questions/24796300/mycouch-client-configuration-and-usage)
 
 ## Radio
 * [BBC Radio 1](https://www.bbc.co.uk/radio1)
