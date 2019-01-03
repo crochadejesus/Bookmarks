@@ -3,6 +3,8 @@
 ## My personal bookmarks
 
 ## Javascript
+* [Javacripting](https://www.javascripting.com/?sort=rating) -- The definitive source of the best 
+JavaScript libraries, frameworks, and plugins.
 ### Image Manipulation
 * [Fancybox Lightbox Image](http://fancyapps.com/fancybox/3/)
 * [Fine Uploader](https://fineuploader.com/)
