@@ -140,6 +140,14 @@ Eight years later — still going strong!
 * [The Register](https://www.theregister.co.uk/)
 * [Windows Developer Blog](https://blogs.windows.com/buildingapps/#W4zCY3Dbvgq9OAJr.97)
 
+## Hosting
+* [Contabo.com](https://contabo.com/)
+* [SmarterASP.net](http://www.smarterasp.net/)
+* [Cloudways SSD Hosting](https://www.cloudways.com/en/ssd-cloud-hosting.php)
+* [Ionblade - SSD Hosting](https://ionblade.com/ssd-hosting)
+* [Hosting Advice](https://www.hostingadvice.com)
+* [Arsys](https://www.arsys.pt/servidores/vps)
+
 ## Radio
 * [BBC Radio 1](https://www.bbc.co.uk/radio1)
 * [.977 Adults Hits](https://tunein.com/radio/977-Adult-Hits-s48941/)
