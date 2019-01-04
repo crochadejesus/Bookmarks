@@ -37,6 +37,19 @@
 * [Javacripting](https://www.javascripting.com/?sort=rating) -- The definitive source of the best 
 JavaScript libraries, frameworks, and plugins.
 
+### Reference
+* [MDN](https://developer.mozilla.org/pt-PT/docs/Web/JavaScript)
+
+### How To
+* [W3Schools How To](https://www.w3schools.com/howto/howto_js_lightbox.asp)
+
+### Library
+* [jQuery Datatables](https://datatables.net/) -- Add advanced interaction controls
+to your HTML tables the free & easy way
+* [Algolia](https://community.algolia.com/places/) -- Turn any <input> into an address autocomplete
+* [Draggable](https://shopify.github.io/draggable/) -- a lightweight, responsive, modern drag & drop library
+* [Card](https://github.com/jessepollak/card) -- A better credit card form in one line of code
+
 ### Image Manipulation
 * [Fancybox Lightbox Image](http://fancyapps.com/fancybox/3/) -- JavaScript lightbox library for presenting various types of media. 
 Responsive, touch-enabled and customizable.
@@ -47,21 +60,18 @@ Responsive, touch-enabled and customizable.
 Eight years later — still going strong!
 * [Featherlight.js](https://noelboss.github.io/featherlight/) -- Featherlight is a very lightweight jQuery lightbox.
 
-### Library
-* [Algolia](https://community.algolia.com/places/) -- Turn any <input> into an address autocomplete
-
-### Reference
-* [MDN](https://developer.mozilla.org/pt-PT/docs/Web/JavaScript)
-
-### How To
-* [W3Schools How To](https://www.w3schools.com/howto/howto_js_lightbox.asp)
-
 ### Utility
 * [Jsonlint](https://jsonlint.com/) -- JSONLint is a validator and reformatter for JSON, a lightweight data-interchange format.
 * [FastClick](https://labs.ft.com/fastclick/) -- Polyfill to remove click delays on browsers with touch UIs
 * [Autosize](http://www.jacklmoore.com/autosize/) -- A small, stand-alone script to automatically adjust textarea height.
 * [Animate CSS](https://daneden.github.io/animate.css/) -- Just-add-water CSS animations
 * [Gauge](http://bernii.github.io/gauge.js/) -- 100% native and cool looking animated JavaScript/CoffeeScript
+
+### Chart
+* [24 JavaScript Libraries for Creating Beautiful Charts](https://www.sitepoint.com/15-best-javascript-charting-libraries/)
+
+### Animation
+* [11 JavaScript Animation Libraries For 2019](https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59)
 
 ## HTML
 ### Reference
@@ -70,6 +80,12 @@ Eight years later — still going strong!
 ## CSS
 ### Reference
 * [MDN](https://developer.mozilla.org/en-US/docs/Glossary/CSS)
+
+### Library
+* [Vivify](https://github.com/Martz90/vivify) -- Vivify is free CSS animation library.
+
+### Animation
+* [10 Examples of Pure CSS Animation on CodePen](https://webdesign.tutsplus.com/articles/pure-css-animation-inspiration-on-codepen--cms-30875)
 
 ## Bootstrap
 ### Tutorials
