@@ -30,7 +30,22 @@ Eight years later — still going strong!
 * [Animate CSS](https://daneden.github.io/animate.css/) -- Just-add-water CSS animations
 * [Gauge](http://bernii.github.io/gauge.js/) -- 100% native and cool looking animated JavaScript/CoffeeScript
 
-## Admin Dashboard
+## HTML
+### Reference
+* [MDN](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
+
+## CSS
+### Reference
+* [MDN](https://developer.mozilla.org/en-US/docs/Glossary/CSS)
+
+## Bootstrap
+### Tutorials
+* [Bootstrap 4 Vertical Side Menu](https://code.luasoftware.com/tutorials/bootstrap/bootstrap4-vertical-side-menu/)
+
+### Themes
+* [Themefisher](https://themefisher.com/products/category/bootstrap-4/)
+
+### Admin Dashboard
 * [Admindek](https://colorlib.com//polygon/admindek/default/alert.html)
 * [Adminty](https://colorlib.com//polygon/adminty/default/alert.html)
 * [Bootstrap Dashboard](https://demo.bootstrapious.com/dashboard/1-4-4/index.html)
@@ -41,19 +56,6 @@ Eight years later — still going strong!
 * [Shards Dashboard Lite](https://designrevision.com/downloads/shards-dashboard-lite/)
 * [Sing App](https://flatlogic.github.io/sing-app/index.html)
 * [Sufee Admin](https://colorlib.com/polygon/sufee/forms-basic.html)
-
-
-## HTML
-### Reference
-* [MDN](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
-
-## CSS
-### Reference
-* [MDN](https://developer.mozilla.org/en-US/docs/Glossary/CSS)
-
-## Bootstrap
-### Themes
-* [Themefisher](https://themefisher.com/products/category/bootstrap-4/)
 
 ## Markdown
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
@@ -89,6 +91,14 @@ Eight years later — still going strong!
 * [MyCouch Github](https://github.com/danielwertheim/MyCouch)
 * [MyCouch MyCouchClient Code Examples](https://csharp.hotexamples.com/examples/MyCouch/MyCouchClient/-/php-mycouchclient-class-examples.html)
 * [MyCouch client configuration and usage](https://stackoverflow.com/questions/24796300/mycouch-client-configuration-and-usage)
+
+## Utility
+* [Lipsum](https://www.lipsum.com/) -- Lorem Ipsum Generator
+* [HTTP Status Codes](https://httpstatuses.com/) -- httpstatuses.com is an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place.
+* [Codeply](https://www.codeply.com/) -- Responsive Design Playground & Frontend Editor.
+* [Json2CSharp](http://json2csharp.com/) -- generate c# classes from json
+* [JsonUtils](https://jsonutils.com/)
+* [QuickType](https://quicktype.io/) -- Instantly generate C# models and helper methods from JSON.
 
 ## Training
 * [Class Central](http://www.class-central.com) -- Class Central is a search engine and reviews site for free online courses popularly known as MOOCs or Massive Open Online Courses.
