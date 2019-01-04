@@ -81,6 +81,9 @@ Eight years later — still going strong!
 * [MyCouch MyCouchClient Code Examples](https://csharp.hotexamples.com/examples/MyCouch/MyCouchClient/-/php-mycouchclient-class-examples.html)
 * [MyCouch client configuration and usage](https://stackoverflow.com/questions/24796300/mycouch-client-configuration-and-usage)
 
+## Training
+* [Class Central](http://www.class-central.com) -- Class Central is a search engine and reviews site for free online courses popularly known as MOOCs or Massive Open Online Courses.
+
 ## Radio
 * [BBC Radio 1](https://www.bbc.co.uk/radio1)
 * [.977 Adults Hits](https://tunein.com/radio/977-Adult-Hits-s48941/)
