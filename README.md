@@ -162,3 +162,14 @@ Eight years later — still going strong!
 * [Flexpro Sistemas](https://flexpro.com.br/simob/locacao)
 * [imoGestão - Sistema de Gestão para Corretores e Imobiliárias](https://www.imogestao.com.br/)
 * [SEGIM - Sistema Imobiliário](https://www.segim.com.br/)
+
+## Cosmetics
+* [Multi Vegetal - Fitocosméticos com plantas medicinais](https://www.multivegetal.com/)
+* [Jeunesse Global](https://www.jeunesseglobal.com/en-US/)
+* [Amway](http://www.amway.com/)
+* [O Boticário](https://www.boticario.com.br/)
+* [Avon](https://www.avon.com.br/)
+* [Natura](https://www.natura.com.br/)
+* [Mundo Verde](https://mundoverde.com.br/)
+* [SAPO Lifestyle](https://lifestyle.sapo.pt/saude/bem-estar/artigos/sabe-o-que-e-a-fitoterapia)
+* [Fitoterapia | Celeiro](https://www.celeiro.pt/cuide-de-si/terapias/fitoterapia)
