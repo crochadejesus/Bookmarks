@@ -83,6 +83,7 @@ Eight years later — still going strong!
 
 ## Training
 * [Class Central](http://www.class-central.com) -- Class Central is a search engine and reviews site for free online courses popularly known as MOOCs or Massive Open Online Courses.
+* [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
 ## Radio
 * [BBC Radio 1](https://www.bbc.co.uk/radio1)
