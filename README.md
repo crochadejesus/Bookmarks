@@ -73,6 +73,9 @@ Eight years later — still going strong!
 ### Animation
 * [11 JavaScript Animation Libraries For 2019](https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59)
 
+### Tables
+* [12 Amazing jQuery Tables](https://www.sitepoint.com/12-amazing-jquery-tables/)
+
 ## HTML
 ### Reference
 * [MDN](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
