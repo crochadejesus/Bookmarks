@@ -123,6 +123,23 @@ Eight years later — still going strong!
 * [Class Central](http://www.class-central.com) -- Class Central is a search engine and reviews site for free online courses popularly known as MOOCs or Massive Open Online Courses.
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
+## IT News
+* [Channel 9](https://channel9.msdn.com/)
+* [DEV Community](https://dev.to/)
+* [Flipboard](https://flipboard.com/)
+* [Gizmodo](https://gizmodo.com/)
+* [Hacker News](https://news.ycombinator.com/)
+* [Hacker Noon](https://hackernoon.com/)
+* [InfoQ](https://www.infoq.com/)
+* [freeCodeCamp](https://www.freecodecamp.org/)
+* [Medium](https://medium.com/)
+* [TechCrunch](https://techcrunch.com/)
+* [The Verge](https://www.theverge.com/)
+* [Visual Studio Magazine](https://visualstudiomagazine.com/Home.aspx)
+* [Windows Central](https://www.windowscentral.com/)
+* [The Register](https://www.theregister.co.uk/)
+* [Windows Developer Blog](https://blogs.windows.com/buildingapps/#W4zCY3Dbvgq9OAJr.97)
+
 ## Radio
 * [BBC Radio 1](https://www.bbc.co.uk/radio1)
 * [.977 Adults Hits](https://tunein.com/radio/977-Adult-Hits-s48941/)
