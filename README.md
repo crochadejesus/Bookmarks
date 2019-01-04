@@ -90,6 +90,11 @@ Eight years later — still going strong!
 ### Animation
 * [10 Examples of Pure CSS Animation on CodePen](https://webdesign.tutsplus.com/articles/pure-css-animation-inspiration-on-codepen--cms-30875)
 
+### Pagination
+* [23 CSS Pagination](https://freefrontend.com/css-pagination/)
+* [Adding Pagination to your Website](https://www.solodev.com/blog/web-design/adding-pagination-to-your-website.stml)
+* [Pagination](https://codyhouse.co/gem/css-pagination)
+
 ## Bootstrap
 ### Tutorials
 * [Bootstrap 4 Vertical Side Menu](https://code.luasoftware.com/tutorials/bootstrap/bootstrap4-vertical-side-menu/)
