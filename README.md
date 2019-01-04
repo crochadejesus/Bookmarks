@@ -31,16 +31,17 @@ Eight years later — still going strong!
 * [Gauge](http://bernii.github.io/gauge.js/) -- 100% native and cool looking animated JavaScript/CoffeeScript
 
 ## Admin Dashboard
-* [Shards Dashboard Lite](https://designrevision.com/downloads/shards-dashboard-lite/)
-* [Bootstrap Dashboard](https://demo.bootstrapious.com/dashboard/1-4-4/index.html)
-* [Modular Admin](https://modularcode.io/modular-admin-html/index.html)
-* [Sufee Admin](https://colorlib.com/polygon/sufee/forms-basic.html)
-* [Sing App](https://flatlogic.github.io/sing-app/index.html)
-* [Bootstrap Dashboard](http://demo.bootstrapious.com/admin/)
-* [Octopus](https://colorlib.com/polygon/octopus/ui-elements-lightbox.html)
 * [Admindek](https://colorlib.com//polygon/admindek/default/alert.html)
 * [Adminty](https://colorlib.com//polygon/adminty/default/alert.html)
+* [Bootstrap Dashboard](https://demo.bootstrapious.com/dashboard/1-4-4/index.html)
+* [Bootstrap Dashboard](http://demo.bootstrapious.com/admin/)
 * [Gentelella Bootstrap 3](https://colorlib.com/polygon/gentelella/general_elements.html#)
+* [Modular Admin](https://modularcode.io/modular-admin-html/index.html)
+* [Octopus](https://colorlib.com/polygon/octopus/ui-elements-lightbox.html)
+* [Shards Dashboard Lite](https://designrevision.com/downloads/shards-dashboard-lite/)
+* [Sing App](https://flatlogic.github.io/sing-app/index.html)
+* [Sufee Admin](https://colorlib.com/polygon/sufee/forms-basic.html)
+
 
 ## HTML
 ### Reference
