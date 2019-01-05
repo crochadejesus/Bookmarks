@@ -1,5 +1,4 @@
 # Bookmarks
-## My personal bookmarks
 
 ## Dotnet
 ### .Net Core
