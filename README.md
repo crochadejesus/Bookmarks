@@ -45,6 +45,7 @@ JavaScript libraries, frameworks, and plugins.
 
 ### Reference
 * [MDN](https://developer.mozilla.org/pt-PT/docs/Web/JavaScript)
+* [Best Of JS](https://bestofjs.org/) -- The best of JavaScript, HTML and CSS
 
 ### How To
 * [W3Schools How To](https://www.w3schools.com/howto/howto_js_lightbox.asp)
@@ -81,6 +82,10 @@ Eight years later — still going strong!
 
 ### Tables
 * [12 Amazing jQuery Tables](https://www.sitepoint.com/12-amazing-jquery-tables/)
+
+### Awesome
+* [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
+* [Awesome Javascript Frameworks](https://github.com/uhub/awesome-javascript)
 
 ## HTML
 ### Reference
