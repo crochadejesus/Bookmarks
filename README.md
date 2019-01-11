@@ -19,6 +19,8 @@
 ### Awesome
 * [Awesome Clean Code DotNet](https://github.com/thangchung/clean-code-dotnet)
 * [Awesome DotNet Core](https://github.com/thangchung/awesome-dotnet-core)
+* [Awesome DotNet Core Performance](https://github.com/adamsitnik/awesome-dot-net-performance)
+* [Awesome DotNet](https://github.com/quozd/awesome-dotnet)
 * [Awesome VSCode](https://github.com/viatsko/awesome-vscode)
 
 ## NoSQL
