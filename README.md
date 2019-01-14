@@ -38,8 +38,8 @@
 * [MyCouch Github](https://github.com/danielwertheim/MyCouch)
 * [MyCouch MyCouchClient Code Examples](https://csharp.hotexamples.com/examples/MyCouch/MyCouchClient/-/php-mycouchclient-class-examples.html)
 * [MyCouch client configuration and usage](https://stackoverflow.com/questions/24796300/mycouch-client-configuration-and-usage)
-* [CouchDB Joins] (https://www.cmlenz.net/archives/2007/10/couchdb-joins)
-* [Get up and running with CouchDb and CSharp using MyCouch on Windows] (https://danielwertheim.se/get-up-and-running-with-couchdb-and-c-using-mycouch-on-windows/)
+* [CouchDB Joins](https://www.cmlenz.net/archives/2007/10/couchdb-joins)
+* [Get up and running with CouchDb and CSharp using MyCouch on Windows](https://danielwertheim.se/get-up-and-running-with-couchdb-and-c-using-mycouch-on-windows/)
 
 ## Javascript
 * [Javacripting](https://www.javascripting.com/?sort=rating) -- The definitive source of the best 
