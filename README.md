@@ -24,7 +24,7 @@
 * [Awesome VSCode](https://github.com/viatsko/awesome-vscode)
 
 ### Datatable
-* [MVC6.Grid](http://mvc6-grid.azurewebsites.net/)
+* [MVC6.Grid](http://mvc6-grid.azurewebsites.net/) - Grid controls for ASP.NET Core projects
 
 ## NoSQL
 * [Apache CouchDB](http://couchdb.apache.org/)
