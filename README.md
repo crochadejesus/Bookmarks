@@ -28,7 +28,6 @@
 
 ## NoSQL
 * [Apache CouchDB](http://couchdb.apache.org/)
-* [MongoDB](https://www.mongodb.com/)
 * [Introduction to CouchDB with .NET](https://dotnetcodr.com/2017/05/15/introduction-to-couchdb-with-net-part-1-foundations-and-setup/)
 * [Three Reasons To Use a NoSQL Document Store for Your Next Web Application](https://medium.com/statuscode/three-reasons-to-use-a-nosql-document-store-for-your-next-web-application-6b9eabffc8d8)
 * [Three Traps To Avoid When Using a NoSQL Document Store](https://medium.com/statuscode/three-traps-to-avoid-when-using-a-nosql-document-store-12f9e83fd223)
@@ -43,6 +42,7 @@
 * [MyCouch client configuration and usage](https://stackoverflow.com/questions/24796300/mycouch-client-configuration-and-usage)
 * [CouchDB Joins](https://www.cmlenz.net/archives/2007/10/couchdb-joins)
 * [Get up and running with CouchDb and CSharp using MyCouch on Windows](https://danielwertheim.se/get-up-and-running-with-couchdb-and-c-using-mycouch-on-windows/)
+* [How to pass two parameter values to couchdb views?](https://stackoverflow.com/questions/5742079/how-to-pass-two-parameter-values-to-couchdb-views#28884350)
 
 ## Javascript
 * [Javacripting](https://www.javascripting.com/?sort=rating) -- The definitive source of the best 
