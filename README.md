@@ -43,6 +43,12 @@
 * [CouchDB Joins](https://www.cmlenz.net/archives/2007/10/couchdb-joins)
 * [Get up and running with CouchDb and CSharp using MyCouch on Windows](https://danielwertheim.se/get-up-and-running-with-couchdb-and-c-using-mycouch-on-windows/)
 * [How to pass two parameter values to couchdb views?](https://stackoverflow.com/questions/5742079/how-to-pass-two-parameter-values-to-couchdb-views#28884350)
+* [Multiple key search in CouchDB](https://stackoverflow.com/questions/10820579/multiple-key-search-in-couchdb)
+* [CouchDB View with 2 Keys](https://stackoverflow.com/questions/10887359/couchdb-view-with-2-keys)
+* [CouchDB Query View with Multiple Keys Formatting](https://stackoverflow.com/questions/16763306/couchdb-query-view-with-multiple-keys-formatting)
+* [Multiple Search Keys in CouchDB](https://lornajane.net/posts/2017/multiple-search-keys-in-couchdb)
+* [Multiple Search Keys in CouchDB](https://dzone.com/articles/multiple-search-keys-in-couchdb)
+
 
 ## Javascript
 * [Javacripting](https://www.javascripting.com/?sort=rating) -- The definitive source of the best 
