@@ -46,8 +46,8 @@
 * [Multiple key search in CouchDB](https://stackoverflow.com/questions/10820579/multiple-key-search-in-couchdb)
 * [CouchDB View with 2 Keys](https://stackoverflow.com/questions/10887359/couchdb-view-with-2-keys)
 * [CouchDB Query View with Multiple Keys Formatting](https://stackoverflow.com/questions/16763306/couchdb-query-view-with-multiple-keys-formatting)
-* [Multiple Search Keys in CouchDB](https://lornajane.net/posts/2017/multiple-search-keys-in-couchdb)
-* [Multiple Search Keys in CouchDB](https://dzone.com/articles/multiple-search-keys-in-couchdb)
+* [Multiple Search Keys in CouchDB](https://lornajane.net/posts/2017/multiple-search-keys-in-couchdb) - Lornajane
+* [Multiple Search Keys in CouchDB](https://dzone.com/articles/multiple-search-keys-in-couchdb) - DZone
 
 
 ## Javascript
