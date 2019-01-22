@@ -35,6 +35,7 @@
 * [Data Modeling Guidelines for NoSQL JSON Document Databases](https://mapr.com/blog/data-modeling-guidelines-nosql-json-document-databases/)
 * [Couchbase and the Document-Oriented NoSQL Database](https://blog.couchbase.com/couchbase-and-the-document-oriented-nosql-database/)
 * [Thinking in Documents: Part 1](https://www.mongodb.com/blog/post/thinking-documents-part-1)
+* [Principles for Modeling CouchDB Documents](https://stackoverflow.com/questions/1530745/principles-for-modeling-couchdb-documents?rq=1)
 
 ### MyCouch
 * [MyCouch Github](https://github.com/danielwertheim/MyCouch)
