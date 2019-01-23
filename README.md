@@ -23,9 +23,6 @@
 * [Awesome DotNet](https://github.com/quozd/awesome-dotnet)
 * [Awesome VSCode](https://github.com/viatsko/awesome-vscode)
 
-### Datatable
-* [MVC6.Grid](http://mvc6-grid.azurewebsites.net/) - Grid controls for ASP.NET Core projects
-
 ## NoSQL
 * [Apache CouchDB](http://couchdb.apache.org/)
 * [Introduction to CouchDB with .NET](https://dotnetcodr.com/2017/05/15/introduction-to-couchdb-with-net-part-1-foundations-and-setup/)
@@ -48,6 +45,20 @@
 * [CouchDB View with 2 Keys](https://stackoverflow.com/questions/10887359/couchdb-view-with-2-keys)
 * [CouchDB Query View with Multiple Keys Formatting](https://stackoverflow.com/questions/16763306/couchdb-query-view-with-multiple-keys-formatting)
 * [Multiple Search Keys in CouchDB](https://lornajane.net/posts/2017/multiple-search-keys-in-couchdb) - Lornajane
+
+### Datatable
+* [MVC6.Grid](http://mvc6-grid.azurewebsites.net/) - Grid controls for ASP.NET Core projects
+* [Coevery](http://www.coevery.com/)
+
+### ERP
+* [Only Office](https://github.com/ONLYOFFICE/CommunityServer)
+
+### CRM
+* [Only Office](https://github.com/ONLYOFFICE/CommunityServer)
+
+### CMS
+* [Piranha CMS](http://piranhacms.org/)
+* [Orchard CMS](https://orchardproject.net/)
 
 
 ## Javascript
@@ -218,3 +229,7 @@ Eight years later — still going strong!
 
 ## Transportation
 * [Rome2Rio](https://www.rome2rio.com/)
+
+## Translation
+* [Business Dictionary](http://www.businessdictionary.com/)
+* [Thesaurus](https://www.thesaurus.com/)
