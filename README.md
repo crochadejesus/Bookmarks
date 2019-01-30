@@ -52,7 +52,9 @@
 * [Coevery](http://www.coevery.com/)
 
 ### ERP
-* [Only Office](https://github.com/ONLYOFFICE/CommunityServer)
+* [Top 9 open source ERP systems to consider](https://opensource.com/tools/enterprise-resource-planning)
+* [Top Free and Open Source ERP Software 2019](https://www.softwaresuggest.com/us/erp-software/free-open-source-softwares)
+* [List of ERP software packages](https://en.wikipedia.org/wiki/List_of_ERP_software_packages)
 
 ### CRM
 * [Only Office](https://github.com/ONLYOFFICE/CommunityServer)
