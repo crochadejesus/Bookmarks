@@ -185,6 +185,25 @@ Eight years later — still going strong!
 * [Windows Central](https://www.windowscentral.com/)
 * [The Register](https://www.theregister.co.uk/)
 * [Windows Developer Blog](https://blogs.windows.com/buildingapps/#W4zCY3Dbvgq9OAJr.97)
+* [Revista PROGRAMAR | A revista portuguesa de programação](https://www.revista-programar.info/)
+
+## Portugal News
+* [Agencia Europa Press - PortalTIC](http://m.europapress.es/portaltic/)
+* [Correio da Manhã](http://www.cmjornal.pt/)
+* [Diário de Notícias](https://www.dn.pt/)
+* [Dinheiro Vivo](https://www.dinheirovivo.pt/)
+* [DN Insider](http://insider.dn.pt/)
+* [Jornais Portugal - Todos Os Jornais Portugueses](http://www.prensaescrita.com/portugal.php)
+* [Jornal de Notícias](https://www.jn.pt/)
+* [Negócios](http://www.jornaldenegocios.pt/)
+* [O Jornal Económico](http://www.jornaleconomico.sapo.pt/)
+* [Observador](https://observador.pt/)
+* [PÚBLICO](https://www.publico.pt/)
+
+## Brasil News
+* [InfoMoney](http://www.infomoney.com.br/)
+* [Valor Econômico](https://www.valor.com.br/)
+* [Meio & Mensagem](http://www.meioemensagem.com.br/)
 
 ## Hosting
 * [Contabo.com](https://contabo.com/)
