@@ -118,6 +118,7 @@ Eight years later — still going strong!
 * [Autosize](http://www.jacklmoore.com/autosize/) -- A small, stand-alone script to automatically adjust textarea height.
 * [Animate CSS](https://daneden.github.io/animate.css/) -- Just-add-water CSS animations
 * [Gauge](http://bernii.github.io/gauge.js/) -- 100% native and cool looking animated JavaScript/CoffeeScript
+* [jQuery House] (https://jqueryhouse.com/)
 
 ### Chart
 * [24 JavaScript Libraries for Creating Beautiful Charts](https://www.sitepoint.com/15-best-javascript-charting-libraries/)
