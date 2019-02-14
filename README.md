@@ -11,6 +11,16 @@
 * [ASP.NET Core 2.2 MVC File Upload with MS SQL SERVER FileTable](https://damienbod.com/2015/12/05/asp-net-5-mvc-6-file-upload-with-ms-sql-server-filetable/)
 * [Uploading Files In ASP.net Core](https://dotnetcoretutorials.com/2017/03/12/uploading-files-asp-net-core)
 
+### Authorization
+* [Overview of ASP.NET Core Security] (https://docs.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-2.2)
+* [Introduction to Authentication with ASP.NET Core] (https://andrewlock.net/introduction-to-authentication-with-asp-net-core/)
+* [Building an ASP.NET Web API with ASP.NET Core] (https://www.toptal.com/asp-dot-net/asp-net-web-api-tutorial)
+* [Securing ASP.NET Core 2.0 Applications with JWTs] (https://auth0.com/blog/securing-asp-dot-net-core-2-applications-with-jwts/)
+* [Developing Web Apps with ASP.NET Core 2.0 and React - Part 1] (https://auth0.com/blog/developing-web-apps-with-asp-dot-net-core-2-dot-0-and-react-part-1/)
+* [ASP.NET Core Web API v2.0: Authorization] (https://auth0.com/docs/quickstart/backend/aspnet-core-webapi/01-authorization)
+* [] ()
+* [] ()
+
 ### Help
 * [Using jQuery Unobtrusive AJAX in ASP.NET Core Razor Pages](https://www.learnrazorpages.com/razor-pages/ajax/unobtrusive-ajax)
 * [Submiting form using AjaxBeginForm with Tag Helpers](https://stackoverflow.com/questions/35202804/submitting-a-razor-form-using-jquery-ajax-in-mvc6-using-the-built-in-functionali)
@@ -85,6 +95,12 @@ to your HTML tables the free & easy way
 * [Algolia](https://community.algolia.com/places/) -- Turn any <input> into an address autocomplete
 * [Draggable](https://shopify.github.io/draggable/) -- a lightweight, responsive, modern drag & drop library
 * [Card](https://github.com/jessepollak/card) -- A better credit card form in one line of code
+
+### Select
+* [Select2] (https://select2.org/)
+* [Selectize] (https://selectize.github.io/selectize.js/)
+* [bootstrap-select] (https://developer.snapappointments.com/bootstrap-select/)
+* [Chosen] (https://harvesthq.github.io/chosen/)
 
 ### Image Manipulation
 * [Fancybox Lightbox Image](http://fancyapps.com/fancybox/3/) -- JavaScript lightbox library for presenting various types of media. 
