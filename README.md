@@ -12,8 +12,9 @@
 * [Uploading Files In ASP.net Core](https://dotnetcoretutorials.com/2017/03/12/uploading-files-asp-net-core)
 
 ### Authorization
-* [Overview of ASP.NET Core Security] (https://docs.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-2.2)
 * [Introduction to Authentication with ASP.NET Core] (https://andrewlock.net/introduction-to-authentication-with-asp-net-core/)
+* [Exploring the cookie authentication middleware in ASP.NET Core] (https://andrewlock.net/exploring-the-cookieauthenticationmiddleware-in-asp-net-core/)
+* [Overview of ASP.NET Core Security] (https://docs.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-2.2)
 * [Building an ASP.NET Web API with ASP.NET Core] (https://www.toptal.com/asp-dot-net/asp-net-web-api-tutorial)
 * [Securing ASP.NET Core 2.0 Applications with JWTs] (https://auth0.com/blog/securing-asp-dot-net-core-2-applications-with-jwts/)
 * [Developing Web Apps with ASP.NET Core 2.0 and React - Part 1] (https://auth0.com/blog/developing-web-apps-with-asp-dot-net-core-2-dot-0-and-react-part-1/)
