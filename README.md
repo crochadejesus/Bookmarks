@@ -19,8 +19,6 @@
 * [Securing ASP.NET Core 2.0 Applications with JWTs] (https://auth0.com/blog/securing-asp-dot-net-core-2-applications-with-jwts/)
 * [Developing Web Apps with ASP.NET Core 2.0 and React - Part 1] (https://auth0.com/blog/developing-web-apps-with-asp-dot-net-core-2-dot-0-and-react-part-1/)
 * [ASP.NET Core Web API v2.0: Authorization] (https://auth0.com/docs/quickstart/backend/aspnet-core-webapi/01-authorization)
-* [] ()
-* [] ()
 
 ### Help
 * [Using jQuery Unobtrusive AJAX in ASP.NET Core Razor Pages](https://www.learnrazorpages.com/razor-pages/ajax/unobtrusive-ajax)
@@ -74,7 +72,7 @@
 * [Piranha CMS](http://piranhacms.org/)
 * [Orchard CMS](https://orchardproject.net/)
 
-
+-------------------------------------------------------------------------------------------------
 ## Javascript
 * [Javacripting](https://www.javascripting.com/?sort=rating) -- The definitive source of the best 
 JavaScript libraries, frameworks, and plugins.
@@ -134,13 +132,19 @@ Eight years later — still going strong!
 * [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
 * [Awesome Javascript Frameworks](https://github.com/uhub/awesome-javascript)
 
+
+-------------------------------------------------------------------------------------------------
 ## HTML
 ### Reference
 * [MDN](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
+* [HTML Reference](https://htmlreference.io/)
 
+
+-------------------------------------------------------------------------------------------------
 ## CSS
 ### Reference
 * [MDN](https://developer.mozilla.org/en-US/docs/Glossary/CSS)
+* [CSS Reference](https://cssreference.io/)
 
 ### Library
 * [Vivify](https://github.com/Martz90/vivify) -- Vivify is free CSS animation library.
