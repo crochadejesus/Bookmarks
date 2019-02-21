@@ -33,6 +33,9 @@
 * [Awesome DotNet](https://github.com/quozd/awesome-dotnet)
 * [Awesome VSCode](https://github.com/viatsko/awesome-vscode)
 
+### Validation
+* [Fluent Validation](https://fluentvalidation.net/)
+
 ## NoSQL
 * [Apache CouchDB](http://couchdb.apache.org/)
 * [Introduction to CouchDB with .NET](https://dotnetcodr.com/2017/05/15/introduction-to-couchdb-with-net-part-1-foundations-and-setup/)
