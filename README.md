@@ -244,6 +244,7 @@ Eight years later — still going strong!
 * [Virtualmin](http://www.webmin.com/virtualmin.html)
 * [Webmin](http://www.webmin.com/index.html)
 * [ISPConfig](https://www.ispconfig.org/)
+* [Skeleton for Debian init script ](https://gist.github.com/naholyr/4275302)
 
 ## Radio
 * [BBC Radio 1](https://www.bbc.co.uk/radio1)
