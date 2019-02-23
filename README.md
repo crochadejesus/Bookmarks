@@ -246,6 +246,7 @@ Eight years later — still going strong!
 * [ISPConfig](https://www.ispconfig.org/)
 * [Skeleton for Debian init script ](https://gist.github.com/naholyr/4275302)
 * [Example syntax for Secure Copy (scp)](http://www.hypexr.org/linux_scp_help.php)
++ [Nginx Packages](https://nginx.org/en/linux_packages.html)
 
 ## Radio
 * [BBC Radio 1](https://www.bbc.co.uk/radio1)
