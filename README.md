@@ -87,6 +87,7 @@ JavaScript libraries, frameworks, and plugins.
 * [How to build reliable objects with factory functions in JavaScript](https://medium.freecodecamp.org/how-to-build-reliable-objects-with-factory-functions-in-javascript-9ec1c089ea6f)
 * [Class vs Factory function: exploring the way forward](https://medium.freecodecamp.org/class-vs-factory-function-exploring-the-way-forward-73258b6a8d15)
 * [Make your code easier to read with Functional Programming](https://medium.freecodecamp.org/make-your-code-easier-to-read-with-functional-programming-94fb8cc69f9d)
+* [How to create fluent interfaces the easy way with vanilla JavaScript](https://medium.com/lambda-school-students/how-to-create-fluent-interfaces-the-easy-way-with-vanilla-javascript-2a61b6558f01)
 
 ### How To
 * [W3Schools How To](https://www.w3schools.com/howto/howto_js_lightbox.asp)
