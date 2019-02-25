@@ -47,6 +47,10 @@
 * [Thinking in Documents: Part 1](https://www.mongodb.com/blog/post/thinking-documents-part-1)
 * [Principles for Modeling CouchDB Documents](https://stackoverflow.com/questions/1530745/principles-for-modeling-couchdb-documents?rq=1)
 
+## Host
+* [Host ASP.NET Core on Linux with Nginx](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-nginx?view=aspnetcore-2.2)
+* [How to host ASP.NET Core on Linux using Nginx?](https://medium.com/@setu677/how-to-host-asp-net-core-on-linux-using-nginx-85339560e929)
+
 ### MyCouch
 * [MyCouch Github](https://github.com/danielwertheim/MyCouch)
 * [MyCouch MyCouchClient Code Examples](https://csharp.hotexamples.com/examples/MyCouch/MyCouchClient/-/php-mycouchclient-class-examples.html)
@@ -248,7 +252,9 @@ Eight years later — still going strong!
 * [ISPConfig](https://www.ispconfig.org/)
 * [Skeleton for Debian init script ](https://gist.github.com/naholyr/4275302)
 * [Example syntax for Secure Copy (scp)](http://www.hypexr.org/linux_scp_help.php)
-+ [Nginx Packages](https://nginx.org/en/linux_packages.html)
+* [Nginx Packages](https://nginx.org/en/linux_packages.html)
+* [How to Configure NGINX](https://www.linode.com/docs/web-servers/nginx/how-to-configure-nginx/)
+* [NMap Online](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap#)
 
 ## Radio
 * [BBC Radio 1](https://www.bbc.co.uk/radio1)
