@@ -217,6 +217,7 @@ Eight years later — still going strong!
 * [The Register](https://www.theregister.co.uk/)
 * [Windows Developer Blog](https://blogs.windows.com/buildingapps/#W4zCY3Dbvgq9OAJr.97)
 * [Revista PROGRAMAR | A revista portuguesa de programação](https://www.revista-programar.info/)
+* [Simple Talk](https://www.red-gate.com/simple-talk/dotnet/)
 
 ## Portugal News
 * [Agencia Europa Press - PortalTIC](http://m.europapress.es/portaltic/)
