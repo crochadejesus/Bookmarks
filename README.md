@@ -152,6 +152,7 @@ Eight years later — still going strong!
 ### Reference
 * [MDN](https://developer.mozilla.org/en-US/docs/Glossary/CSS)
 * [CSS Reference](https://cssreference.io/)
+* [Bit Degree](https://www.bitdegree.org/learn/css-basics)
 
 ### Library
 * [Vivify](https://github.com/Martz90/vivify) -- Vivify is free CSS animation library.
