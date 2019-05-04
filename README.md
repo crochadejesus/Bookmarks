@@ -111,10 +111,10 @@ to your HTML tables the free & easy way
 * [Card](https://github.com/jessepollak/card) -- A better credit card form in one line of code
 
 ### Select
-* [Select2] (https://select2.org/)
-* [Selectize] (https://selectize.github.io/selectize.js/)
-* [bootstrap-select] (https://developer.snapappointments.com/bootstrap-select/)
-* [Chosen] (https://harvesthq.github.io/chosen/)
+* [Select2](https://select2.org/)
+* [Selectize](https://selectize.github.io/selectize.js/)
+* [bootstrap-select](https://developer.snapappointments.com/bootstrap-select/)
+* [Chosen](https://harvesthq.github.io/chosen/)
 
 ### Image Manipulation
 * [Fancybox Lightbox Image](http://fancyapps.com/fancybox/3/) -- JavaScript lightbox library for presenting various types of media. 
@@ -132,7 +132,7 @@ Eight years later — still going strong!
 * [Autosize](http://www.jacklmoore.com/autosize/) -- A small, stand-alone script to automatically adjust textarea height.
 * [Animate CSS](https://daneden.github.io/animate.css/) -- Just-add-water CSS animations
 * [Gauge](http://bernii.github.io/gauge.js/) -- 100% native and cool looking animated JavaScript/CoffeeScript
-* [jQuery House] (https://jqueryhouse.com/)
+* [jQuery House](https://jqueryhouse.com/)
 
 ### Chart
 * [24 JavaScript Libraries for Creating Beautiful Charts](https://www.sitepoint.com/15-best-javascript-charting-libraries/)
