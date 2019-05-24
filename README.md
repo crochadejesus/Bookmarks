@@ -205,9 +205,40 @@ Eight years later — still going strong!
 * [QuickType](https://quicktype.io/) -- Instantly generate C# models and helper methods from JSON.
 * [Material Design Icons](https://material.io/tools/icons/?style=baseline)
 
+## Hosting
+* [Contabo.com](https://contabo.com/)
+* [SmarterASP.net](http://www.smarterasp.net/)
+* [Cloudways SSD Hosting](https://www.cloudways.com/en/ssd-cloud-hosting.php)
+* [Ionblade - SSD Hosting](https://ionblade.com/ssd-hosting)
+* [Hosting Advice](https://www.hostingadvice.com)
+* [Arsys](https://www.arsys.pt/servidores/vps)
+
+## Infrastructure
+* [Tutorial Debian 9: ISPConfig com NginX e Múltiplas Versões do PHP](https://fatorbinario.com/tutorial-debian-9-stretch-com-ispconfig-nginx-e-multiplas-versoes-do-php/)
+* [Tutorial Webmin com Nginx, Firewall, Postfix e phpMyAdmin](https://fatorbinario.com/tutorial-webmin-com-nginx-firewall-postfix-e-phpmyadmin/)
+* [Virtualmin](http://www.webmin.com/virtualmin.html)
+* [Webmin](http://www.webmin.com/index.html)
+* [ISPConfig](https://www.ispconfig.org/)
+* [Skeleton for Debian init script ](https://gist.github.com/naholyr/4275302)
+* [Example syntax for Secure Copy (scp)](http://www.hypexr.org/linux_scp_help.php)
+* [Nginx Packages](https://nginx.org/en/linux_packages.html)
+* [How to Configure NGINX](https://www.linode.com/docs/web-servers/nginx/how-to-configure-nginx/)
+* [NMap Online](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap#)
+
 ## Training
 * [Class Central](http://www.class-central.com) -- Class Central is a search engine and reviews site for free online courses popularly known as MOOCs or Massive Open Online Courses.
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+
+## Linux Computers
+* [TUXEDO Computers](https://www.tuxedocomputers.com/en#)
+* [Vikings](https://store.vikings.net/libre-friendly-hardware)
+* [Ubuntushop.be](https://www.ubuntushop.be/index.php/en/)
+* [System76](https://system76.com/)
+* [Purism](https://puri.sm/)
+* [Slimbook](https://slimbook.es/en/)
+* [Minifree](https://minifree.org/)
+* [Entroware](https://www.entroware.com/store/index.php?route=common/home)
+* [Juno Computers](https://junocomputers.com/)
 
 ## IT News
 * [Channel 9](https://channel9.msdn.com/)
@@ -245,26 +276,6 @@ Eight years later — still going strong!
 * [InfoMoney](http://www.infomoney.com.br/)
 * [Valor Econômico](https://www.valor.com.br/)
 * [Meio & Mensagem](http://www.meioemensagem.com.br/)
-
-## Hosting
-* [Contabo.com](https://contabo.com/)
-* [SmarterASP.net](http://www.smarterasp.net/)
-* [Cloudways SSD Hosting](https://www.cloudways.com/en/ssd-cloud-hosting.php)
-* [Ionblade - SSD Hosting](https://ionblade.com/ssd-hosting)
-* [Hosting Advice](https://www.hostingadvice.com)
-* [Arsys](https://www.arsys.pt/servidores/vps)
-
-## Infrastructure
-* [Tutorial Debian 9: ISPConfig com NginX e Múltiplas Versões do PHP](https://fatorbinario.com/tutorial-debian-9-stretch-com-ispconfig-nginx-e-multiplas-versoes-do-php/)
-* [Tutorial Webmin com Nginx, Firewall, Postfix e phpMyAdmin](https://fatorbinario.com/tutorial-webmin-com-nginx-firewall-postfix-e-phpmyadmin/)
-* [Virtualmin](http://www.webmin.com/virtualmin.html)
-* [Webmin](http://www.webmin.com/index.html)
-* [ISPConfig](https://www.ispconfig.org/)
-* [Skeleton for Debian init script ](https://gist.github.com/naholyr/4275302)
-* [Example syntax for Secure Copy (scp)](http://www.hypexr.org/linux_scp_help.php)
-* [Nginx Packages](https://nginx.org/en/linux_packages.html)
-* [How to Configure NGINX](https://www.linode.com/docs/web-servers/nginx/how-to-configure-nginx/)
-* [NMap Online](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap#)
 
 ## Radio
 * [BBC Radio 1](https://www.bbc.co.uk/radio1)
