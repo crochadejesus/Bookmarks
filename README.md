@@ -233,12 +233,15 @@ Eight years later — still going strong!
 * [TUXEDO Computers](https://www.tuxedocomputers.com/en#)
 * [Vikings](https://store.vikings.net/libre-friendly-hardware)
 * [Ubuntushop.be](https://www.ubuntushop.be/index.php/en/)
+* [StationX Rocks](https://stationx.rocks/)
+* [StarLabs](https://starlabs.systems/)
 * [System76](https://system76.com/)
 * [Purism](https://puri.sm/)
 * [Slimbook](https://slimbook.es/en/)
 * [Minifree](https://minifree.org/)
 * [Entroware](https://www.entroware.com/store/index.php?route=common/home)
 * [Juno Computers](https://junocomputers.com/)
+* [Technoethical](https://tehnoetic.com/)
 
 ## IT News
 * [Channel 9](https://channel9.msdn.com/)
