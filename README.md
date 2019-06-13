@@ -24,7 +24,6 @@
 * [An introduction to Session storage in ASP.NET Core](https://andrewlock.net/an-introduction-to-session-storage-in-asp-net-core/)
 * [Why isn't my session state working in ASP.NET Core? Session state, GDPR, and non-essential cookies](https://andrewlock.net/session-state-gdpr-and-non-essential-cookies/)
 
-
 ### Help
 * [Using jQuery Unobtrusive AJAX in ASP.NET Core Razor Pages](https://www.learnrazorpages.com/razor-pages/ajax/unobtrusive-ajax)
 * [jQuery Unobtrusive Ajax Helpers in ASP.NET Core](https://dotnetthoughts.net/jquery-unobtrusive-ajax-helpers-in-aspnet-core/)
@@ -42,32 +41,13 @@
 ### Validation
 * [Fluent Validation](https://fluentvalidation.net/)
 
-## NoSQL
-* [Apache CouchDB](http://couchdb.apache.org/)
-* [Introduction to CouchDB with .NET](https://dotnetcodr.com/2017/05/15/introduction-to-couchdb-with-net-part-1-foundations-and-setup/)
-* [Three Reasons To Use a NoSQL Document Store for Your Next Web Application](https://medium.com/statuscode/three-reasons-to-use-a-nosql-document-store-for-your-next-web-application-6b9eabffc8d8)
-* [Three Traps To Avoid When Using a NoSQL Document Store](https://medium.com/statuscode/three-traps-to-avoid-when-using-a-nosql-document-store-12f9e83fd223)
-* [NOSQL DATA MODELING TECHNIQUES](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
-* [Data Modeling Guidelines for NoSQL JSON Document Databases](https://mapr.com/blog/data-modeling-guidelines-nosql-json-document-databases/)
-* [Couchbase and the Document-Oriented NoSQL Database](https://blog.couchbase.com/couchbase-and-the-document-oriented-nosql-database/)
-* [Thinking in Documents: Part 1](https://www.mongodb.com/blog/post/thinking-documents-part-1)
-* [Principles for Modeling CouchDB Documents](https://stackoverflow.com/questions/1530745/principles-for-modeling-couchdb-documents?rq=1)
-
-## Host
-* [Host ASP.NET Core on Linux with Nginx](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-nginx?view=aspnetcore-2.2)
-* [How to host ASP.NET Core on Linux using Nginx?](https://medium.com/@setu677/how-to-host-asp-net-core-on-linux-using-nginx-85339560e929)
-
-### MyCouch
-* [MyCouch Github](https://github.com/danielwertheim/MyCouch)
-* [MyCouch MyCouchClient Code Examples](https://csharp.hotexamples.com/examples/MyCouch/MyCouchClient/-/php-mycouchclient-class-examples.html)
-* [MyCouch client configuration and usage](https://stackoverflow.com/questions/24796300/mycouch-client-configuration-and-usage)
-* [CouchDB Joins](https://www.cmlenz.net/archives/2007/10/couchdb-joins)
-* [Get up and running with CouchDb and CSharp using MyCouch on Windows](https://danielwertheim.se/get-up-and-running-with-couchdb-and-c-using-mycouch-on-windows/)
-* [How to pass two parameter values to couchdb views?](https://stackoverflow.com/questions/5742079/how-to-pass-two-parameter-values-to-couchdb-views#28884350)
-* [Multiple key search in CouchDB](https://stackoverflow.com/questions/10820579/multiple-key-search-in-couchdb)
-* [CouchDB View with 2 Keys](https://stackoverflow.com/questions/10887359/couchdb-view-with-2-keys)
-* [CouchDB Query View with Multiple Keys Formatting](https://stackoverflow.com/questions/16763306/couchdb-query-view-with-multiple-keys-formatting)
-* [Multiple Search Keys in CouchDB](https://lornajane.net/posts/2017/multiple-search-keys-in-couchdb) - Lornajane
+### Email
+* [How to Send Email using .NET Core](https://benjii.me/2017/02/send-email-using-asp-net-core/)
+* [Sending email in .NET Core with FluentEmail](https://lukencode.com/2018/07/01/send-email-in-dotnet-core-with-fluent-email/)
+* [FluentEmail](https://github.com/lukencode/FluentEmail)
+* [Learn How To Send Mail-In ASP.NET CORE MVC using MailKit](https://monkelite.com/learn-how-to-send-mail-in-asp-net-core-mvc-using-mailkit/)
+* [How to Send Emails from ASP.NET Core](https://dotnetthoughts.net/how-to-send-emails-from-aspnet-core/)
+* [ASP.NET CORE: Sending Email with Gmail and Homtail Account using ASP.NET Core services](https://hassantariqblog.wordpress.com/2017/03/20/asp-net-core-sending-email-with-gmail-account-using-asp-net-core-services/)
 
 ### Datatable
 * [MVC6.Grid](http://mvc6-grid.azurewebsites.net/) - Grid controls for ASP.NET Core projects
@@ -85,6 +65,32 @@
 * [Piranha CMS](http://piranhacms.org/)
 * [Orchard CMS](https://orchardproject.net/)
 
+## NoSQL
+* [Apache CouchDB](http://couchdb.apache.org/)
+* [Introduction to CouchDB with .NET](https://dotnetcodr.com/2017/05/15/introduction-to-couchdb-with-net-part-1-foundations-and-setup/)
+* [Three Reasons To Use a NoSQL Document Store for Your Next Web Application](https://medium.com/statuscode/three-reasons-to-use-a-nosql-document-store-for-your-next-web-application-6b9eabffc8d8)
+* [Three Traps To Avoid When Using a NoSQL Document Store](https://medium.com/statuscode/three-traps-to-avoid-when-using-a-nosql-document-store-12f9e83fd223)
+* [NOSQL DATA MODELING TECHNIQUES](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
+* [Data Modeling Guidelines for NoSQL JSON Document Databases](https://mapr.com/blog/data-modeling-guidelines-nosql-json-document-databases/)
+* [Couchbase and the Document-Oriented NoSQL Database](https://blog.couchbase.com/couchbase-and-the-document-oriented-nosql-database/)
+* [Thinking in Documents: Part 1](https://www.mongodb.com/blog/post/thinking-documents-part-1)
+* [Principles for Modeling CouchDB Documents](https://stackoverflow.com/questions/1530745/principles-for-modeling-couchdb-documents?rq=1)
+
+### MyCouch
+* [MyCouch Github](https://github.com/danielwertheim/MyCouch)
+* [MyCouch MyCouchClient Code Examples](https://csharp.hotexamples.com/examples/MyCouch/MyCouchClient/-/php-mycouchclient-class-examples.html)
+* [MyCouch client configuration and usage](https://stackoverflow.com/questions/24796300/mycouch-client-configuration-and-usage)
+* [CouchDB Joins](https://www.cmlenz.net/archives/2007/10/couchdb-joins)
+* [Get up and running with CouchDb and CSharp using MyCouch on Windows](https://danielwertheim.se/get-up-and-running-with-couchdb-and-c-using-mycouch-on-windows/)
+* [How to pass two parameter values to couchdb views?](https://stackoverflow.com/questions/5742079/how-to-pass-two-parameter-values-to-couchdb-views#28884350)
+* [Multiple key search in CouchDB](https://stackoverflow.com/questions/10820579/multiple-key-search-in-couchdb)
+* [CouchDB View with 2 Keys](https://stackoverflow.com/questions/10887359/couchdb-view-with-2-keys)
+* [CouchDB Query View with Multiple Keys Formatting](https://stackoverflow.com/questions/16763306/couchdb-query-view-with-multiple-keys-formatting)
+* [Multiple Search Keys in CouchDB](https://lornajane.net/posts/2017/multiple-search-keys-in-couchdb) - Lornajane
+
+## Host
+* [Host ASP.NET Core on Linux with Nginx](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-nginx?view=aspnetcore-2.2)
+* [How to host ASP.NET Core on Linux using Nginx?](https://medium.com/@setu677/how-to-host-asp-net-core-on-linux-using-nginx-85339560e929)
 
 ## Javascript
 * [Javacripting](https://www.javascripting.com/?sort=rating) -- The definitive source of the best 
