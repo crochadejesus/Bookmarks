@@ -24,6 +24,18 @@
 * [An introduction to Session storage in ASP.NET Core](https://andrewlock.net/an-introduction-to-session-storage-in-asp-net-core/)
 * [Why isn't my session state working in ASP.NET Core? Session state, GDPR, and non-essential cookies](https://andrewlock.net/session-state-gdpr-and-non-essential-cookies/)
 
+### MyCouch
+* [MyCouch Github](https://github.com/danielwertheim/MyCouch)
+* [MyCouch MyCouchClient Code Examples](https://csharp.hotexamples.com/examples/MyCouch/MyCouchClient/-/php-mycouchclient-class-examples.html)
+* [MyCouch client configuration and usage](https://stackoverflow.com/questions/24796300/mycouch-client-configuration-and-usage)
+* [CouchDB Joins](https://www.cmlenz.net/archives/2007/10/couchdb-joins)
+* [Get up and running with CouchDb and CSharp using MyCouch on Windows](https://danielwertheim.se/get-up-and-running-with-couchdb-and-c-using-mycouch-on-windows/)
+* [How to pass two parameter values to couchdb views?](https://stackoverflow.com/questions/5742079/how-to-pass-two-parameter-values-to-couchdb-views#28884350)
+* [Multiple key search in CouchDB](https://stackoverflow.com/questions/10820579/multiple-key-search-in-couchdb)
+* [CouchDB View with 2 Keys](https://stackoverflow.com/questions/10887359/couchdb-view-with-2-keys)
+* [CouchDB Query View with Multiple Keys Formatting](https://stackoverflow.com/questions/16763306/couchdb-query-view-with-multiple-keys-formatting)
+* [Multiple Search Keys in CouchDB](https://lornajane.net/posts/2017/multiple-search-keys-in-couchdb) - Lornajane
+
 ### Help
 * [Using jQuery Unobtrusive AJAX in ASP.NET Core Razor Pages](https://www.learnrazorpages.com/razor-pages/ajax/unobtrusive-ajax)
 * [jQuery Unobtrusive Ajax Helpers in ASP.NET Core](https://dotnetthoughts.net/jquery-unobtrusive-ajax-helpers-in-aspnet-core/)
@@ -75,18 +87,6 @@
 * [Couchbase and the Document-Oriented NoSQL Database](https://blog.couchbase.com/couchbase-and-the-document-oriented-nosql-database/)
 * [Thinking in Documents: Part 1](https://www.mongodb.com/blog/post/thinking-documents-part-1)
 * [Principles for Modeling CouchDB Documents](https://stackoverflow.com/questions/1530745/principles-for-modeling-couchdb-documents?rq=1)
-
-### MyCouch
-* [MyCouch Github](https://github.com/danielwertheim/MyCouch)
-* [MyCouch MyCouchClient Code Examples](https://csharp.hotexamples.com/examples/MyCouch/MyCouchClient/-/php-mycouchclient-class-examples.html)
-* [MyCouch client configuration and usage](https://stackoverflow.com/questions/24796300/mycouch-client-configuration-and-usage)
-* [CouchDB Joins](https://www.cmlenz.net/archives/2007/10/couchdb-joins)
-* [Get up and running with CouchDb and CSharp using MyCouch on Windows](https://danielwertheim.se/get-up-and-running-with-couchdb-and-c-using-mycouch-on-windows/)
-* [How to pass two parameter values to couchdb views?](https://stackoverflow.com/questions/5742079/how-to-pass-two-parameter-values-to-couchdb-views#28884350)
-* [Multiple key search in CouchDB](https://stackoverflow.com/questions/10820579/multiple-key-search-in-couchdb)
-* [CouchDB View with 2 Keys](https://stackoverflow.com/questions/10887359/couchdb-view-with-2-keys)
-* [CouchDB Query View with Multiple Keys Formatting](https://stackoverflow.com/questions/16763306/couchdb-query-view-with-multiple-keys-formatting)
-* [Multiple Search Keys in CouchDB](https://lornajane.net/posts/2017/multiple-search-keys-in-couchdb) - Lornajane
 
 ## Host
 * [Host ASP.NET Core on Linux with Nginx](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-nginx?view=aspnetcore-2.2)
