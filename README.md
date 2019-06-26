@@ -268,6 +268,7 @@ Eight years later — still going strong!
 * [Windows Developer Blog](https://blogs.windows.com/buildingapps/#W4zCY3Dbvgq9OAJr.97)
 * [Revista PROGRAMAR | A revista portuguesa de programação](https://www.revista-programar.info/)
 * [Simple Talk](https://www.red-gate.com/simple-talk/dotnet/)
+* [Neowin](https://www.neowin.net/)
 
 ## Portugal News
 * [Agencia Europa Press - PortalTIC](http://m.europapress.es/portaltic/)
@@ -281,6 +282,9 @@ Eight years later — still going strong!
 * [O Jornal Económico](http://www.jornaleconomico.sapo.pt/)
 * [Observador](https://observador.pt/)
 * [PÚBLICO](https://www.publico.pt/)
+
+## Car news
+* [Razão Automóvel](https://www.razaoautomovel.com/)
 
 ## Brasil News
 * [InfoMoney](http://www.infomoney.com.br/)
