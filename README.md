@@ -251,6 +251,9 @@ Eight years later — still going strong!
 * [Technoethical](https://tehnoetic.com/)
 
 ## IT News
+* [4gnews](https://4gnews.pt/)
+* [It's FOSS](https://itsfoss.com)
+* [Leak](https://www.leak.pt/)
 * [Channel 9](https://channel9.msdn.com/)
 * [DEV Community](https://dev.to/)
 * [Flipboard](https://flipboard.com/)
