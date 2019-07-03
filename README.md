@@ -36,7 +36,7 @@
 * [CouchDB Query View with Multiple Keys Formatting](https://stackoverflow.com/questions/16763306/couchdb-query-view-with-multiple-keys-formatting)
 * [Multiple Search Keys in CouchDB](https://lornajane.net/posts/2017/multiple-search-keys-in-couchdb) - Lornajane
 
-### Help
+### Ajax.BeginForm
 * [Using jQuery Unobtrusive AJAX in ASP.NET Core Razor Pages](https://www.learnrazorpages.com/razor-pages/ajax/unobtrusive-ajax)
 * [jQuery Unobtrusive Ajax Helpers in ASP.NET Core](https://dotnetthoughts.net/jquery-unobtrusive-ajax-helpers-in-aspnet-core/)
 * [Submiting form using AjaxBeginForm with Tag Helpers](https://stackoverflow.com/questions/35202804/submitting-a-razor-form-using-jquery-ajax-in-mvc6-using-the-built-in-functionali)
