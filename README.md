@@ -93,6 +93,7 @@
 * [How to host ASP.NET Core on Linux using Nginx?](https://medium.com/@setu677/how-to-host-asp-net-core-on-linux-using-nginx-85339560e929)
 
 ## Javascript
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 * [Javacripting](https://www.javascripting.com/?sort=rating) -- The definitive source of the best 
 JavaScript libraries, frameworks, and plugins.
 
