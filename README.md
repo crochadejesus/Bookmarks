@@ -105,6 +105,7 @@ JavaScript libraries, frameworks, and plugins.
 * [Make your code easier to read with Functional Programming](https://medium.freecodecamp.org/make-your-code-easier-to-read-with-functional-programming-94fb8cc69f9d)
 * [How to create fluent interfaces the easy way with vanilla JavaScript](https://medium.com/lambda-school-students/how-to-create-fluent-interfaces-the-easy-way-with-vanilla-javascript-2a61b6558f01)
 * [How to build reliable objects with factory functions in JavaScript](https://medium.freecodecamp.org/how-to-build-reliable-objects-with-factory-functions-in-javascript-9ec1c089ea6f)
+* [How to increase your frontend app’s performance — 5 coding tips](https://itnext.io/how-to-increase-your-frontend-apps-performance-5-coding-tips-d92a56ca9c24)
 
 ### How To
 * [W3Schools How To](https://www.w3schools.com/howto/howto_js_lightbox.asp)
