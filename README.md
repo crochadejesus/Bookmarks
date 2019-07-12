@@ -24,6 +24,10 @@
 * [An introduction to Session storage in ASP.NET Core](https://andrewlock.net/an-introduction-to-session-storage-in-asp-net-core/)
 * [Why isn't my session state working in ASP.NET Core? Session state, GDPR, and non-essential cookies](https://andrewlock.net/session-state-gdpr-and-non-essential-cookies/)
 
+### Clean Architeture
+* [Clean Architecture with ASP.NET Core 2.1](https://www.youtube.com/watch?v=_lwCVE_XgqI&feature=youtu.be)
+* [JasonGT/NorthwindTraders](https://github.com/JasonGT/NorthwindTraders)
+
 ### MyCouch
 * [MyCouch Github](https://github.com/danielwertheim/MyCouch)
 * [MyCouch MyCouchClient Code Examples](https://csharp.hotexamples.com/examples/MyCouch/MyCouchClient/-/php-mycouchclient-class-examples.html)
