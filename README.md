@@ -11,7 +11,13 @@
 * [ASP.NET Core 2.2 MVC File Upload with MS SQL SERVER FileTable](https://damienbod.com/2015/12/05/asp-net-5-mvc-6-file-upload-with-ms-sql-server-filetable/)
 * [Uploading Files In ASP.net Core](https://dotnetcoretutorials.com/2017/03/12/uploading-files-asp-net-core)
 
-### Authorization
+### Authentication
+* [ASP.NET Core 2.2 - Simple API for Authentication, Registration and User Management](https://jasonwatmore.com/post/2018/06/26/aspnet-core-21-simple-api-for-authentication-registration-and-user-management)
+* [ASP.NET Core 2.2 - JWT Authentication Tutorial with Example API](https://jasonwatmore.com/post/2018/08/14/aspnet-core-21-jwt-authentication-tutorial-with-example-api)
+* [ASP.NET Core 2.2 - Basic Authentication Tutorial with Example API](https://jasonwatmore.com/post/2018/09/08/aspnet-core-21-basic-authentication-tutorial-with-example-api)
+* [.NET Core LDAP authentication](https://nicolas.guelpa.me/blog/2017/02/15/dotnet-core-ldap-authentication.html)
+* [.NET Core LDAP](https://long2know.com/2017/06/net-core-ldap/)
+* [Authenticating against Active Directory with ASP.Net Core 2 and managing users](https://www.brechtbaekelandt.net/blog/post/authenticating-against-active-directory-with-aspnet-core-2-and-managing-users?searchTerms=asp.net&searchTerms=core&)
 * [Introduction to Authentication with ASP.NET Core](https://andrewlock.net/introduction-to-authentication-with-asp-net-core/)
 * [Exploring the cookie authentication middleware in ASP.NET Core](https://andrewlock.net/exploring-the-cookieauthenticationmiddleware-in-asp-net-core/)
 * [Overview of ASP.NET Core Security](https://docs.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-2.2)
@@ -23,6 +29,7 @@
 ### Session
 * [An introduction to Session storage in ASP.NET Core](https://andrewlock.net/an-introduction-to-session-storage-in-asp-net-core/)
 * [Why isn't my session state working in ASP.NET Core? Session state, GDPR, and non-essential cookies](https://andrewlock.net/session-state-gdpr-and-non-essential-cookies/)
+* [State Management in ASP.NET Core MVC](https://code-maze.com/state-management-in-asp-net-core-mvc/)
 
 ### Clean Architeture
 * [Clean Architecture with ASP.NET Core 2.1](https://www.youtube.com/watch?v=_lwCVE_XgqI&feature=youtu.be)
