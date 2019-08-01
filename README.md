@@ -302,6 +302,7 @@ Eight years later — still going strong!
 
 ## Car news
 * [Razão Automóvel](https://www.razaoautomovel.com/)
+* [Auto Sport](https://www.autosport.pt)
 
 ## Brasil News
 * [InfoMoney](http://www.infomoney.com.br/)
