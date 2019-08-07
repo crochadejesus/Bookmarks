@@ -343,6 +343,7 @@ Eight years later — still going strong!
 * [Flexpro Sistemas](https://flexpro.com.br/simob/locacao)
 * [imoGestão - Sistema de Gestão para Corretores e Imobiliárias](https://www.imogestao.com.br/)
 * [SEGIM - Sistema Imobiliário](https://www.segim.com.br/)
+* [eGO Real Estate](http://www.egorealestate.com/)
 
 ## Cosmetics
 * [Multi Vegetal - Fitocosméticos com plantas medicinais](https://www.multivegetal.com/)
