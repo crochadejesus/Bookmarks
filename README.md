@@ -89,6 +89,12 @@
 * [Piranha CMS](http://piranhacms.org/)
 * [Orchard CMS](https://orchardproject.net/)
 
+### API
+* [API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+* [OpenAPI.Tools](https://openapi.tools/#)
+* [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
+* [JSON:API](https://jsonapi.org/)
+
 ## NoSQL
 * [Apache CouchDB](http://couchdb.apache.org/)
 * [Introduction to CouchDB with .NET](https://dotnetcodr.com/2017/05/15/introduction-to-couchdb-with-net-part-1-foundations-and-setup/)
