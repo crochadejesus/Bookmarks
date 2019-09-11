@@ -143,6 +143,7 @@ to your HTML tables the free & easy way
 * [Chosen](https://harvesthq.github.io/chosen/)
 * [Selectr](https://github.com/Mobius1/Selectr)
 * [tail.select](https://github.com/pytesNET/tail.select)
+* [Choices](https://joshuajohnson.co.uk/Choices/)
 
 ### Image Manipulation
 * [Fancybox Lightbox Image](http://fancyapps.com/fancybox/3/) -- JavaScript lightbox library for presenting various types of media. 
