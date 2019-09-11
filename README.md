@@ -366,6 +366,7 @@ Eight years later — still going strong!
 * [UNU Rede Imobiliária - Imobiliária UNU](https://www.unu.pt/)
 * [ERA® Imobiliária - Portugal](https://www.era.pt/)
 * [Remax](https://www.remax.pt/)
+* [2Porcento](https://2porcento.pt/)
 * [Whitestar Properties](https://www.whitestarproperties.pt/)
 * [DAI - Mediação Imobiliária - Portugal](http://dai.pt/pt/)
 * [Franchisings de AGÊNCIAS IMOBILIÁRIAS](http://www.bestfranchising.pt/resultadobusqueda.aspx?idsubsector=27)
