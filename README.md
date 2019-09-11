@@ -141,6 +141,8 @@ to your HTML tables the free & easy way
 * [Selectize](https://selectize.github.io/selectize.js/)
 * [bootstrap-select](https://developer.snapappointments.com/bootstrap-select/)
 * [Chosen](https://harvesthq.github.io/chosen/)
+* [Selectr](https://github.com/Mobius1/Selectr)
+* [tail.select](https://github.com/pytesNET/tail.select)
 
 ### Image Manipulation
 * [Fancybox Lightbox Image](http://fancyapps.com/fancybox/3/) -- JavaScript lightbox library for presenting various types of media. 
