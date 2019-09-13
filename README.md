@@ -4,13 +4,6 @@
 ### .Net Core
 * [ASP.NET Core 2.2 Docs](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.2)
 
-### File Manipulation
-* [Uploading Files In ASP.net Core](https://dotnetcoretutorials.com/2017/03/12/uploading-files-asp-net-core)
-* [Upload/Download Files in ASP.NET Core 2.0](https://www.codeproject.com/Articles/1203408/Upload-Download-Files-in-ASP-NET-Core)
-* [File uploads in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/file-uploads?view=aspnetcore-2.2)
-* [ASP.NET Core 2.2 MVC File Upload with MS SQL SERVER FileTable](https://damienbod.com/2015/12/05/asp-net-5-mvc-6-file-upload-with-ms-sql-server-filetable/)
-* [Uploading Files In ASP.net Core](https://dotnetcoretutorials.com/2017/03/12/uploading-files-asp-net-core)
-
 ### Authentication
 * [ASP.NET Core 2.2 - Simple API for Authentication, Registration and User Management](https://jasonwatmore.com/post/2018/06/26/aspnet-core-21-simple-api-for-authentication-registration-and-user-management)
 * [ASP.NET Core 2.2 - JWT Authentication Tutorial with Example API](https://jasonwatmore.com/post/2018/08/14/aspnet-core-21-jwt-authentication-tutorial-with-example-api)
@@ -42,6 +35,13 @@
 * [Submiting form using AjaxBeginForm with Tag Helpers](https://stackoverflow.com/questions/35202804/submitting-a-razor-form-using-jquery-ajax-in-mvc6-using-the-built-in-functionali)
 * [Ajax.BeginForm In ASP.NET MVC 5](https://www.c-sharpcorner.com/UploadFile/0c1bb2/ajax-beginform-in-Asp-Net-mvc-5/)
 * [Creating Simple Cascading DropDownList In ASP.NET Core MVC With New Tag Helpers](https://www.c-sharpcorner.com/article/creating-simple-cascading-dropdownlist-in-asp-net-core-mvc-with-new-tag-helpers/)
+
+### File Manipulation
+* [Uploading Files In ASP.net Core](https://dotnetcoretutorials.com/2017/03/12/uploading-files-asp-net-core)
+* [Upload/Download Files in ASP.NET Core 2.0](https://www.codeproject.com/Articles/1203408/Upload-Download-Files-in-ASP-NET-Core)
+* [File uploads in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/file-uploads?view=aspnetcore-2.2)
+* [ASP.NET Core 2.2 MVC File Upload with MS SQL SERVER FileTable](https://damienbod.com/2015/12/05/asp-net-5-mvc-6-file-upload-with-ms-sql-server-filetable/)
+* [Uploading Files In ASP.net Core](https://dotnetcoretutorials.com/2017/03/12/uploading-files-asp-net-core)
 
 ### Awesome
 * [Awesome Clean Code DotNet](https://github.com/thangchung/clean-code-dotnet)
