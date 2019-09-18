@@ -304,6 +304,7 @@ Eight years later — still going strong!
 * [Neowin](https://www.neowin.net/)
 
 ## Portugal News
+* [Euronews](https://pt.euronews.com/)
 * [Agencia Europa Press - PortalTIC](http://m.europapress.es/portaltic/)
 * [Correio da Manhã](http://www.cmjornal.pt/)
 * [Diário de Notícias](https://www.dn.pt/)
