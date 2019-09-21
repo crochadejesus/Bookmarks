@@ -226,6 +226,7 @@ Eight years later — still going strong!
 * [Shards Dashboard Lite](https://designrevision.com/downloads/shards-dashboard-lite/)
 * [Sing App](https://flatlogic.github.io/sing-app/index.html)
 * [Sufee Admin](https://colorlib.com/polygon/sufee/forms-basic.html)
+* [CoreUI](https://coreui.io/demo/#)
 * [50+ Best Free Bootstrap 4 Templates 2018](https://cssauthor.com/bootstrap-templates)
 
 ## Markdown
