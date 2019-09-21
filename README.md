@@ -95,73 +95,72 @@
 * [Principles for Modeling CouchDB Documents](https://stackoverflow.com/questions/1530745/principles-for-modeling-couchdb-documents?rq=1)
 
 ### MyCouch
-* [MyCouch Github](https://github.com/danielwertheim/MyCouch)
-* [MyCouch MyCouchClient Code Examples](https://csharp.hotexamples.com/examples/MyCouch/MyCouchClient/-/php-mycouchclient-class-examples.html)
-* [MyCouch client configuration and usage](https://stackoverflow.com/questions/24796300/mycouch-client-configuration-and-usage)
 * [CouchDB Joins](https://www.cmlenz.net/archives/2007/10/couchdb-joins)
+* [CouchDB View with 2 Keys](https://stackoverflow.com/questions/10887359/couchdb-view-with-2-keys)
+* [CouchDB Query View with Multiple Keys Formatting](https://stackoverflow.com/questions/16763306/couchdb-query-view-with-multiple-keys-formatting)
 * [Get up and running with CouchDb and CSharp using MyCouch on Windows](https://danielwertheim.se/get-up-and-running-with-couchdb-and-c-using-mycouch-on-windows/)
 * [How to pass two parameter values to couchdb views?](https://stackoverflow.com/questions/5742079/how-to-pass-two-parameter-values-to-couchdb-views#28884350)
 * [Multiple key search in CouchDB](https://stackoverflow.com/questions/10820579/multiple-key-search-in-couchdb)
-* [CouchDB View with 2 Keys](https://stackoverflow.com/questions/10887359/couchdb-view-with-2-keys)
-* [CouchDB Query View with Multiple Keys Formatting](https://stackoverflow.com/questions/16763306/couchdb-query-view-with-multiple-keys-formatting)
 * [Multiple Search Keys in CouchDB](https://lornajane.net/posts/2017/multiple-search-keys-in-couchdb) - Lornajane
+* [MyCouch client configuration and usage](https://stackoverflow.com/questions/24796300/mycouch-client-configuration-and-usage)
+* [MyCouch Github](https://github.com/danielwertheim/MyCouch)
+* [MyCouch MyCouchClient Code Examples](https://csharp.hotexamples.com/examples/MyCouch/MyCouchClient/-/php-mycouchclient-class-examples.html)
 
 ## Host
 * [Host ASP.NET Core on Linux with Nginx](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-nginx?view=aspnetcore-2.2)
 * [How to host ASP.NET Core on Linux using Nginx?](https://medium.com/@setu677/how-to-host-asp-net-core-on-linux-using-nginx-85339560e929)
 
 ## Javascript
-* [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 * [Javacripting](https://www.javascripting.com/?sort=rating) -- The definitive source of the best 
 JavaScript libraries, frameworks, and plugins.
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
 
 ### Reference
-* [MDN](https://developer.mozilla.org/pt-PT/docs/Web/JavaScript)
 * [Best Of JS](https://bestofjs.org/) -- The best of JavaScript, HTML and CSS
-* [Why you should give the Closure function another chance](https://medium.freecodecamp.org/why-you-should-give-the-closure-function-another-chance-31253e44cfa0)
-* [How to build reliable objects with factory functions in JavaScript](https://medium.freecodecamp.org/how-to-build-reliable-objects-with-factory-functions-in-javascript-9ec1c089ea6f)
 * [Class vs Factory function: exploring the way forward](https://medium.freecodecamp.org/class-vs-factory-function-exploring-the-way-forward-73258b6a8d15)
-* [Make your code easier to read with Functional Programming](https://medium.freecodecamp.org/make-your-code-easier-to-read-with-functional-programming-94fb8cc69f9d)
 * [How to create fluent interfaces the easy way with vanilla JavaScript](https://medium.com/lambda-school-students/how-to-create-fluent-interfaces-the-easy-way-with-vanilla-javascript-2a61b6558f01)
 * [How to build reliable objects with factory functions in JavaScript](https://medium.freecodecamp.org/how-to-build-reliable-objects-with-factory-functions-in-javascript-9ec1c089ea6f)
 * [How to increase your frontend app’s performance — 5 coding tips](https://itnext.io/how-to-increase-your-frontend-apps-performance-5-coding-tips-d92a56ca9c24)
+* [Make your code easier to read with Functional Programming](https://medium.freecodecamp.org/make-your-code-easier-to-read-with-functional-programming-94fb8cc69f9d)
+* [MDN](https://developer.mozilla.org/pt-PT/docs/Web/JavaScript)
+* [Why you should give the Closure function another chance](https://medium.freecodecamp.org/why-you-should-give-the-closure-function-another-chance-31253e44cfa0)
 
 ### How To
 * [W3Schools How To](https://www.w3schools.com/howto/howto_js_lightbox.asp)
 
 ### Library
+* [Algolia](https://community.algolia.com/places/) -- Turn any <input> into an address autocomplete
+* [Card](https://github.com/jessepollak/card) -- A better credit card form in one line of code
+* [Draggable](https://shopify.github.io/draggable/) -- a lightweight, responsive, modern drag & drop library
 * [jQuery Datatables](https://datatables.net/) -- Add advanced interaction controls
 to your HTML tables the free & easy way
-* [Algolia](https://community.algolia.com/places/) -- Turn any <input> into an address autocomplete
-* [Draggable](https://shopify.github.io/draggable/) -- a lightweight, responsive, modern drag & drop library
-* [Card](https://github.com/jessepollak/card) -- A better credit card form in one line of code
 
 ### Select
+* [Bootstrap-select](https://developer.snapappointments.com/bootstrap-select/)
+* [Choices](https://joshuajohnson.co.uk/Choices/)
+* [Chosen](https://harvesthq.github.io/chosen/)
 * [Select2](https://select2.org/)
 * [Selectize](https://selectize.github.io/selectize.js/)
-* [bootstrap-select](https://developer.snapappointments.com/bootstrap-select/)
-* [Chosen](https://harvesthq.github.io/chosen/)
 * [Selectr](https://github.com/Mobius1/Selectr)
-* [tail.select](https://github.com/pytesNET/tail.select)
-* [Choices](https://joshuajohnson.co.uk/Choices/)
+* [Tail.select](https://github.com/pytesNET/tail.select)
 
 ### Image Manipulation
 * [Fancybox Lightbox Image](http://fancyapps.com/fancybox/3/) -- JavaScript lightbox library for presenting various types of media. 
 Responsive, touch-enabled and customizable.
+* [DropzoneJS](https://www.dropzonejs.com/) -- DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.
+* [Featherlight.js](https://noelboss.github.io/featherlight/) -- Featherlight is a very lightweight jQuery lightbox.
 * [Fine Uploader](https://fineuploader.com/) -- File uploading without the hassle
 * [jQuery File Upload](https://blueimp.github.io/jQuery-File-Upload/index.html) -- File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery.
-* [DropzoneJS](https://www.dropzonejs.com/) -- DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.
 * [Lightbox Lightbox Image](https://lokeshdhakar.com/projects/lightbox2/#examples) -- The original lightbox script. 
 Eight years later — still going strong!
-* [Featherlight.js](https://noelboss.github.io/featherlight/) -- Featherlight is a very lightweight jQuery lightbox.
 
 ### Utility
-* [Jsonlint](https://jsonlint.com/) -- JSONLint is a validator and reformatter for JSON, a lightweight data-interchange format.
-* [FastClick](https://labs.ft.com/fastclick/) -- Polyfill to remove click delays on browsers with touch UIs
-* [Autosize](http://www.jacklmoore.com/autosize/) -- A small, stand-alone script to automatically adjust textarea height.
 * [Animate CSS](https://daneden.github.io/animate.css/) -- Just-add-water CSS animations
+* [Autosize](http://www.jacklmoore.com/autosize/) -- A small, stand-alone script to automatically adjust textarea height.
+* [FastClick](https://labs.ft.com/fastclick/) -- Polyfill to remove click delays on browsers with touch UIs
 * [Gauge](http://bernii.github.io/gauge.js/) -- 100% native and cool looking animated JavaScript/CoffeeScript
 * [jQuery House](https://jqueryhouse.com/)
+* [Jsonlint](https://jsonlint.com/) -- JSONLint is a validator and reformatter for JSON, a lightweight data-interchange format.
 
 ### Chart
 * [24 JavaScript Libraries for Creating Beautiful Charts](https://www.sitepoint.com/15-best-javascript-charting-libraries/)
@@ -179,23 +178,23 @@ Eight years later — still going strong!
 
 ## HTML
 ### Reference
-* [MDN](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
 * [HTML Reference](https://htmlreference.io/)
+* [MDN](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
 
 ### Tutorial
 * [W3Schools How To](https://www.w3schools.com/howto/default.asp)
 
 ## CSS
 ### Reference
-* [MDN](https://developer.mozilla.org/en-US/docs/Glossary/CSS)
-* [CSS Reference](https://cssreference.io/)
 * [Bit Degree](https://www.bitdegree.org/learn/css-basics)
+* [CSS Reference](https://cssreference.io/)
 * [CSS Tricks](https://css-tricks.com)
+* [MDN](https://developer.mozilla.org/en-US/docs/Glossary/CSS)
 
 ### Tutorial
-* [W3.CSS Tutorial](https://www.w3schools.com/w3css/default.asp)
-* [W3.CSS Templates](https://www.w3schools.com/w3css/w3css_templates.asp)
 * [MDBootstrap](https://mdbootstrap.com/docs/jquery/content/images/)
+* [W3.CSS Templates](https://www.w3schools.com/w3css/w3css_templates.asp)
+* [W3.CSS Tutorial](https://www.w3schools.com/w3css/default.asp)
 
 ### Library
 * [Vivify](https://github.com/Martz90/vivify) -- Vivify is free CSS animation library.
@@ -209,8 +208,8 @@ Eight years later — still going strong!
 * [Pagination](https://codyhouse.co/gem/css-pagination)
 
 ### Best Design
-* [CSS Design Awards](https://cssdesignawards.com/)
 * [Awwwards](https://www.awwwards.com/websites/css3/)
+* [CSS Design Awards](https://cssdesignawards.com/)
 * [The Best Designs](https://www.thebestdesigns.com/designs/css)
 
 ## Bootstrap
@@ -238,84 +237,83 @@ Eight years later — still going strong!
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Utility
-* [Lipsum](https://www.lipsum.com/) -- Lorem Ipsum Generator
-* [HTTP Status Codes](https://httpstatuses.com/) -- httpstatuses.com is an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place.
-* [Codeply](https://www.codeply.com/) -- Responsive Design Playground & Frontend Editor.
+* [4Devs Ferramentas online](https://www.4devs.com.br/) - Geração de pessoas e documentos
 * [CodePen](https://codepen.io/) -- CodePen is a social development environment for front-end designers and developers.
+* [Codeply](https://www.codeply.com/) -- Responsive Design Playground & Frontend Editor.
 * [Json2CSharp](http://json2csharp.com/) -- generate c# classes from json
 * [JsonUtils](https://jsonutils.com/)
+* [HTTP Status Codes](https://httpstatuses.com/) -- httpstatuses.com is an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place.
+* [Lipsum](https://www.lipsum.com/) -- Lorem Ipsum Generator
 * [QuickType](https://quicktype.io/) -- Instantly generate C# models and helper methods from JSON.
 * [Material Design Icons](https://material.io/tools/icons/?style=baseline)
-* [4Devs Ferramentas online](https://www.4devs.com.br/) - Geração de pessoas e documentos
-
-## Hosting
-* [Contabo.com](https://contabo.com/)
-* [SmarterASP.net](http://www.smarterasp.net/)
-* [Cloudways SSD Hosting](https://www.cloudways.com/en/ssd-cloud-hosting.php)
-* [Ionblade - SSD Hosting](https://ionblade.com/ssd-hosting)
-* [Hosting Advice](https://www.hostingadvice.com)
-* [Arsys](https://www.arsys.pt/servidores/vps)
 
 ## Infrastructure
+* [Example syntax for Secure Copy (scp)](http://www.hypexr.org/linux_scp_help.php)
+* [How to Configure NGINX](https://www.linode.com/docs/web-servers/nginx/how-to-configure-nginx/)
+* [ISPConfig](https://www.ispconfig.org/)
+* [Nginx Packages](https://nginx.org/en/linux_packages.html)
+* [NMap Online](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap#)
+* [Skeleton for Debian init script ](https://gist.github.com/naholyr/4275302)
 * [Tutorial Debian 9: ISPConfig com NginX e Múltiplas Versões do PHP](https://fatorbinario.com/tutorial-debian-9-stretch-com-ispconfig-nginx-e-multiplas-versoes-do-php/)
 * [Tutorial Webmin com Nginx, Firewall, Postfix e phpMyAdmin](https://fatorbinario.com/tutorial-webmin-com-nginx-firewall-postfix-e-phpmyadmin/)
 * [Virtualmin](http://www.webmin.com/virtualmin.html)
 * [Webmin](http://www.webmin.com/index.html)
-* [ISPConfig](https://www.ispconfig.org/)
-* [Skeleton for Debian init script ](https://gist.github.com/naholyr/4275302)
-* [Example syntax for Secure Copy (scp)](http://www.hypexr.org/linux_scp_help.php)
-* [Nginx Packages](https://nginx.org/en/linux_packages.html)
-* [How to Configure NGINX](https://www.linode.com/docs/web-servers/nginx/how-to-configure-nginx/)
-* [NMap Online](https://pentest-tools.com/network-vulnerability-scanning/tcp-port-scanner-online-nmap#)
 
 ## Training
 * [Class Central](http://www.class-central.com) -- Class Central is a search engine and reviews site for free online courses popularly known as MOOCs or Massive Open Online Courses.
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
+## Hosting
+* [Arsys](https://www.arsys.pt/servidores/vps)
+* [Cloudways SSD Hosting](https://www.cloudways.com/en/ssd-cloud-hosting.php)
+* [Contabo.com](https://contabo.com/)
+* [Hosting Advice](https://www.hostingadvice.com)
+* [Ionblade - SSD Hosting](https://ionblade.com/ssd-hosting)
+* [SmarterASP.net](http://www.smarterasp.net/)
+
 ## Linux Computers
-* [TUXEDO Computers](https://www.tuxedocomputers.com/en#)
-* [Vikings](https://store.vikings.net/libre-friendly-hardware)
-* [Ubuntushop.be](https://www.ubuntushop.be/index.php/en/)
-* [StationX Rocks](https://stationx.rocks/)
-* [StarLabs](https://starlabs.systems/)
-* [System76](https://system76.com/)
-* [Purism](https://puri.sm/)
-* [Slimbook](https://slimbook.es/en/)
-* [Minifree](https://minifree.org/)
 * [Entroware](https://www.entroware.com/store/index.php?route=common/home)
 * [Juno Computers](https://junocomputers.com/)
+* [Minifree](https://minifree.org/)
+* [Purism](https://puri.sm/)
+* [Slimbook](https://slimbook.es/en/)
+* [StarLabs](https://starlabs.systems/)
+* [StationX Rocks](https://stationx.rocks/)
+* [System76](https://system76.com/)
 * [Technoethical](https://tehnoetic.com/)
+* [TUXEDO Computers](https://www.tuxedocomputers.com/en#)
+* [Ubuntushop.be](https://www.ubuntushop.be/index.php/en/)
+* [Vikings](https://store.vikings.net/libre-friendly-hardware)
 
 ## IT News
 * [4gnews](https://4gnews.pt/)
-* [It's FOSS](https://itsfoss.com)
-* [Leak](https://www.leak.pt/)
 * [Channel 9](https://channel9.msdn.com/)
 * [DEV Community](https://dev.to/)
 * [Flipboard](https://flipboard.com/)
+* [FreeCodeCamp](https://www.freecodecamp.org/)
 * [Gizmodo](https://gizmodo.com/)
 * [Hacker News](https://news.ycombinator.com/)
 * [Hacker Noon](https://hackernoon.com/)
 * [InfoQ](https://www.infoq.com/)
-* [freeCodeCamp](https://www.freecodecamp.org/)
+* [It's FOSS](https://itsfoss.com)
+* [Leak](https://www.leak.pt/)
 * [Medium](https://medium.com/)
+* [Neowin](https://www.neowin.net/)
+* [Simple Talk](https://www.red-gate.com/simple-talk/dotnet/)
 * [TechCrunch](https://techcrunch.com/)
+* [The Register](https://www.theregister.co.uk/)
 * [The Verge](https://www.theverge.com/)
 * [Visual Studio Magazine](https://visualstudiomagazine.com/Home.aspx)
 * [Windows Central](https://www.windowscentral.com/)
-* [The Register](https://www.theregister.co.uk/)
 * [Windows Developer Blog](https://blogs.windows.com/buildingapps/#W4zCY3Dbvgq9OAJr.97)
-* [Revista PROGRAMAR | A revista portuguesa de programação](https://www.revista-programar.info/)
-* [Simple Talk](https://www.red-gate.com/simple-talk/dotnet/)
-* [Neowin](https://www.neowin.net/)
 
 ## Portugal News
-* [Euronews](https://pt.euronews.com/)
 * [Agencia Europa Press - PortalTIC](http://m.europapress.es/portaltic/)
 * [Correio da Manhã](http://www.cmjornal.pt/)
 * [Diário de Notícias](https://www.dn.pt/)
 * [Dinheiro Vivo](https://www.dinheirovivo.pt/)
 * [DN Insider](http://insider.dn.pt/)
+* [Euronews](https://pt.euronews.com/)
 * [Jornais Portugal - Todos Os Jornais Portugueses](http://www.prensaescrita.com/portugal.php)
 * [Jornal de Notícias](https://www.jn.pt/)
 * [Negócios](http://www.jornaldenegocios.pt/)
