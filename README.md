@@ -36,9 +36,9 @@
 * [Submiting form using AjaxBeginForm with Tag Helpers](https://stackoverflow.com/questions/35202804/submitting-a-razor-form-using-jquery-ajax-in-mvc6-using-the-built-in-functionali)
 * [Using jQuery Unobtrusive AJAX in ASP.NET Core Razor Pages](https://www.learnrazorpages.com/razor-pages/ajax/unobtrusive-ajax)
 
-### File Manipulationmodels/file-uploads?view=aspnetcore-2.2)
+### File Manipulationmodels
 * [ASP.NET Core 2.2 MVC File Upload with MS SQL SERVER FileTable](https://damienbod.com/2015/12/05/asp-net-5-mvc-6-file-upload-with-ms-sql-server-filetable/)
-* [File uploads in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/
+* [File uploads in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/file-uploads?view=aspnetcore-2.2)
 * [Upload/Download Files in ASP.NET Core 2.0](https://www.codeproject.com/Articles/1203408/Upload-Download-Files-in-ASP-NET-Core)
 * [Uploading Files In ASP.net Core](https://dotnetcoretutorials.com/2017/03/12/uploading-files-asp-net-core)
 * [Uploading Files In ASP.net Core](https://dotnetcoretutorials.com/2017/03/12/uploading-files-asp-net-core)
