@@ -208,6 +208,11 @@ Eight years later — still going strong!
 * [Adding Pagination to your Website](https://www.solodev.com/blog/web-design/adding-pagination-to-your-website.stml)
 * [Pagination](https://codyhouse.co/gem/css-pagination)
 
+### Best Design
+* [CSS Design Awards](https://cssdesignawards.com/)
+* [Awwwards](https://www.awwwards.com/websites/css3/)
+* [The Best Designs](https://www.thebestdesigns.com/designs/css)
+
 ## Bootstrap
 ### Tutorials
 * [Bootstrap 4 Vertical Side Menu](https://code.luasoftware.com/tutorials/bootstrap/bootstrap4-vertical-side-menu/)
