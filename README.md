@@ -220,13 +220,13 @@ Eight years later — still going strong!
 * [Adminty](https://colorlib.com//polygon/adminty/default/alert.html)
 * [Bootstrap Dashboard](https://demo.bootstrapious.com/dashboard/1-4-4/index.html)
 * [Bootstrap Dashboard](http://demo.bootstrapious.com/admin/)
+* [CoreUI](https://coreui.io/demo/#)
 * [Gentelella Bootstrap 3](https://colorlib.com/polygon/gentelella/general_elements.html#)
 * [Modular Admin](https://modularcode.io/modular-admin-html/index.html)
 * [Octopus](https://colorlib.com/polygon/octopus/ui-elements-lightbox.html)
 * [Shards Dashboard Lite](https://designrevision.com/downloads/shards-dashboard-lite/)
 * [Sing App](https://flatlogic.github.io/sing-app/index.html)
 * [Sufee Admin](https://colorlib.com/polygon/sufee/forms-basic.html)
-* [CoreUI](https://coreui.io/demo/#)
 * [50+ Best Free Bootstrap 4 Templates 2018](https://cssauthor.com/bootstrap-templates)
 
 ## Markdown
