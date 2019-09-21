@@ -4,13 +4,13 @@
 ### .Net Core
 * [ASP.NET Core 2.2 Docs](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.2)
 
-### Authentication/asp-net-web-api/)
+### Authentication
 * [.NET Core LDAP authentication](https://nicolas.guelpa.me/blog/2017/02/15/dotnet-core-ldap-authentication.html)
 * [.NET Core LDAP](https://long2know.com/2017/06/net-core-ldap/)
 * [ASP.NET Core 2.2 - Simple API for Authentication, Registration and User Management](https://jasonwatmore.com/post/2018/06/26/aspnet-core-21-simple-api-for-authentication-registration-and-user-management)
 * [ASP.NET Core 2.2 - JWT Authentication Tutorial with Example API](https://jasonwatmore.com/post/2018/08/14/aspnet-core-21-jwt-authentication-tutorial-with-example-api)
 * [ASP.NET Core 2.2 - Basic Authentication Tutorial with Example API](https://jasonwatmore.com/post/2018/09/08/aspnet-core-21-basic-authentication-tutorial-with-example-api)
-* [ASP.NET Web API Tutorials](https://dotnettutorials.net/course
+* [ASP.NET Web API Tutorials](https://dotnettutorials.net/course/asp-net-web-api/)
 * [ASP.NET Core Web API v2.0: Authorization](https://auth0.com/docs/quickstart/backend/aspnet-core-webapi/01-authorization)
 * [Authenticating against Active Directory with ASP.Net Core 2 and managing users](https://www.brechtbaekelandt.net/blog/post/authenticating-against-active-directory-with-aspnet-core-2-and-managing-users?searchTerms=asp.net&searchTerms=core&)
 * [Building an ASP.NET Web API with ASP.NET Core](https://www.toptal.com/asp-dot-net/asp-net-web-api-tutorial)
