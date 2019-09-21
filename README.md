@@ -4,50 +4,50 @@
 ### .Net Core
 * [ASP.NET Core 2.2 Docs](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.2)
 
-### Authentication
+### Authentication/asp-net-web-api/)
+* [.NET Core LDAP authentication](https://nicolas.guelpa.me/blog/2017/02/15/dotnet-core-ldap-authentication.html)
+* [.NET Core LDAP](https://long2know.com/2017/06/net-core-ldap/)
 * [ASP.NET Core 2.2 - Simple API for Authentication, Registration and User Management](https://jasonwatmore.com/post/2018/06/26/aspnet-core-21-simple-api-for-authentication-registration-and-user-management)
 * [ASP.NET Core 2.2 - JWT Authentication Tutorial with Example API](https://jasonwatmore.com/post/2018/08/14/aspnet-core-21-jwt-authentication-tutorial-with-example-api)
 * [ASP.NET Core 2.2 - Basic Authentication Tutorial with Example API](https://jasonwatmore.com/post/2018/09/08/aspnet-core-21-basic-authentication-tutorial-with-example-api)
-* [ASP.NET Web API Tutorials](https://dotnettutorials.net/course/asp-net-web-api/)
-* [.NET Core LDAP authentication](https://nicolas.guelpa.me/blog/2017/02/15/dotnet-core-ldap-authentication.html)
-* [.NET Core LDAP](https://long2know.com/2017/06/net-core-ldap/)
-* [Authenticating against Active Directory with ASP.Net Core 2 and managing users](https://www.brechtbaekelandt.net/blog/post/authenticating-against-active-directory-with-aspnet-core-2-and-managing-users?searchTerms=asp.net&searchTerms=core&)
-* [Introduction to Authentication with ASP.NET Core](https://andrewlock.net/introduction-to-authentication-with-asp-net-core/)
-* [Exploring the cookie authentication middleware in ASP.NET Core](https://andrewlock.net/exploring-the-cookieauthenticationmiddleware-in-asp-net-core/)
-* [Overview of ASP.NET Core Security](https://docs.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-2.2)
-* [Building an ASP.NET Web API with ASP.NET Core](https://www.toptal.com/asp-dot-net/asp-net-web-api-tutorial)
-* [Securing ASP.NET Core 2.0 Applications with JWTs](https://auth0.com/blog/securing-asp-dot-net-core-2-applications-with-jwts/)
-* [Developing Web Apps with ASP.NET Core 2.0 and React - Part 1](https://auth0.com/blog/developing-web-apps-with-asp-dot-net-core-2-dot-0-and-react-part-1/)
+* [ASP.NET Web API Tutorials](https://dotnettutorials.net/course
 * [ASP.NET Core Web API v2.0: Authorization](https://auth0.com/docs/quickstart/backend/aspnet-core-webapi/01-authorization)
+* [Authenticating against Active Directory with ASP.Net Core 2 and managing users](https://www.brechtbaekelandt.net/blog/post/authenticating-against-active-directory-with-aspnet-core-2-and-managing-users?searchTerms=asp.net&searchTerms=core&)
+* [Building an ASP.NET Web API with ASP.NET Core](https://www.toptal.com/asp-dot-net/asp-net-web-api-tutorial)ations-with-jwts/)
+* [Developing Web Apps with ASP.NET Core 2.0 and React - Part 1](https://auth0.com/blog/developing-web-apps-with-asp-dot-net-core-2-dot-0-and-react-part-1/)
+* [Exploring the cookie authentication middleware in ASP.NET Core](https://andrewlock.net/exploring-the-cookieauthenticationmiddleware-in-asp-net-core/)
+* [Introduction to Authentication with ASP.NET Core](https://andrewlock.net/introduction-to-authentication-with-asp-net-core/)
+* [Overview of ASP.NET Core Security](https://docs.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-2.2)
+* [Securing ASP.NET Core 2.0 Applications with JWTs](https://auth0.com/blog/securing-asp-dot-net-core-2-applic
 
 ### Session
 * [An introduction to Session storage in ASP.NET Core](https://andrewlock.net/an-introduction-to-session-storage-in-asp-net-core/)
-* [Why isn't my session state working in ASP.NET Core? Session state, GDPR, and non-essential cookies](https://andrewlock.net/session-state-gdpr-and-non-essential-cookies/)
 * [State Management in ASP.NET Core MVC](https://code-maze.com/state-management-in-asp-net-core-mvc/)
+* [Why isn't my session state working in ASP.NET Core? Session state, GDPR, and non-essential cookies](https://andrewlock.net/session-state-gdpr-and-non-essential-cookies/)
 
 ### Clean Architeture
 * [Clean Architecture with ASP.NET Core 2.1](https://www.youtube.com/watch?v=_lwCVE_XgqI&feature=youtu.be)
 * [JasonGT/NorthwindTraders](https://github.com/JasonGT/NorthwindTraders)
 
 ### Ajax.BeginForm
-* [Using jQuery Unobtrusive AJAX in ASP.NET Core Razor Pages](https://www.learnrazorpages.com/razor-pages/ajax/unobtrusive-ajax)
-* [jQuery Unobtrusive Ajax Helpers in ASP.NET Core](https://dotnetthoughts.net/jquery-unobtrusive-ajax-helpers-in-aspnet-core/)
-* [Submiting form using AjaxBeginForm with Tag Helpers](https://stackoverflow.com/questions/35202804/submitting-a-razor-form-using-jquery-ajax-in-mvc6-using-the-built-in-functionali)
 * [Ajax.BeginForm In ASP.NET MVC 5](https://www.c-sharpcorner.com/UploadFile/0c1bb2/ajax-beginform-in-Asp-Net-mvc-5/)
 * [Creating Simple Cascading DropDownList In ASP.NET Core MVC With New Tag Helpers](https://www.c-sharpcorner.com/article/creating-simple-cascading-dropdownlist-in-asp-net-core-mvc-with-new-tag-helpers/)
+* [jQuery Unobtrusive Ajax Helpers in ASP.NET Core](https://dotnetthoughts.net/jquery-unobtrusive-ajax-helpers-in-aspnet-core/)
+* [Submiting form using AjaxBeginForm with Tag Helpers](https://stackoverflow.com/questions/35202804/submitting-a-razor-form-using-jquery-ajax-in-mvc6-using-the-built-in-functionali)
+* [Using jQuery Unobtrusive AJAX in ASP.NET Core Razor Pages](https://www.learnrazorpages.com/razor-pages/ajax/unobtrusive-ajax)
 
-### File Manipulation
-* [Uploading Files In ASP.net Core](https://dotnetcoretutorials.com/2017/03/12/uploading-files-asp-net-core)
-* [Upload/Download Files in ASP.NET Core 2.0](https://www.codeproject.com/Articles/1203408/Upload-Download-Files-in-ASP-NET-Core)
-* [File uploads in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/models/file-uploads?view=aspnetcore-2.2)
+### File Manipulationmodels/file-uploads?view=aspnetcore-2.2)
 * [ASP.NET Core 2.2 MVC File Upload with MS SQL SERVER FileTable](https://damienbod.com/2015/12/05/asp-net-5-mvc-6-file-upload-with-ms-sql-server-filetable/)
+* [File uploads in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/
+* [Upload/Download Files in ASP.NET Core 2.0](https://www.codeproject.com/Articles/1203408/Upload-Download-Files-in-ASP-NET-Core)
+* [Uploading Files In ASP.net Core](https://dotnetcoretutorials.com/2017/03/12/uploading-files-asp-net-core)
 * [Uploading Files In ASP.net Core](https://dotnetcoretutorials.com/2017/03/12/uploading-files-asp-net-core)
 
 ### Awesome
 * [Awesome Clean Code DotNet](https://github.com/thangchung/clean-code-dotnet)
+* [Awesome DotNet](https://github.com/quozd/awesome-dotnet)
 * [Awesome DotNet Core](https://github.com/thangchung/awesome-dotnet-core)
 * [Awesome DotNet Core Performance](https://github.com/adamsitnik/awesome-dot-net-performance)
-* [Awesome DotNet](https://github.com/quozd/awesome-dotnet)
 * [Awesome VSCode](https://github.com/viatsko/awesome-vscode)
 
 ### Validation
@@ -357,46 +357,46 @@ Eight years later — still going strong!
 * [You Car Press](https://www.youtube.com/user/YouCarPress/videos)
 
 ## Radio
-* [BBC Radio 1](https://www.bbc.co.uk/radio1)
 * [.977 Adults Hits](https://tunein.com/radio/977-Adult-Hits-s48941/)
-* [TuneIn](https://tunein.com/)
-* [Hitsradio](https://www.hitsradio.com/#/)
 * [B98.7 KBEE-FM](http://www.b987.com/)
 * [Aardvark Blues FM](https://www.aardvarkbluesfm.com/)
+* [BBC Radio 1](https://www.bbc.co.uk/radio1)
+* [Hitsradio](https://www.hitsradio.com/#/)
 * [Radio Online](https://radioonline.com.pt/)
+* [TuneIn](https://tunein.com/)
 
 ## TV
 * [VLCM3U](https://www.vlcm3u.com/channels/)
 
 ## RealEstate
+* [2Porcento](https://2porcento.pt/)
 * [Apartments.com](https://www.apartments.com/)
 * [ApartmentList](https://www.apartmentlist.com/ut/salt-lake-city)
-* [UNU Rede Imobiliária - Imobiliária UNU](https://www.unu.pt/)
-* [ERA® Imobiliária - Portugal](https://www.era.pt/)
-* [Remax](https://www.remax.pt/)
-* [2Porcento](https://2porcento.pt/)
-* [Whitestar Properties](https://www.whitestarproperties.pt/)
 * [DAI - Mediação Imobiliária - Portugal](http://dai.pt/pt/)
+* [eGO Real Estate](http://www.egorealestate.com/)
+* [ERA® Imobiliária - Portugal](https://www.era.pt/)
+* [Flexpro Sistemas](https://flexpro.com.br/simob/locacao)
 * [Franchisings de AGÊNCIAS IMOBILIÁRIAS](http://www.bestfranchising.pt/resultadobusqueda.aspx?idsubsector=27)
-* [Soluções Ideais, Mediação Imobiliária](https://solucoesideais.pt/portal)
 * [HCpro.pt CRM - Software de Gestão Imobiliária](https://www.hcpro.pt/)
 * [Gimob CRM - Programa completo de gestão imobiliária.](https://www.improxy.pt/software-de-gestao-imobiliaria-gimobcrm/)
-* [Recursos do Imobzi para facilitar sua gestão de negócios | Imobzi](https://www.imobzi.com/recursos/)
-* [Flexpro Sistemas](https://flexpro.com.br/simob/locacao)
-* [imoGestão - Sistema de Gestão para Corretores e Imobiliárias](https://www.imogestao.com.br/)
+* [ImoGestão - Sistema de Gestão para Corretores e Imobiliárias](https://www.imogestao.com.br/)
+* [Imobzi](https://www.imobzi.com/recursos/)
+* [Remax](https://www.remax.pt/)
 * [SEGIM - Sistema Imobiliário](https://www.segim.com.br/)
-* [eGO Real Estate](http://www.egorealestate.com/)
+* [Soluções Ideais, Mediação Imobiliária](https://solucoesideais.pt/portal)
+* [UNU Rede Imobiliária - Imobiliária UNU](https://www.unu.pt/)
+* [Whitestar Properties](https://www.whitestarproperties.pt/)
 
 ## Cosmetics
-* [Multi Vegetal - Fitocosméticos com plantas medicinais](https://www.multivegetal.com/)
-* [Jeunesse Global](https://www.jeunesseglobal.com/en-US/)
 * [Amway](http://www.amway.com/)
-* [O Boticário](https://www.boticario.com.br/)
 * [Avon](https://www.avon.com.br/)
-* [Natura](https://www.natura.com.br/)
-* [Mundo Verde](https://mundoverde.com.br/)
-* [SAPO Lifestyle](https://lifestyle.sapo.pt/saude/bem-estar/artigos/sabe-o-que-e-a-fitoterapia)
+* [Jeunesse Global](https://www.jeunesseglobal.com/en-US/)
 * [Fitoterapia | Celeiro](https://www.celeiro.pt/cuide-de-si/terapias/fitoterapia)
+* [Multi Vegetal - Fitocosméticos com plantas medicinais](https://www.multivegetal.com/)
+* [Mundo Verde](https://mundoverde.com.br/)
+* [Natura](https://www.natura.com.br/)
+* [O Boticário](https://www.boticario.com.br/)
+* [SAPO Lifestyle](https://lifestyle.sapo.pt/saude/bem-estar/artigos/sabe-o-que-e-a-fitoterapia)
 
 ## Transportation
 * [Rome2Rio](https://www.rome2rio.com/)
