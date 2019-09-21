@@ -54,45 +54,45 @@
 * [Fluent Validation](https://fluentvalidation.net/)
 
 ### Email
-* [How to Send Email using .NET Core](https://benjii.me/2017/02/send-email-using-asp-net-core/)
-* [Sending email in .NET Core with FluentEmail](https://lukencode.com/2018/07/01/send-email-in-dotnet-core-with-fluent-email/)
-* [FluentEmail](https://github.com/lukencode/FluentEmail)
-* [Learn How To Send Mail-In ASP.NET CORE MVC using MailKit](https://monkelite.com/learn-how-to-send-mail-in-asp-net-core-mvc-using-mailkit/)
-* [How to Send Emails from ASP.NET Core](https://dotnetthoughts.net/how-to-send-emails-from-aspnet-core/)
 * [ASP.NET CORE: Sending Email with Gmail and Homtail Account using ASP.NET Core services](https://hassantariqblog.wordpress.com/2017/03/20/asp-net-core-sending-email-with-gmail-account-using-asp-net-core-services/)
+* [FluentEmail](https://github.com/lukencode/FluentEmail)
+* [How to Send Emails from ASP.NET Core](https://dotnetthoughts.net/how-to-send-emails-from-aspnet-core/)
+* [How to Send Email using .NET Core](https://benjii.me/2017/02/send-email-using-asp-net-core/)
+* [Learn How To Send Mail-In ASP.NET CORE MVC using MailKit](https://monkelite.com/learn-how-to-send-mail-in-asp-net-core-mvc-using-mailkit/)
+* [Sending email in .NET Core with FluentEmail](https://lukencode.com/2018/07/01/send-email-in-dotnet-core-with-fluent-email/)
 
 ### Datatable
-* [MVC6.Grid](http://mvc6-grid.azurewebsites.net/) - Grid controls for ASP.NET Core projects
 * [Coevery](http://www.coevery.com/)
+* [MVC6.Grid](http://mvc6-grid.azurewebsites.net/) - Grid controls for ASP.NET Core projects
 
 ### ERP
+* [List of ERP software packages](https://en.wikipedia.org/wiki/List_of_ERP_software_packages)
 * [Top 9 open source ERP systems to consider](https://opensource.com/tools/enterprise-resource-planning)
 * [Top Free and Open Source ERP Software 2019](https://www.softwaresuggest.com/us/erp-software/free-open-source-softwares)
-* [List of ERP software packages](https://en.wikipedia.org/wiki/List_of_ERP_software_packages)
 
 ### CRM
 * [Only Office](https://github.com/ONLYOFFICE/CommunityServer)
 
 ### CMS
-* [Piranha CMS](http://piranhacms.org/)
 * [Orchard CMS](https://orchardproject.net/)
+* [Piranha CMS](http://piranhacms.org/)
 
 ### API
 * [API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+* [JSON:API](https://jsonapi.org/)
 * [OpenAPI.Tools](https://openapi.tools/#)
 * [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
-* [JSON:API](https://jsonapi.org/)
 
 ## NoSQL
 * [Apache CouchDB](http://couchdb.apache.org/)
+* [Couchbase and the Document-Oriented NoSQL Database](https://blog.couchbase.com/couchbase-and-the-document-oriented-nosql-database/)
+* [Data Modeling Guidelines for NoSQL JSON Document Databases](https://mapr.com/blog/data-modeling-guidelines-nosql-json-document-databases/)
 * [Introduction to CouchDB with .NET](https://dotnetcodr.com/2017/05/15/introduction-to-couchdb-with-net-part-1-foundations-and-setup/)
+* [NOSQL DATA MODELING TECHNIQUES](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
+* [Principles for Modeling CouchDB Documents](https://stackoverflow.com/questions/1530745/principles-for-modeling-couchdb-documents?rq=1)
+* [Thinking in Documents: Part 1](https://www.mongodb.com/blog/post/thinking-documents-part-1)
 * [Three Reasons To Use a NoSQL Document Store for Your Next Web Application](https://medium.com/statuscode/three-reasons-to-use-a-nosql-document-store-for-your-next-web-application-6b9eabffc8d8)
 * [Three Traps To Avoid When Using a NoSQL Document Store](https://medium.com/statuscode/three-traps-to-avoid-when-using-a-nosql-document-store-12f9e83fd223)
-* [NOSQL DATA MODELING TECHNIQUES](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
-* [Data Modeling Guidelines for NoSQL JSON Document Databases](https://mapr.com/blog/data-modeling-guidelines-nosql-json-document-databases/)
-* [Couchbase and the Document-Oriented NoSQL Database](https://blog.couchbase.com/couchbase-and-the-document-oriented-nosql-database/)
-* [Thinking in Documents: Part 1](https://www.mongodb.com/blog/post/thinking-documents-part-1)
-* [Principles for Modeling CouchDB Documents](https://stackoverflow.com/questions/1530745/principles-for-modeling-couchdb-documents?rq=1)
 
 ### MyCouch
 * [CouchDB Joins](https://www.cmlenz.net/archives/2007/10/couchdb-joins)
