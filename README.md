@@ -191,6 +191,9 @@ Eight years later — still going strong!
 * [CSS Tricks](https://css-tricks.com)
 * [MDN](https://developer.mozilla.org/en-US/docs/Glossary/CSS)
 
+### Utility
+* [Colorhexa](https://www.colorhexa.com/)
+
 ### Tutorial
 * [MDBootstrap](https://mdbootstrap.com/docs/jquery/content/images/)
 * [W3.CSS Templates](https://www.w3schools.com/w3css/w3css_templates.asp)
