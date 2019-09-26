@@ -5,8 +5,8 @@
 * [ASP.NET Core 2.2 Docs](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.2)
 
 ### Authentication
-* [.NET Core LDAP authentication](https://nicolas.guelpa.me/blog/2017/02/15/dotnet-core-ldap-authentication.html)
 * [.NET Core LDAP](https://long2know.com/2017/06/net-core-ldap/)
+* [.NET Core LDAP authentication](https://nicolas.guelpa.me/blog/2017/02/15/dotnet-core-ldap-authentication.html)
 * [ASP.NET Core 2.2 - Simple API for Authentication, Registration and User Management](https://jasonwatmore.com/post/2018/06/26/aspnet-core-21-simple-api-for-authentication-registration-and-user-management)
 * [ASP.NET Core 2.2 - JWT Authentication Tutorial with Example API](https://jasonwatmore.com/post/2018/08/14/aspnet-core-21-jwt-authentication-tutorial-with-example-api)
 * [ASP.NET Core 2.2 - Basic Authentication Tutorial with Example API](https://jasonwatmore.com/post/2018/09/08/aspnet-core-21-basic-authentication-tutorial-with-example-api)
@@ -381,7 +381,7 @@ Eight years later — still going strong!
 * [Flexpro Sistemas](https://flexpro.com.br/simob/locacao)
 * [Franchisings de AGÊNCIAS IMOBILIÁRIAS](http://www.bestfranchising.pt/resultadobusqueda.aspx?idsubsector=27)
 * [HCpro.pt CRM - Software de Gestão Imobiliária](https://www.hcpro.pt/)
-* [Gimob CRM - Programa completo de gestão imobiliária.](https://www.improxy.pt/software-de-gestao-imobiliaria-gimobcrm/)
+* [Gimob CRM - Programa completo de gestão imobiliária.](https://www.improxy.com/)
 * [ImoGestão - Sistema de Gestão para Corretores e Imobiliárias](https://www.imogestao.com.br/)
 * [Imobzi](https://www.imobzi.com/recursos/)
 * [Remax](https://www.remax.pt/)
