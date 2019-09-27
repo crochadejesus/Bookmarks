@@ -274,6 +274,9 @@ Eight years later — still going strong!
 * [Ionblade - SSD Hosting](https://ionblade.com/ssd-hosting)
 * [SmarterASP.net](http://www.smarterasp.net/)
 
+## Crypto
+* [Decrypt](https://decrypt.co)
+
 ## Linux Computers
 * [Entroware](https://www.entroware.com/store/index.php?route=common/home)
 * [Juno Computers](https://junocomputers.com/)
