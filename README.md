@@ -21,6 +21,7 @@
 * [Exploring the cookie authentication middleware in ASP.NET Core](https://andrewlock.net/exploring-the-cookieauthenticationmiddleware-in-asp-net-core/)
 * [Introduction to Authentication with ASP.NET Core](https://andrewlock.net/introduction-to-authentication-with-asp-net-core/)
 * [Lightweight custom authentication with ASP.NET Core](https://gunnarpeipman.com/aspnet-core-custom-authentication/)
+* [JWT Bearer Token Authentication & Authorization Front-End in ASP.NET MVC – Part 1](https://60secondtutorial.com/2015/12/13/jwt-bearer-token-authentication-authorization-front-end-in-asp-net-mvc/)
 * [JWT Validation and Authorization in ASP.NET Core](https://devblogs.microsoft.com/aspnet/jwt-validation-and-authorization-in-asp-net-core/)
 * [Overview of ASP.NET Core Security](https://docs.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-2.2)
 * [Securing ASP.NET Core 2.0 Applications with JWTs](https://auth0.com/blog/securing-asp-dot-net-core-2-applications-with-jwts/)
