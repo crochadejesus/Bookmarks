@@ -20,6 +20,7 @@
 * [Developing Web Apps with ASP.NET Core 2.0 and React - Part 1](https://auth0.com/blog/developing-web-apps-with-asp-dot-net-core-2-dot-0-and-react-part-1/)
 * [Exploring the cookie authentication middleware in ASP.NET Core](https://andrewlock.net/exploring-the-cookieauthenticationmiddleware-in-asp-net-core/)
 * [Introduction to Authentication with ASP.NET Core](https://andrewlock.net/introduction-to-authentication-with-asp-net-core/)
+* [Lightweight custom authentication with ASP.NET Core](https://gunnarpeipman.com/aspnet-core-custom-authentication/)
 * [Overview of ASP.NET Core Security](https://docs.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-2.2)
 * [Securing ASP.NET Core 2.0 Applications with JWTs](https://auth0.com/blog/securing-asp-dot-net-core-2-applications-with-jwts/)
 
