@@ -12,6 +12,7 @@
 * [ASP.NET Core 2.2 - Basic Authentication Tutorial with Example API](https://jasonwatmore.com/post/2018/09/08/aspnet-core-21-basic-authentication-tutorial-with-example-api)
 * [ASP.NET Web API Tutorials](https://dotnettutorials.net/course/asp-net-web-api/)
 * [ASP.NET Core Web API v2.0: Authorization](https://auth0.com/docs/quickstart/backend/aspnet-core-webapi/01-authorization)
+* [Account confirmation and password recovery in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/accconfirm?view=aspnetcore-2.2&tabs=visual-studio)
 * [Authenticating against Active Directory with ASP.Net Core 2 and managing users](https://www.brechtbaekelandt.net/blog/post/authenticating-against-active-directory-with-aspnet-core-2-and-managing-users?searchTerms=asp.net&searchTerms=core&)
 * [Authentication samples for ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/samples?view=aspnetcore-2.2)
 * [Building an ASP.NET Web API with ASP.NET Core](https://www.toptal.com/asp-dot-net/asp-net-web-api-tutorial)
