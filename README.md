@@ -1,20 +1,19 @@
 # Bookmarks
 
 ## Dotnet
-### .Net Core
 * [ASP.NET Core 2.2 Docs](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.2)
 
+### Components
+* [View components in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/view-components?view=aspnetcore-2.2)
+
 ### Authentication
-* [.NET Core LDAP](https://long2know.com/2017/06/net-core-ldap/)
-* [.NET Core LDAP authentication](https://nicolas.guelpa.me/blog/2017/02/15/dotnet-core-ldap-authentication.html)
 * [A simple way to secure your .NET Core 2.0 web app](https://jonhilton.net/2017/10/07/a-simple-way-to-secure-your-.net-core-2.0-web-app/)
 * [Account confirmation and password recovery in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/accconfirm?view=aspnetcore-2.2&tabs=visual-studio)
+* [ASP.NET Core 2.0 Authentication and Authorization System Demystified](https://digitalmccullough.com/posts/aspnetcore-auth-system-demystified.html)
 * [ASP.NET Core 2.2 - Simple API for Authentication, Registration and User Management](https://jasonwatmore.com/post/2018/06/26/aspnet-core-21-simple-api-for-authentication-registration-and-user-management)
-* [ASP.NET Core 2.2 - JWT Authentication Tutorial with Example API](https://jasonwatmore.com/post/2018/08/14/aspnet-core-21-jwt-authentication-tutorial-with-example-api)
 * [ASP.NET Core 2.2 - Basic Authentication Tutorial with Example API](https://jasonwatmore.com/post/2018/09/08/aspnet-core-21-basic-authentication-tutorial-with-example-api)
 * [ASP.NET Web API Tutorials](https://dotnettutorials.net/course/asp-net-web-api/)
 * [ASP.NET Core Web API v2.0: Authorization](https://auth0.com/docs/quickstart/backend/aspnet-core-webapi/01-authorization)
-* [Authenticating against Active Directory with ASP.Net Core 2 and managing users](https://www.brechtbaekelandt.net/blog/post/authenticating-against-active-directory-with-aspnet-core-2-and-managing-users?searchTerms=asp.net&searchTerms=core&)
 * [Authentication samples for ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/samples?view=aspnetcore-2.2)
 * [Authorize with a specific scheme in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/limitingidentitybyscheme?view=aspnetcore-2.2&tabs=aspnetcore2x)
 * [Building an ASP.NET Web API with ASP.NET Core](https://www.toptal.com/asp-dot-net/asp-net-web-api-tutorial)
@@ -23,11 +22,32 @@
 * [Exploring the cookie authentication middleware in ASP.NET Core](https://andrewlock.net/exploring-the-cookieauthenticationmiddleware-in-asp-net-core/)
 * [Introduction to Authentication with ASP.NET Core](https://andrewlock.net/introduction-to-authentication-with-asp-net-core/)
 * [Lightweight custom authentication with ASP.NET Core](https://gunnarpeipman.com/aspnet-core-custom-authentication/)
+* [Overview of ASP.NET Core Security](https://docs.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-2.2)
+* [Securing an ASP.NET Core MVC application which uses a secure API](https://damienbod.com/2018/02/02/securing-an-asp-net-core-mvc-application-which-uses-a-secure-api/)
+
+#### JWT
+* [ASP.NET Core 2.2 - JWT Authentication Tutorial with Example API](https://jasonwatmore.com/post/2018/08/14/aspnet-core-21-jwt-authentication-tutorial-with-example-api)
 * [JWT Bearer Token Authentication & Authorization Front-End in ASP.NET MVC – Part 1](https://60secondtutorial.com/2015/12/13/jwt-bearer-token-authentication-authorization-front-end-in-asp-net-mvc/)
 * [JWT Validation and Authorization in ASP.NET Core](https://devblogs.microsoft.com/aspnet/jwt-validation-and-authorization-in-asp-net-core/)
-* [Overview of ASP.NET Core Security](https://docs.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-2.2)
 * [Securing ASP.NET Core 2.0 Applications with JWTs](https://auth0.com/blog/securing-asp-dot-net-core-2-applications-with-jwts/)
 
+#### LDAP
+* [.NET Core LDAP](https://long2know.com/2017/06/net-core-ldap/)
+* [.NET Core LDAP authentication](https://nicolas.guelpa.me/blog/2017/02/15/dotnet-core-ldap-authentication.html)
+* [Authenticating against Active Directory with ASP.Net Core 2 and managing users](https://www.brechtbaekelandt.net/blog/post/authenticating-against-active-directory-with-aspnet-core-2-and-managing-users?searchTerms=asp.net&searchTerms=core&)
+* [Implement LDAP / AD auth extension for .net core 2.0](https://github.com/aspnetboilerplate/aspnetboilerplate/issues/2755)
+* [Install and Configure Linux LDAP Server](https://likegeeks.com/linux-ldap-server/amp/)
+
+#### OAuth2
+* [ASP.NET Core WebAPI secured using OAuth2 Client Credentials](https://www.codeproject.com/Articles/1185880/ASP-NET-Core-WebAPI-secured-using-OAuth-Client-Cre)
+* [Authenticate with OAuth 2.0 in ASP.NET Core 2.0](https://www.jerriepelser.com/blog/authenticate-oauth-aspnet-core-2/)
+* [Creating your own OpenID Connect server with ASOS: introduction](https://kevinchalet.com/2016/07/13/creating-your-own-openid-connect-server-with-asos-introduction/)
+* [Identity Server 4 Authorization Code Flow example](https://stackoverflow.com/questions/37309986/identity-server-4-authorization-code-flow-example)
+* [IdentityServer4 in simple words: IdentityServer4 with .Net Core Part I](https://neelbhatt.com/2018/02/24/identityserver4-in-simple-words-identityserver4-with-net-core-part-i/)
+* [Step by step setup for the Auth server and the client: IdentityServer4 with .Net Core Part II](https://neelbhatt.com/2018/03/04/step-by-step-setup-for-the-auth-server-and-the-client-identityserver4-with-net-core-part-ii/)
+* [Using OAuth2 Middleware with ASP.NET Core 2.0](https://medium.com/@mauridb/using-oauth2-middleware-with-asp-net-core-2-0-b31ffef58cd0)
+* [OpenID Connect explained](https://connect2id.com/learn/openid-connect)
+* []()
 
 ### Session
 * [An introduction to Session storage in ASP.NET Core](https://andrewlock.net/an-introduction-to-session-storage-in-asp-net-core/)
