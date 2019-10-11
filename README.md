@@ -30,6 +30,7 @@
 * [ASP.NET Core 2.2 - JWT Authentication Tutorial with Example API](https://jasonwatmore.com/post/2018/08/14/aspnet-core-21-jwt-authentication-tutorial-with-example-api)
 * [JWT Bearer Token Authentication & Authorization Front-End in ASP.NET MVC – Part 1](https://60secondtutorial.com/2015/12/13/jwt-bearer-token-authentication-authorization-front-end-in-asp-net-mvc/)
 * [JWT Validation and Authorization in ASP.NET Core](https://devblogs.microsoft.com/aspnet/jwt-validation-and-authorization-in-asp-net-core/)
+* [Refresh Tokens in ASP.NET Core Web Api](https://www.blinkingcaret.com/2018/05/30/refresh-tokens-in-asp-net-core-web-api/)
 * [Securing ASP.NET Core 2.0 Applications with JWTs](https://auth0.com/blog/securing-asp-dot-net-core-2-applications-with-jwts/)
 
 #### OAuth2
