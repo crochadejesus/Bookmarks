@@ -17,6 +17,7 @@
 * [Authentication samples for ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/samples?view=aspnetcore-2.2)
 * [Authorize with a specific scheme in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authorization/limitingidentitybyscheme?view=aspnetcore-2.2&tabs=aspnetcore2x)
 * [Building an ASP.NET Web API with ASP.NET Core](https://www.toptal.com/asp-dot-net/asp-net-web-api-tutorial)
+* [Client Credentials Authorization in C#](http://luisquintanilla.me/2017/12/25/client-credentials-authentication-csharp/)
 * [Custom storage providers for ASP.NET Core Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity-custom-storage-providers?view=aspnetcore-2.2)
 * [Developing Web Apps with ASP.NET Core 2.0 and React - Part 1](https://auth0.com/blog/developing-web-apps-with-asp-dot-net-core-2-dot-0-and-react-part-1/)
 * [Exploring the cookie authentication middleware in ASP.NET Core](https://andrewlock.net/exploring-the-cookieauthenticationmiddleware-in-asp-net-core/)
@@ -31,13 +32,6 @@
 * [JWT Validation and Authorization in ASP.NET Core](https://devblogs.microsoft.com/aspnet/jwt-validation-and-authorization-in-asp-net-core/)
 * [Securing ASP.NET Core 2.0 Applications with JWTs](https://auth0.com/blog/securing-asp-dot-net-core-2-applications-with-jwts/)
 
-#### LDAP
-* [.NET Core LDAP](https://long2know.com/2017/06/net-core-ldap/)
-* [.NET Core LDAP authentication](https://nicolas.guelpa.me/blog/2017/02/15/dotnet-core-ldap-authentication.html)
-* [Authenticating against Active Directory with ASP.Net Core 2 and managing users](https://www.brechtbaekelandt.net/blog/post/authenticating-against-active-directory-with-aspnet-core-2-and-managing-users?searchTerms=asp.net&searchTerms=core&)
-* [Implement LDAP / AD auth extension for .net core 2.0](https://github.com/aspnetboilerplate/aspnetboilerplate/issues/2755)
-* [Install and Configure Linux LDAP Server](https://likegeeks.com/linux-ldap-server/amp/)
-
 #### OAuth2
 * [ASP.NET Core WebAPI secured using OAuth2 Client Credentials](https://www.codeproject.com/Articles/1185880/ASP-NET-Core-WebAPI-secured-using-OAuth-Client-Cre)
 * [Authenticate with OAuth 2.0 in ASP.NET Core 2.0](https://www.jerriepelser.com/blog/authenticate-oauth-aspnet-core-2/)
@@ -47,7 +41,23 @@
 * [Step by step setup for the Auth server and the client: IdentityServer4 with .Net Core Part II](https://neelbhatt.com/2018/03/04/step-by-step-setup-for-the-auth-server-and-the-client-identityserver4-with-net-core-part-ii/)
 * [Using OAuth2 Middleware with ASP.NET Core 2.0](https://medium.com/@mauridb/using-oauth2-middleware-with-asp-net-core-2-0-b31ffef58cd0)
 * [OpenID Connect explained](https://connect2id.com/learn/openid-connect)
-* []()
+
+#### LDAP
+* [.NET Core LDAP](https://long2know.com/2017/06/net-core-ldap/)
+* [.NET Core LDAP authentication](https://nicolas.guelpa.me/blog/2017/02/15/dotnet-core-ldap-authentication.html)
+* [Authenticating against Active Directory with ASP.Net Core 2 and managing users](https://www.brechtbaekelandt.net/blog/post/authenticating-against-active-directory-with-aspnet-core-2-and-managing-users?searchTerms=asp.net&searchTerms=core&)
+* [Implement LDAP / AD auth extension for .net core 2.0](https://github.com/aspnetboilerplate/aspnetboilerplate/issues/2755)
+* [Install and Configure Linux LDAP Server](https://likegeeks.com/linux-ldap-server/amp/)
+
+#### Encrypt
+* [Best way to secure password using Cryptographic algorithms in C# .NET](https://immortalcoder.blogspot.com/2015/11/best-way-to-secure-password-using-cryptographic-algorithms-in-csharp-dotnet.html)
+* [Encrypt & Decrypt String in ASP.NET Core](https://mikaelkoskinen.net/post/encrypt-decrypt-string-asp-net-core)
+* [Password security best practices (with examples in C#)](https://www.mking.net/blog/password-security-best-practices-with-examples-in-csharp)
+* [PKCS #5: Password-Based Cryptography Specification Version 2.1](https://www.rfc-editor.org/rfc/rfc8018.html)
+* [PKCS #5: Password-Based Cryptography Specification Version 2.0](https://www.rfc-editor.org/rfc/rfc2898.html)
+* [Storing Passwords in .NET Core](https://medium.com/dealeron-dev/storing-passwords-in-net-core-3de29a3da4d2)
+* [Rfc2898DeriveBytes Class](https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.rfc2898derivebytes?view=netcore-2.2)
+* [What is the easiest way to encrypt a password when I save it to the registry?](https://stackoverflow.com/questions/212510/what-is-the-easiest-way-to-encrypt-a-password-when-i-save-it-to-the-registry)
 
 ### Session
 * [An introduction to Session storage in ASP.NET Core](https://andrewlock.net/an-introduction-to-session-storage-in-asp-net-core/)
