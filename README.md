@@ -27,14 +27,19 @@
 * [Securing an ASP.NET Core MVC application which uses a secure API](https://damienbod.com/2018/02/02/securing-an-asp-net-core-mvc-application-which-uses-a-secure-api/)
 
 #### JWT
+* [7 Best Practices for JSON Web Tokens ](https://dev.to/neilmadden/7-best-practices-for-json-web-tokens)
 * [ASP.NET Core 2.2 - JWT Authentication Tutorial with Example API](https://jasonwatmore.com/post/2018/08/14/aspnet-core-21-jwt-authentication-tutorial-with-example-api)
+* [Blacklisting JSON Web Token API Keys](https://auth0.com/blog/blacklist-json-web-token-api-keys/)
 * [Canceling JWT tokens in .NET Core](https://piotrgankiewicz.com/2018/04/25/canceling-jwt-tokens-in-net-core/)
+* [JSON Web Token (JWT)](https://www.rfc-editor.org/rfc/rfc7519.html)
 * [JWT refresh tokens and .NET Core](https://piotrgankiewicz.com/2017/12/07/jwt-refresh-tokens-and-net-core/)
 * [JWT Validation and Authorization in ASP.NET Core](https://devblogs.microsoft.com/aspnet/jwt-validation-and-authorization-in-asp-net-core/)
 * [Refresh Tokens in ASP.NET Core Web Api](https://www.blinkingcaret.com/2018/05/30/refresh-tokens-in-asp-net-core-web-api/)
 * [Securing ASP.NET Core 2.0 Applications with JWTs](https://auth0.com/blog/securing-asp-dot-net-core-2-applications-with-jwts/)
 * [Token Based Authentication Using Asp.Net Core 2.0](https://blogs.ibs.com/2017/12/12/token-based-authentication-using-asp-net-core-2-0/)
 * [Token Based Auth in ASP.NET Core 2 Part 2: Refresh Tokens](https://blogs.ibs.com/2017/12/19/token-based-auth-in-asp-net-core-2-part-2-refresh-tokens/)
+* [Using JSON Web Tokens as API Keys](https://auth0.com/blog/using-json-web-tokens-as-api-keys/)
+* [Use JWT The Right Way!](https://stormpath.com/blog/jwt-the-right-way)
 
 #### OAuth2
 * [ASP.NET Core WebAPI secured using OAuth2 Client Credentials](https://www.codeproject.com/Articles/1185880/ASP-NET-Core-WebAPI-secured-using-OAuth-Client-Cre)
@@ -45,6 +50,7 @@
 * [Step by step setup for the Auth server and the client: IdentityServer4 with .Net Core Part II](https://neelbhatt.com/2018/03/04/step-by-step-setup-for-the-auth-server-and-the-client-identityserver4-with-net-core-part-ii/)
 * [Using OAuth2 Middleware with ASP.NET Core 2.0](https://medium.com/@mauridb/using-oauth2-middleware-with-asp-net-core-2-0-b31ffef58cd0)
 * [OpenID Connect explained](https://connect2id.com/learn/openid-connect)
+* [The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749#section-1.4)
 
 #### LDAP
 * [.NET Core LDAP](https://long2know.com/2017/06/net-core-ldap/)
