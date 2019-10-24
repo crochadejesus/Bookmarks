@@ -28,6 +28,7 @@
 
 #### JWT
 * [7 Best Practices for JSON Web Tokens ](https://dev.to/neilmadden/7-best-practices-for-json-web-tokens)
+* [API Reference](https://auth0.com/docs/api/management/v2#!/blacklists/get_tokens)
 * [ASP.NET Core 2.2 - JWT Authentication Tutorial with Example API](https://jasonwatmore.com/post/2018/08/14/aspnet-core-21-jwt-authentication-tutorial-with-example-api)
 * [Blacklisting JSON Web Token API Keys](https://auth0.com/blog/blacklist-json-web-token-api-keys/)
 * [Canceling JWT tokens in .NET Core](https://piotrgankiewicz.com/2018/04/25/canceling-jwt-tokens-in-net-core/)
