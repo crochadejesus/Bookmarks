@@ -115,9 +115,8 @@
 * [MVC6.Grid](http://mvc6-grid.azurewebsites.net/) - Grid controls for ASP.NET Core projects
 
 ### ERP
+* [C# OPEN-SOURCE](http://www.csharpopensource.com/category/erp-crm-sfa/)
 * [List of ERP software packages](https://en.wikipedia.org/wiki/List_of_ERP_software_packages)
-* [Top 9 open source ERP systems to consider](https://opensource.com/tools/enterprise-resource-planning)
-* [Top Free and Open Source ERP Software 2019](https://www.softwaresuggest.com/us/erp-software/free-open-source-softwares)
 
 ### CRM
 * [Only Office](https://github.com/ONLYOFFICE/CommunityServer)
