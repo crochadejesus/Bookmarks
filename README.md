@@ -271,18 +271,14 @@ Eight years later — still going strong!
 * [Themefisher](https://themefisher.com/products/category/bootstrap-4/)
 
 ### Admin Dashboard
-* [Admindek](https://colorlib.com//polygon/admindek/default/alert.html)
-* [Adminty](https://colorlib.com//polygon/adminty/default/alert.html)
-* [Bootstrap Dashboard](https://demo.bootstrapious.com/dashboard/1-4-4/index.html)
-* [Bootstrap Dashboard](http://demo.bootstrapious.com/admin/)
-* [CoreUI](https://coreui.io/demo/#)
-* [Gentelella Bootstrap 3](https://colorlib.com/polygon/gentelella/general_elements.html#)
-* [Modular Admin](https://modularcode.io/modular-admin-html/index.html)
-* [Octopus](https://colorlib.com/polygon/octopus/ui-elements-lightbox.html)
+* [45 Free Bootstrap Admin Dashboard Templates For Your Web App 2019](https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/)
+* [50+ Best Free Bootstrap 4 Templates 2018](https://cssauthor.com/bootstrap-templates)
+* [Bootstrap Dashboard](https://bootstrapious.com/p/bootstrap-4-dashboard)
+* [BOOTSTRAP 4 MATERIAL ADMIN](https://bootstrapious.com/p/admin-template)
+* [CoreUI](https://coreui.io/)
+* [Modular Admin](https://modularcode.io/)
 * [Shards Dashboard Lite](https://designrevision.com/downloads/shards-dashboard-lite/)
 * [Sing App](https://flatlogic.github.io/sing-app/index.html)
-* [Sufee Admin](https://colorlib.com/polygon/sufee/forms-basic.html)
-* [50+ Best Free Bootstrap 4 Templates 2018](https://cssauthor.com/bootstrap-templates)
 
 ## Markdown
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
