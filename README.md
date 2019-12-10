@@ -451,6 +451,11 @@ Eight years later — still going strong!
 ## Transportation
 * [Rome2Rio](https://www.rome2rio.com/)
 
-## Translation
+## Dictionary
 * [Business Dictionary](http://www.businessdictionary.com/)
+* [Oxford](https://www.lexico.com/)
 * [Thesaurus](https://www.thesaurus.com/)
+
+## Aquarium
+* [Aquariofilia.net](https://www.aquariofilia.net/forum/)
+* [Tropica](https://tropica.com/en/)
