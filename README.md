@@ -457,5 +457,6 @@ Eight years later — still going strong!
 * [Thesaurus](https://www.thesaurus.com/)
 
 ## Aquarium
+* [Aquaeden](http://aquaeden-shop.net/)
 * [Aquariofilia.net](https://www.aquariofilia.net/forum/)
 * [Tropica](https://tropica.com/en/)
