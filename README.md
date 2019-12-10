@@ -459,4 +459,5 @@ Eight years later — still going strong!
 ## Aquarium
 * [Aquaeden](http://aquaeden-shop.net/)
 * [Aquariofilia.net](https://www.aquariofilia.net/forum/)
+* [Solaqua](https://www.solaqua.net/)
 * [Tropica](https://tropica.com/en/)
