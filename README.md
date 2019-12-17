@@ -280,6 +280,9 @@ Eight years later — still going strong!
 * [Shards Dashboard Lite](https://designrevision.com/downloads/shards-dashboard-lite/)
 * [Sing App](https://flatlogic.github.io/sing-app/index.html)
 
+## Free Vector
+* [Freepik](https://www.freepik.com/)
+
 ## Markdown
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
