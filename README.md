@@ -456,6 +456,7 @@ Eight years later — still going strong!
 
 ## Dictionary
 * [Business Dictionary](http://www.businessdictionary.com/)
+* [Merriam-webster](https://www.merriam-webster.com/)
 * [Oxford](https://www.lexico.com/)
 * [Thesaurus](https://www.thesaurus.com/)
 
