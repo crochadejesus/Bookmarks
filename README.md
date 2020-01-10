@@ -131,9 +131,10 @@
 * [OpenAPI.Tools](https://openapi.tools/#)
 * [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
 
-## NoSQL
+## CouchDB
 * [Apache CouchDB](http://couchdb.apache.org/)
 * [Couchbase and the Document-Oriented NoSQL Database](https://blog.couchbase.com/couchbase-and-the-document-oriented-nosql-database/)
+* [CouchDB, PouchDB, and Ionic 2: Querying Data with MapReduce](https://www.joshmorony.com/couchdb-pouchdb-and-ionic-2-querying-data-with-mapreduce/)
 * [Data Modeling Guidelines for NoSQL JSON Document Databases](https://mapr.com/blog/data-modeling-guidelines-nosql-json-document-databases/)
 * [Introduction to CouchDB with .NET](https://dotnetcodr.com/2017/05/15/introduction-to-couchdb-with-net-part-1-foundations-and-setup/)
 * [NOSQL DATA MODELING TECHNIQUES](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
