@@ -292,6 +292,7 @@ Eight years later — still going strong!
 
 ## Markdown
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 
 ## Utility
 * [4Devs Ferramentas online](https://www.4devs.com.br/) - Geração de pessoas e documentos
