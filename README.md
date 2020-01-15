@@ -270,6 +270,9 @@ Eight years later — still going strong!
 * [Sticky footer solved by flexbox](https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/)
 * [How to make a sticky footer using CSS?](https://stackoverflow.com/questions/29069498/how-to-make-a-sticky-footer-using-css)
 
+### Icons
+* [15 of the best/largest icon libraries](https://dev.to/weeb/15-of-the-best-and-largest-icon-libraries-4p5n)
+
 ## Bootstrap
 ### Tutorials
 * [Bootstrap 4 Vertical Side Menu](https://code.luasoftware.com/tutorials/bootstrap/bootstrap4-vertical-side-menu/)
