@@ -224,6 +224,12 @@ Eight years later — still going strong!
 * [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
 * [Awesome Javascript Frameworks](https://github.com/uhub/awesome-javascript)
 
+### Datetime picker
+* [Flatpickr](https://flatpickr.js.org/)
+* [AIR DATEPICKER](http://t1m0n.name/air-datepicker/docs/)
+* [Tempus Dominus](https://tempusdominus.github.io/bootstrap-4/)
+* [Litepicker](https://wakirin.github.io/Litepicker/)
+
 
 ## HTML
 ### Reference
