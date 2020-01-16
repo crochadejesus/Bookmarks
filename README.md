@@ -229,6 +229,11 @@ Eight years later — still going strong!
 * [AIR DATEPICKER](http://t1m0n.name/air-datepicker/docs/)
 * [Tempus Dominus](https://tempusdominus.github.io/bootstrap-4/)
 * [Litepicker](https://wakirin.github.io/Litepicker/)
+* [pickadate.js](https://amsul.ca/pickadate.js/)
+* [Date Range Picker](http://www.daterangepicker.com/)
+* [Datepair.js](http://www.jonthornton.com/Datepair.js/)
+* [Foundation-datepicker.js](http://foundation-datepicker.peterbeno.com/#basic-example)
+* [jQ Datepicker](https://fengyuanchen.github.io/datepicker/)
 
 
 ## HTML
