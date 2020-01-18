@@ -475,6 +475,7 @@ Eight years later — still going strong!
 * [Natura](https://www.natura.com.br/)
 * [O Boticário](https://www.boticario.com.br/)
 * [Oriflame](https://pt.oriflame.com/)
+* [Origins](https://www.origins.com/)
 * [SAPO Lifestyle](https://lifestyle.sapo.pt/saude/bem-estar/artigos/sabe-o-que-e-a-fitoterapia)
 * [Cosmetics OnLine - Orgânicos e Veganos](https://www.cosmeticsonline.com.br/materia/48)
 
