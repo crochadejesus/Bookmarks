@@ -339,9 +339,11 @@ Eight years later — still going strong!
 * [Arsys](https://www.arsys.pt/servidores/vps)
 * [Cloudways SSD Hosting](https://www.cloudways.com/en/ssd-cloud-hosting.php)
 * [Contabo.com](https://contabo.com/)
+* [DNS.pt](https://www.dns.pt/pt/)
 * [Hosting Advice](https://www.hostingadvice.com)
 * [Ionblade - SSD Hosting](https://ionblade.com/ssd-hosting)
 * [SmarterASP.net](http://www.smarterasp.net/)
+* [Whois](https://www.whois.com/)
 
 ## Crypto
 * [Decrypt](https://decrypt.co)
@@ -474,6 +476,7 @@ Eight years later — still going strong!
 * [O Boticário](https://www.boticario.com.br/)
 * [Oriflame](https://pt.oriflame.com/)
 * [SAPO Lifestyle](https://lifestyle.sapo.pt/saude/bem-estar/artigos/sabe-o-que-e-a-fitoterapia)
+* [Cosmetics OnLine - Orgânicos e Veganos](https://www.cosmeticsonline.com.br/materia/48)
 
 ## Transportation
 * [Rome2Rio](https://www.rome2rio.com/)
