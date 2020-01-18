@@ -465,6 +465,7 @@ Eight years later — still going strong!
 ## Cosmetics
 * [Amway](http://www.amway.com/)
 * [Avon](https://www.avon.com.br/)
+* [DoTerra](https://www.doterra.com/)
 * [Jeunesse Global](https://www.jeunesseglobal.com/en-US/)
 * [Fitoterapia | Celeiro](https://www.celeiro.pt/cuide-de-si/terapias/fitoterapia)
 * [Multi Vegetal - Fitocosméticos com plantas medicinais](https://www.multivegetal.com/)
