@@ -465,13 +465,14 @@ Eight years later — still going strong!
 ## Cosmetics
 * [Amway](http://www.amway.com/)
 * [Avon](https://www.avon.com.br/)
-* [DoTerra](https://www.doterra.com/)
+* [doTERRA](https://www.doterra.com/)
 * [Jeunesse Global](https://www.jeunesseglobal.com/en-US/)
 * [Fitoterapia | Celeiro](https://www.celeiro.pt/cuide-de-si/terapias/fitoterapia)
 * [Multi Vegetal - Fitocosméticos com plantas medicinais](https://www.multivegetal.com/)
 * [Mundo Verde](https://mundoverde.com.br/)
 * [Natura](https://www.natura.com.br/)
 * [O Boticário](https://www.boticario.com.br/)
+* [Oriflame](https://pt.oriflame.com/)
 * [SAPO Lifestyle](https://lifestyle.sapo.pt/saude/bem-estar/artigos/sabe-o-que-e-a-fitoterapia)
 
 ## Transportation
