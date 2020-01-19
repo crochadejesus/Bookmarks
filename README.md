@@ -124,6 +124,7 @@
 ### CMS
 * [Orchard CMS](https://orchardproject.net/)
 * [Piranha CMS](http://piranhacms.org/)
+* [The ultimate guide to the best net e-commerce platforms for 2019](https://www.nop-templates.com/the-ultimate-guide-to-the-best-net-e-commerce-platforms-for-2019)
 
 ### API
 * [API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
