@@ -336,7 +336,9 @@ Eight years later — still going strong!
 * [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
 ## Hosting
+* [AccuwebHosting](https://www.accuwebhosting.com)
 * [Arsys](https://www.arsys.pt/servidores/vps)
+* [ASPHostPortal](https://www.asphostportal.com)
 * [Cloudways SSD Hosting](https://www.cloudways.com/en/ssd-cloud-hosting.php)
 * [Contabo.com](https://contabo.com/)
 * [DNS.pt](https://www.dns.pt/pt/)
