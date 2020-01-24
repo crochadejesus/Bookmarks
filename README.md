@@ -105,7 +105,6 @@
 ### Custom Helpers/Tag Helpers
 * [Creating Custom HTML Helpers](https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/views/creating-custom-html-helpers-cs)
 * [Writing Custom HTML Helpers for ASP.NET MVC](https://www.red-gate.com/simple-talk/dotnet/asp-net/writing-custom-html-helpers-for-asp-net-mvc/)
-* [Working With Built-in HTML Helper Classes in ASP.NET MVC](https://dzone.com/articles/working-with-built-in-html-helper-classes-in-aspne)
 * [Create a Custom HTML Helper in ASP.NET MVC Using Razor](https://www.foreach.be/blog/create-a-custom-html-helper-in-asp-net-mvc-using-razor?lang=nl)
 
 ### Email
