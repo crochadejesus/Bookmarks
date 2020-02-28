@@ -140,7 +140,13 @@
 ## CouchDB
 * [Apache CouchDB](http://couchdb.apache.org/)
 * [Couchbase and the Document-Oriented NoSQL Database](https://blog.couchbase.com/couchbase-and-the-document-oriented-nosql-database/)
+* [CouchDB Joins](https://www.cmlenz.net/archives/2007/10/couchdb-joins)
+* [CouchDB View with 2 Keys](https://stackoverflow.com/questions/10887359/couchdb-view-with-2-keys)
+* [CouchDB Query View with Multiple Keys Formatting](https://stackoverflow.com/questions/16763306/couchdb-query-view-with-multiple-keys-formatting)
 * [CouchDB, PouchDB, and Ionic 2: Querying Data with MapReduce](https://www.joshmorony.com/couchdb-pouchdb-and-ionic-2-querying-data-with-mapreduce/)
+* [How to pass two parameter values to couchdb views?](https://stackoverflow.com/questions/5742079/how-to-pass-two-parameter-values-to-couchdb-views#28884350)
+* [Multiple key search in CouchDB](https://stackoverflow.com/questions/10820579/multiple-key-search-in-couchdb)
+* [Multiple Search Keys in CouchDB](https://lornajane.net/posts/2017/multiple-search-keys-in-couchdb) - Lornajane
 * [Data Modeling Guidelines for NoSQL JSON Document Databases](https://mapr.com/blog/data-modeling-guidelines-nosql-json-document-databases/)
 * [Introduction to CouchDB with .NET](https://dotnetcodr.com/2017/05/15/introduction-to-couchdb-with-net-part-1-foundations-and-setup/)
 * [NOSQL DATA MODELING TECHNIQUES](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
@@ -150,13 +156,7 @@
 * [Three Traps To Avoid When Using a NoSQL Document Store](https://medium.com/statuscode/three-traps-to-avoid-when-using-a-nosql-document-store-12f9e83fd223)
 
 ### MyCouch
-* [CouchDB Joins](https://www.cmlenz.net/archives/2007/10/couchdb-joins)
-* [CouchDB View with 2 Keys](https://stackoverflow.com/questions/10887359/couchdb-view-with-2-keys)
-* [CouchDB Query View with Multiple Keys Formatting](https://stackoverflow.com/questions/16763306/couchdb-query-view-with-multiple-keys-formatting)
 * [Get up and running with CouchDb and CSharp using MyCouch on Windows](https://danielwertheim.se/get-up-and-running-with-couchdb-and-c-using-mycouch-on-windows/)
-* [How to pass two parameter values to couchdb views?](https://stackoverflow.com/questions/5742079/how-to-pass-two-parameter-values-to-couchdb-views#28884350)
-* [Multiple key search in CouchDB](https://stackoverflow.com/questions/10820579/multiple-key-search-in-couchdb)
-* [Multiple Search Keys in CouchDB](https://lornajane.net/posts/2017/multiple-search-keys-in-couchdb) - Lornajane
 * [MyCouch client configuration and usage](https://stackoverflow.com/questions/24796300/mycouch-client-configuration-and-usage)
 * [MyCouch Github](https://github.com/danielwertheim/MyCouch)
 * [MyCouch MyCouchClient Code Examples](https://csharp.hotexamples.com/examples/MyCouch/MyCouchClient/-/php-mycouchclient-class-examples.html)
