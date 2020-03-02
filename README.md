@@ -384,6 +384,7 @@ Eight years later — still going strong!
 * [Leak](https://www.leak.pt/)
 * [Medium](https://medium.com/)
 * [Neowin](https://www.neowin.net/)
+* [OpenSource](https://opensource.com//)
 * [Simple Talk](https://www.red-gate.com/simple-talk/dotnet/)
 * [TechCrunch](https://techcrunch.com/)
 * [The Register](https://www.theregister.co.uk/)
