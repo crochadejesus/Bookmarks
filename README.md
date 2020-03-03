@@ -2,6 +2,7 @@
 
 ## Dotnet
 * [ASP.NET Core 2.2 Docs](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.2)
+* [GitHub Project Provides 300-Plus Samples of ASP.NET Core/Blazor Fundamentals](https://visualstudiomagazine.com/articles/2020/02/27/aspnet-core-fundamentals.aspx)
 
 ### Components
 * [View components in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/view-components?view=aspnetcore-2.2)
