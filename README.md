@@ -164,6 +164,7 @@
 
 ## SQL
 * [The Curse and Blessings of Dynamic SQL](http://www.sommarskog.se/dynamic_sql.html)
+* [SQL Server Table Variables](https://www.sqlservertutorial.net/sql-server-user-defined-functions/sql-server-table-variables/)
 
 ## Host
 * [Host ASP.NET Core on Linux with Nginx](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-nginx?view=aspnetcore-2.2)
