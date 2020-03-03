@@ -161,6 +161,9 @@
 * [MyCouch Github](https://github.com/danielwertheim/MyCouch)
 * [MyCouch MyCouchClient Code Examples](https://csharp.hotexamples.com/examples/MyCouch/MyCouchClient/-/php-mycouchclient-class-examples.html)
 
+## SQL
+* [The Curse and Blessings of Dynamic SQL](http://www.sommarskog.se/dynamic_sql.html)
+
 ## Host
 * [Host ASP.NET Core on Linux with Nginx](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/linux-nginx?view=aspnetcore-2.2)
 * [How to host ASP.NET Core on Linux using Nginx?](https://medium.com/@setu677/how-to-host-asp-net-core-on-linux-using-nginx-85339560e929)
