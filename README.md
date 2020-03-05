@@ -138,11 +138,13 @@
 * [OpenAPI.Tools](https://openapi.tools/#)
 * [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
 
-### Job Scheduler/Windows Service
+### Job Scheduler
 * [CronMaker](http://www.cronmaker.com/)
 * [Hangfire](https://www.hangfire.io/)
 * [Quartz.NET](https://www.quartz-scheduler.net/)
 * [How to work with Quartz.Net in C#](https://www.infoworld.com/article/3078781/how-to-work-with-quartz-net-in-c.html)
+
+### Windows Service
 * [Topshelf](http://topshelf-project.com/)
 * [How to: Create a Windows Service with Topshelf — Part 1](https://medium.com/@milojevicmarko92/how-to-create-windows-service-with-topshelf-part-1-8262c942571a)
 * [Creating Windows Service In .NET with Topshelf](https://www.c-sharpcorner.com/article/creating-windows-service-in-net-with-topshelf/)
