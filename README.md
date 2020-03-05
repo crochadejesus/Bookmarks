@@ -161,6 +161,12 @@
 * [SimpleInjector](https://simpleinjector.org/)*
 * [Structuremap](https://github.com/structuremap/structuremap)
 
+### MyCouch
+* [Get up and running with CouchDb and CSharp using MyCouch on Windows](https://danielwertheim.se/get-up-and-running-with-couchdb-and-c-using-mycouch-on-windows/)
+* [MyCouch client configuration and usage](https://stackoverflow.com/questions/24796300/mycouch-client-configuration-and-usage)
+* [MyCouch Github](https://github.com/danielwertheim/MyCouch)
+* [MyCouch MyCouchClient Code Examples](https://csharp.hotexamples.com/examples/MyCouch/MyCouchClient/-/php-mycouchclient-class-examples.html)
+
 ## CouchDB
 * [Apache CouchDB](http://couchdb.apache.org/)
 * [Couchbase and the Document-Oriented NoSQL Database](https://blog.couchbase.com/couchbase-and-the-document-oriented-nosql-database/)
@@ -168,6 +174,7 @@
 * [CouchDB View with 2 Keys](https://stackoverflow.com/questions/10887359/couchdb-view-with-2-keys)
 * [CouchDB Query View with Multiple Keys Formatting](https://stackoverflow.com/questions/16763306/couchdb-query-view-with-multiple-keys-formatting)
 * [CouchDB, PouchDB, and Ionic 2: Querying Data with MapReduce](https://www.joshmorony.com/couchdb-pouchdb-and-ionic-2-querying-data-with-mapreduce/)
+* [CouchDB The Definitive Guide](http://guide.couchdb.org/index.html)
 * [How to pass two parameter values to couchdb views?](https://stackoverflow.com/questions/5742079/how-to-pass-two-parameter-values-to-couchdb-views#28884350)
 * [Multiple key search in CouchDB](https://stackoverflow.com/questions/10820579/multiple-key-search-in-couchdb)
 * [Multiple Search Keys in CouchDB](https://lornajane.net/posts/2017/multiple-search-keys-in-couchdb) - Lornajane
@@ -178,12 +185,6 @@
 * [Thinking in Documents: Part 1](https://www.mongodb.com/blog/post/thinking-documents-part-1)
 * [Three Reasons To Use a NoSQL Document Store for Your Next Web Application](https://medium.com/statuscode/three-reasons-to-use-a-nosql-document-store-for-your-next-web-application-6b9eabffc8d8)
 * [Three Traps To Avoid When Using a NoSQL Document Store](https://medium.com/statuscode/three-traps-to-avoid-when-using-a-nosql-document-store-12f9e83fd223)
-
-### MyCouch
-* [Get up and running with CouchDb and CSharp using MyCouch on Windows](https://danielwertheim.se/get-up-and-running-with-couchdb-and-c-using-mycouch-on-windows/)
-* [MyCouch client configuration and usage](https://stackoverflow.com/questions/24796300/mycouch-client-configuration-and-usage)
-* [MyCouch Github](https://github.com/danielwertheim/MyCouch)
-* [MyCouch MyCouchClient Code Examples](https://csharp.hotexamples.com/examples/MyCouch/MyCouchClient/-/php-mycouchclient-class-examples.html)
 
 ## SQL
 * [The Curse and Blessings of Dynamic SQL](http://www.sommarskog.se/dynamic_sql.html)
