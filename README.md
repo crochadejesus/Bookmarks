@@ -150,6 +150,17 @@
 * [Creating Windows Service In .NET with Topshelf](https://www.c-sharpcorner.com/article/creating-windows-service-in-net-with-topshelf/)
 * [Creating Windows Services In .NET Core – Part 2 – The “Topshelf” Way](https://dotnetcoretutorials.com/2019/09/27/creating-windows-services-in-net-core-part-2-the-topshelf-way/)
 
+### IoC
+* [IoC Container Benchmark - Performance comparison](https://www.palmmedia.de/blog/2011/8/30/ioc-container-benchmark-performance-comparison)
+* [Autofac](https://github.com/autofac/)
+* [DryIoc](https://github.com/dadhi/DryIoc)*
+* [Grace](https://github.com/ipjohnson/Grace)
+* [Lamar](https://jasperfx.github.io/lamar/)
+* [LightInject](https://github.com/seesharper/LightInject)*
+* [Rezolver](http://rezolver.co.uk/developers/)
+* [SimpleInjector](https://simpleinjector.org/)*
+* [Structuremap](https://github.com/structuremap/structuremap)
+
 ## CouchDB
 * [Apache CouchDB](http://couchdb.apache.org/)
 * [Couchbase and the Document-Oriented NoSQL Database](https://blog.couchbase.com/couchbase-and-the-document-oriented-nosql-database/)
