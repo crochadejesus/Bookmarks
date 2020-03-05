@@ -138,6 +138,12 @@
 * [OpenAPI.Tools](https://openapi.tools/#)
 * [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
 
+### Job Scheduler/Windows Service
+* [CronMaker](http://www.cronmaker.com/)
+* [Hangfire](https://www.hangfire.io/)
+* [Quartz.NET](https://www.quartz-scheduler.net/)
+* [Topshelf](http://topshelf-project.com/)
+
 ## CouchDB
 * [Apache CouchDB](http://couchdb.apache.org/)
 * [Couchbase and the Document-Oriented NoSQL Database](https://blog.couchbase.com/couchbase-and-the-document-oriented-nosql-database/)
