@@ -142,7 +142,11 @@
 * [CronMaker](http://www.cronmaker.com/)
 * [Hangfire](https://www.hangfire.io/)
 * [Quartz.NET](https://www.quartz-scheduler.net/)
+* [How to work with Quartz.Net in C#](https://www.infoworld.com/article/3078781/how-to-work-with-quartz-net-in-c.html)
 * [Topshelf](http://topshelf-project.com/)
+* [How to: Create a Windows Service with Topshelf — Part 1](https://medium.com/@milojevicmarko92/how-to-create-windows-service-with-topshelf-part-1-8262c942571a)
+* [Creating Windows Service In .NET with Topshelf](https://www.c-sharpcorner.com/article/creating-windows-service-in-net-with-topshelf/)
+* [Creating Windows Services In .NET Core – Part 2 – The “Topshelf” Way](https://dotnetcoretutorials.com/2019/09/27/creating-windows-services-in-net-core-part-2-the-topshelf-way/)
 
 ## CouchDB
 * [Apache CouchDB](http://couchdb.apache.org/)
