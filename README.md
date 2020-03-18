@@ -429,6 +429,7 @@ Eight years later — still going strong!
 * [Dinheiro Vivo](https://www.dinheirovivo.pt/)
 * [DN Insider](http://insider.dn.pt/)
 * [Euronews](https://pt.euronews.com/)
+* [Expresso](https://expresso.pt/)
 * [Jornais Portugal - Todos Os Jornais Portugueses](http://www.prensaescrita.com/portugal.php)
 * [Jornal de Notícias](https://www.jn.pt/)
 * [Negócios](http://www.jornaldenegocios.pt/)
