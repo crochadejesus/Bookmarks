@@ -32,6 +32,7 @@
 * [ASP.NET Core 2.2 - JWT Authentication Tutorial with Example API](https://jasonwatmore.com/post/2018/08/14/aspnet-core-21-jwt-authentication-tutorial-with-example-api)
 * [Blacklisting JSON Web Token API Keys](https://auth0.com/blog/blacklist-json-web-token-api-keys/)
 * [Canceling JWT tokens in .NET Core](https://piotrgankiewicz.com/2018/04/25/canceling-jwt-tokens-in-net-core/)
+* [Creating And Validating JWT Tokens In ASP.NET Core](https://dotnetcoretutorials.com/2020/01/15/creating-and-validating-jwt-tokens-in-asp-net-core/)
 * [JSON Web Token (JWT)](https://www.rfc-editor.org/rfc/rfc7519.html)
 * [JWT refresh tokens and .NET Core](https://piotrgankiewicz.com/2017/12/07/jwt-refresh-tokens-and-net-core/)
 * [JWT Validation and Authorization in ASP.NET Core](https://devblogs.microsoft.com/aspnet/jwt-validation-and-authorization-in-asp-net-core/)
