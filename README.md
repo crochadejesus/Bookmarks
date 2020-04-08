@@ -423,7 +423,7 @@ Eight years later — still going strong!
 * [Windows Central](https://www.windowscentral.com/)
 * [Windows Developer Blog](https://blogs.windows.com/buildingapps/#W4zCY3Dbvgq9OAJr.97)
 
-## Portugal News
+## Euro News
 * [Agencia Europa Press - PortalTIC](http://m.europapress.es/portaltic/)
 * [Correio da Manhã](http://www.cmjornal.pt/)
 * [Diário de Notícias](https://www.dn.pt/)
@@ -436,6 +436,7 @@ Eight years later — still going strong!
 * [Negócios](http://www.jornaldenegocios.pt/)
 * [O Jornal Económico](http://www.jornaleconomico.sapo.pt/)
 * [Observador](https://observador.pt/)
+* [Politico](https://www.politico.eu/)
 * [PÚBLICO](https://www.publico.pt/)
 
 ## Car news
