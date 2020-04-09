@@ -334,6 +334,7 @@ Eight years later — still going strong!
 * [Bootstrap Dashboard](https://bootstrapious.com/p/bootstrap-4-dashboard)
 * [BOOTSTRAP 4 MATERIAL ADMIN](https://bootstrapious.com/p/admin-template)
 * [CoreUI](https://coreui.io/)
+* [Dashboardpack](https://dashboardpack.com/live-demo-preview/?livedemo=290&v=35357b9c8fe4)
 * [Modular Admin](https://modularcode.io/)
 * [Shards Dashboard Lite](https://designrevision.com/downloads/shards-dashboard-lite/)
 * [Sing App](https://flatlogic.github.io/sing-app/index.html)
