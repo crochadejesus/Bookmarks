@@ -240,7 +240,6 @@ Responsive, touch-enabled and customizable.
 Eight years later — still going strong!
 
 ### Utility
-* [Animate CSS](https://daneden.github.io/animate.css/) -- Just-add-water CSS animations
 * [Autosize](http://www.jacklmoore.com/autosize/) -- A small, stand-alone script to automatically adjust textarea height.
 * [FastClick](https://labs.ft.com/fastclick/) -- Polyfill to remove click delays on browsers with touch UIs
 * [Gauge](http://bernii.github.io/gauge.js/) -- 100% native and cool looking animated JavaScript/CoffeeScript
@@ -271,6 +270,11 @@ Eight years later — still going strong!
 * [Foundation-datepicker.js](http://foundation-datepicker.peterbeno.com/#basic-example)
 * [jQ Datepicker](https://fengyuanchen.github.io/datepicker/)
 
+### Carousel
+* [Slick](https://kenwheeler.github.io/slick/)
+
+### Lightbox
+* [magnific-popup](https://dimsemenov.com/plugins/magnific-popup/)
 
 ## HTML
 ### Reference
@@ -300,6 +304,7 @@ Eight years later — still going strong!
 * [Vivify](https://github.com/Martz90/vivify) -- Vivify is free CSS animation library.
 
 ### Animation
+* [Animate CSS](https://daneden.github.io/animate.css/) -- Just-add-water CSS animations
 * [10 Examples of Pure CSS Animation on CodePen](https://webdesign.tutsplus.com/articles/pure-css-animation-inspiration-on-codepen--cms-30875)
 
 ### Pagination
