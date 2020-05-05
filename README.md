@@ -300,11 +300,25 @@ Eight years later — still going strong!
 * [W3.CSS Templates](https://www.w3schools.com/w3css/w3css_templates.asp)
 * [W3.CSS Tutorial](https://www.w3schools.com/w3css/default.asp)
 
-### Library
-* [Vivify](https://github.com/Martz90/vivify) -- Vivify is free CSS animation library.
+### Framework CSS
+* [Bootstrap](https://getbootstrap.com/)
+* [Bulma](https://bulma.io/)
+* [Foundation](https://get.foundation/)
+* [Materialize CSS](https://materializecss.com/)
+* [Milligram](https://milligram.io/)
+* [Pure](https://purecss.io/)
+* [Semantic UI](https://semantic-ui.com/)
+* [UI kit](https://getuikit.com/)
+* [Skeleton](http://getskeleton.com/)
+* [Spectre](https://picturepan2.github.io/spectre/)
+* [Base](https://getbase.org/)
+* [Picnic CSS](https://picnicss.com/)
+* [Mustard UI](https://mustard-ui.com/)
+* [Dead Simple Grid](https://github.com/mourner/dead-simple-grid)
 
 ### Animation
 * [Animate CSS](https://daneden.github.io/animate.css/) -- Just-add-water CSS animations
+* [Vivify](https://github.com/Martz90/vivify) -- Vivify is free CSS animation library.
 * [10 Examples of Pure CSS Animation on CodePen](https://webdesign.tutsplus.com/articles/pure-css-animation-inspiration-on-codepen--cms-30875)
 
 ### Pagination
