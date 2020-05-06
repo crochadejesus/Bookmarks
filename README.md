@@ -316,6 +316,18 @@ Eight years later — still going strong!
 * [Mustard UI](https://mustard-ui.com/)
 * [Dead Simple Grid](https://github.com/mourner/dead-simple-grid)
 
+### Color Pallete
+* [Color Book](https://www.colorbook.io)
+* [Coolors](https://coolors.co)
+* [Color Hunt](https://colorhunt.co/)
+* [Palettons](https://paletton.com/)
+* [Colormind](http://colormind.io/)
+* [Color-Hex](https://www.color-hex.com/)
+* [Htmlcolorcodes](https://htmlcolorcodes.com/)
+* [Color Palettes](https://colorpalettes.net/)
+
+
+
 ### Animation
 * [Animate CSS](https://daneden.github.io/animate.css/) -- Just-add-water CSS animations
 * [Vivify](https://github.com/Martz90/vivify) -- Vivify is free CSS animation library.
