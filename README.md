@@ -569,3 +569,6 @@ Eight years later — still going strong!
 * [Aquariofilia.net](https://www.aquariofilia.net/forum/)
 * [Solaqua](https://www.solaqua.net/)
 * [Tropica](https://tropica.com/en/)
+
+# Investments
+* [Dividend Max](https://www.dividendmax.com/portugal/euronext-lisbon/retailers/jeronimo-martins-sgps/dividends)
