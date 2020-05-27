@@ -326,7 +326,8 @@ Eight years later — still going strong!
 * [Htmlcolorcodes](https://htmlcolorcodes.com/)
 * [Color Palettes](https://colorpalettes.net/)
 
-
+### Gradient
+* [cssgradient](https://cssgradient.io/)
 
 ### Animation
 * [Animate CSS](https://daneden.github.io/animate.css/) -- Just-add-water CSS animations
