@@ -360,6 +360,7 @@ Eight years later — still going strong!
 * https://rimdev.io/css-only-dropdown-menu/
 * https://www.tutorialspoint.com/how-to-create-a-clickable-dropdown-menu-with-css-and-javascript
 * https://codepen.io/jakka/pen/NNQpoj
+* [Tabs horizontal scroll](https://www.codeply.com/p/YVSUDyMvZc)
 
 ### Tutorial
 * [MDBootstrap](https://mdbootstrap.com/docs/jquery/content/images/)
@@ -741,3 +742,24 @@ Eight years later — still going strong!
 * https://www.printful.com/how-printful-works
 * https://printify.com/comparison-printify-vs-printful-vs-printaura/?utm_source=google&utm_medium=cpc&utm_campaign=CP_EUR
 * https://moteefe.com/?locale=pt&user_currency=EUR
+
+## Payments
+* https://stripe.com/en-pt
+* https://stripe.com/docs/api
+
+## Others
+* [35+ Free Public APIs to Improve Productivity](https://dev.to/olanetsoft/35-free-public-apis-to-improve-productivity-2abo)
+* [Most Popular API Integrations](https://rapidapi.com/blog/most-popular-api/?utm_source=google&utm_medium=cpc&utm_campaign=Beta&utm_term=%2Bapi_b&gclid=CjwKCAiA_9r_BRBZEiwAHZ_v1wViYH_LYXyPh7I3qtB1KfV7b0LI_78da9ZHDZ_lSEfejHl2ZnCo4RoCpNoQAvD_BwE#quick-links)
+
+## MNM
+* https://mnmnotmail.org/
+* http://cr.yp.to/proto/qmtp.txt
+* https://en.wikipedia.org/wiki/Daniel_J._Bernstein
+* https://bryanbrattlof.com/cgit-nginx-gitolite-a-personal-git-server/)
+
+## Chat
+* https://en.wikipedia.org/wiki/Element_(software)
+* https://matrix.org/
+
+## Free Course
+* [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-libraries/)
