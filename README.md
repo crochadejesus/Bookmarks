@@ -3,6 +3,20 @@
 ## Dotnet
 * [ASP.NET Core 2.2 Docs](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.2)
 * [GitHub Project Provides 300-Plus Samples of ASP.NET Core/Blazor Fundamentals](https://visualstudiomagazine.com/articles/2020/02/27/aspnet-core-fundamentals.aspx)
+* https://docs.microsoft.com/en-us/aspnet/core/fundamentals/startup?view=aspnetcore-5.0
+* https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-model?view=aspnetcore-5.0&tabs=visual-studio-code
+* https://docs.microsoft.com/en-us/aspnet/core/security/authorization/dependencyinjection?view=aspnetcore-5.0
+* https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/dependency-injection?view=aspnetcore-5.0
+* https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/?view=aspnetcore-5.0
+* https://www.youtube.com/watch?v=Pi46L7UYP8I
+* https://www.youtube.com/watch?v=C5cnZ-gZy2I
+* https://devblogs.microsoft.com/aspnet/creating-discoverable-http-apis-with-asp-net-core-5-web-api/
+* https://devblogs.microsoft.com/aspnet/open-source-http-api-packages-and-tools/
+* https://www.theurlist.com/aspnet-standup-2021-02-16
+* https://channel9.msdn.com/Shows/On-NET/Packaging-and-deploying-NET-Core-for-Linux-Part-1
+* https://channel9.msdn.com/Shows/On-NET/Packaging-and-deploying-NET-Core-for-Linux-Part-2
+* https://dotnetthoughts.net/how-to-display-app-version-in-aspnet-core/
+* https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options?view=aspnetcore-2.2
 
 ### Components
 * [View components in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/view-components?view=aspnetcore-2.2)
@@ -26,6 +40,9 @@
 * [Lightweight custom authentication with ASP.NET Core](https://gunnarpeipman.com/aspnet-core-custom-authentication/)
 * [Overview of ASP.NET Core Security](https://docs.microsoft.com/en-us/aspnet/core/security/?view=aspnetcore-2.2)
 * [Securing an ASP.NET Core MVC application which uses a secure API](https://damienbod.com/2018/02/02/securing-an-asp-net-core-mvc-application-which-uses-a-secure-api/)
+* https://www.youtube.com/watch?v=BWa7Mu-oMHk
+* https://balta.io/artigos/aspnet-5-autenticacao-autorizacao-bearer-jwt
+* https://www.codeproject.com/Articles/1203978/JWT-Security-Part-Secure-MVC-application
 
 #### JWT
 * [7 Best Practices for JSON Web Tokens ](https://dev.to/neilmadden/7-best-practices-for-json-web-tokens)
@@ -61,7 +78,13 @@
 * [Implement LDAP / AD auth extension for .net core 2.0](https://github.com/aspnetboilerplate/aspnetboilerplate/issues/2755)
 * [Install and Configure Linux LDAP Server](https://likegeeks.com/linux-ldap-server/amp/)
 
-#### Encrypt
+### EF
+* https://docs.microsoft.com/en-us/ef/core/performance/
+* https://www.learnentityframeworkcore.com/configuration/many-to-many-relationship-configuration
+* https://blog.jetbrains.com/dotnet/2021/02/24/entity-framework-core-5-pitfalls-to-avoid-and-ideas-to-try/
+* https://docs.microsoft.com/en-us/ef/core/modeling/entity-types?tabs=data-annotations
+
+### Encrypt
 * [Best way to secure password using Cryptographic algorithms in C# .NET](https://immortalcoder.blogspot.com/2015/11/best-way-to-secure-password-using-cryptographic-algorithms-in-csharp-dotnet.html)
 * [Encrypt & Decrypt String in ASP.NET Core](https://mikaelkoskinen.net/post/encrypt-decrypt-string-asp-net-core)
 * [Password security best practices (with examples in C#)](https://www.mking.net/blog/password-security-best-practices-with-examples-in-csharp)
@@ -162,11 +185,37 @@
 * [SimpleInjector](https://simpleinjector.org/)*
 * [Structuremap](https://github.com/structuremap/structuremap)
 
+### Restclient
+* [flurl](https://flurl.dev/)
+* [RestClient](https://github.com/MelbourneDeveloper/RestClient.Net)
+* [restsharp](https://restsharp.dev/)
+
 ### MyCouch
 * [Get up and running with CouchDb and CSharp using MyCouch on Windows](https://danielwertheim.se/get-up-and-running-with-couchdb-and-c-using-mycouch-on-windows/)
 * [MyCouch client configuration and usage](https://stackoverflow.com/questions/24796300/mycouch-client-configuration-and-usage)
 * [MyCouch Github](https://github.com/danielwertheim/MyCouch)
 * [MyCouch MyCouchClient Code Examples](https://csharp.hotexamples.com/examples/MyCouch/MyCouchClient/-/php-mycouchclient-class-examples.html)
+
+### Automapper
+* https://www.thereformedprogrammer.net/building-efficient-database-queries-using-entity-framework-core-and-automapper/
+* https://lostechies.com/jimmybogard/2014/03/11/efficient-querying-with-linq-automapper-and-future-queries/ 
+
+### Localization
+* https://www.youtube.com/watch?v=gov2ZVUSrYs&t=2s
+* https://www.youtube.com/watch?v=Hy9G30nncMM
+* https://www.youtube.com/watch?v=33okCuCK3Ik
+* https://www.youtube.com/watch?v=gov2ZVUSrYs
+* https://stackoverflow.com/questions/40953193/vs-code-resx-file-extension
+* https://docs.microsoft.com/en-us/aspnet/core/fudamentals/localization
+* https://docs.microsoft.com/en-us/aspnet/core/fundamentals/portable-object-localization?view=aspnetcore-5.0
+* https://www.youtube.com/watch?v=_fgbl5SRNnw
+* https://www.gnu.org/savannah-checkouts/gnu/gettext/manual/html_node/PO-Files.html
+* https://gist.github.com/sebastienros/7980aad2ab33dd3a1c011fcf5a3f350c
+* 
+### Newtonsoft.Json
+* https://docs.microsoft.com/en-us/dotnet/standard/serialization/system-text-json-migrate-from-newtonsoft-how-to?pivots=dotnet-5-0
+* https://anthonygiretti.com/2020/05/10/why-model-binding-to-jobject-from-a-request-doesnt-work-anymore-in-asp-net-core-3-1-and-whats-the-alternative/
+* https://geeksarray.com/blog/aspnet-core-mvc-model-binding
 
 ## CouchDB
 * [Apache CouchDB](http://couchdb.apache.org/)
@@ -199,6 +248,7 @@
 * [Javacripting](https://www.javascripting.com/?sort=rating) -- The definitive source of the best 
 JavaScript libraries, frameworks, and plugins.
 * [You Might Not Need jQuery](http://youmightnotneedjquery.com/)
+* https://dev.to/myogeshchavan97/the-most-useful-javascript-array-methods-explained-with-examples-1c54
 
 ### Reference
 * [Best Of JS](https://bestofjs.org/) -- The best of JavaScript, HTML and CSS
@@ -290,15 +340,38 @@ Eight years later — still going strong!
 * [CSS Reference](https://cssreference.io/)
 * [CSS Tricks](https://css-tricks.com)
 * [MDN](https://developer.mozilla.org/en-US/docs/Glossary/CSS)
+* https://desenvolvimentoparaweb.com/css/variaveis-css-guia-pratico/
+* https://codersblock.com/blog/diving-into-the-before-and-after-pseudo-elements/
+* https://webdesign.tutsplus.com/tutorials/building-an-admin-dashboard-layout-with-css-and-a-touch-of-javascript--cms-33964
+* https://webdesign.tutsplus.com/tutorials/toggle-switch-component-with-css-checkbox-hack--cms-35011
+* https://materialdesignicons.com/
+* https://iconify.design/icon-sets/mdi/
+* https://cssgrid.io/
+* https://flexbox.io/
+* https://hulyakarakaya.hashnode.dev/ultimate-free-javascript-resources
+* https://hulyakarakaya.hashnode.dev/50-free-websites-for-learning-how-to-code
 
 ### Utility
 * [Codepen](https://codepen.io/)
 * [Colorhexa](https://www.colorhexa.com/)
 
+### Clickable Dropdown only CSS
+* https://jsfiddle.net/icebob/m7o1Lase/
+* https://rimdev.io/css-only-dropdown-menu/
+* https://www.tutorialspoint.com/how-to-create-a-clickable-dropdown-menu-with-css-and-javascript
+* https://codepen.io/jakka/pen/NNQpoj
+
 ### Tutorial
 * [MDBootstrap](https://mdbootstrap.com/docs/jquery/content/images/)
 * [W3.CSS Templates](https://www.w3schools.com/w3css/w3css_templates.asp)
 * [W3.CSS Tutorial](https://www.w3schools.com/w3css/default.asp)
+* https://moderncss.dev/custom-css-styles-for-form-inputs-and-textareas/
+* https://dev.to/joyshaheb/flexbox-cheat-sheets-in-2021-css-2021-3edl
+* https://code.tutsplus.com/tutorials/20-html-forms-best-practices-for-beginners--net-6593
+* https://www.delidded.com/html-css-practice-test/html-form-practice-problems/
+* https://blog.logrocket.com/how-to-style-forms-with-css-a-beginners-guide/
+* https://css-tricks.com/custom-styling-form-inputs-with-modern-css-features/
+* https://www.digitalocean.com/community/tutorials/css-styling-form-input-validity
 
 ### Framework CSS
 * [Bootstrap](https://getbootstrap.com/)
@@ -353,6 +426,40 @@ Eight years later — still going strong!
 ### Icons
 * [15 of the best/largest icon libraries](https://dev.to/weeb/15-of-the-best-and-largest-icon-libraries-4p5n)
 
+### Web UI
+* https://developer.microsoft.com/en-us/fluentui#/
+* https://material.io/components?platform=web
+
+### Tab Scrollable
+* https://web.dev/building-a-tabs-component/
+* https://codepen.io/srees/pen/pgVLbm
+* https://css-tricks.com/pure-css-horizontal-scrolling/
+
+## Tab CSS
+* https://bulmatemplates.github.io/bulma-templates/templates/tabs.html
+* https://freefrontend.com/css-tabs/
+* https://speckyboy.com/10-simple-code-snippets-creating-beautiful-tabs/
+* https://codepen.io/josh_vogt/pen/EaaZbP
+* https://onaircode.com/howto-html-css-tabs-menu/
+* https://wikiki.github.io/
+* https://web.dev/building-a-sidenav-component/
+* https://web.dev/carousel-best-practices/
+* https://web.dev/sign-up-form-best-practices/
+* https://github.com/jgthms/bulma/issues/2192
+* https://mybyways.com/blog/single-page-bulma-template-with-smooth-scroll-and-scroll-spy-javascript
+* https://materialdesignicons.com/
+* https://www.codeply.com/p/YVSUDyMvZc
+
+### SASS
+* https://sass-lang.com/guide
+
+## Free Images
+* https://dev.to/hulyakarakaya/70-websites-with-free-images-videos-and-tools-for-your-projects-3ofc
+
+## Free Documentation
+* https://devdocs.io/
+* https://ebookfoundation.github.io/free-programming-books/
+
 ## Bootstrap
 ### Tutorials
 * [Bootstrap 4 Vertical Side Menu](https://code.luasoftware.com/tutorials/bootstrap/bootstrap4-vertical-side-menu/)
@@ -379,15 +486,24 @@ Eight years later — still going strong!
 * [Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 
 ## Utility
-* [4Devs Ferramentas online](https://www.4devs.com.br/) - Geração de pessoas e documentos
 * [CodePen](https://codepen.io/) -- CodePen is a social development environment for front-end designers and developers.
 * [Codeply](https://www.codeply.com/) -- Responsive Design Playground & Frontend Editor.
 * [Json2CSharp](http://json2csharp.com/) -- generate c# classes from json
 * [JsonUtils](https://jsonutils.com/)
+* [jsfiddle](https://jsfiddle.net/)
 * [HTTP Status Codes](https://httpstatuses.com/) -- httpstatuses.com is an easy to reference database of HTTP Status Codes with their definitions and helpful code references all in one place.
 * [Lipsum](https://www.lipsum.com/) -- Lorem Ipsum Generator
 * [QuickType](https://quicktype.io/) -- Instantly generate C# models and helper methods from JSON.
 * [Material Design Icons](https://material.io/tools/icons/?style=baseline)
+
+## Forms and registrations
+* https://www.myfakeinfo.com/index.php
+* https://fauxid.com/fake-name-generator/portugal
+* https://www.braemoor.co.uk/software/vattest.php
+* https://www.racius.com/seguros-nao-vida/em-atividade/2/
+* https://www.comparamais.pt/blog/nib-iban-bic-swift-bancos-portugueses
+* http://randomiban.com/?country=Portugal
+* [4Devs Ferramentas online](https://www.4devs.com.br/) - Geração de pessoas e documentos
 
 ## Infrastructure
 * [Example syntax for Secure Copy (scp)](http://www.hypexr.org/linux_scp_help.php)
@@ -572,5 +688,56 @@ Eight years later — still going strong!
 * [Solaqua](https://www.solaqua.net/)
 * [Tropica](https://tropica.com/en/)
 
-# Investments
+# Stocks
 * [Dividend Max](https://www.dividendmax.com/portugal/euronext-lisbon/retailers/jeronimo-martins-sgps/dividends)
+* https://br.advfn.com/mundo/portugal
+
+## Companies types
+* https://en.wikipedia.org/wiki/List_of_legal_entity_types_by_country#United_Kingdom
+
+## Learn C#
+* https://stackify.com/learn-c-sharp-tutorials/
+* https://www.learncs.org/
+* http://www.tutorialspoint.com/csharp
+* https://www.tutorialsteacher.com/csharp/csharp-tutorials
+* https://www.lynda.com/C-tutorials/Up-Running-C/164452-2.html
+* http://w3schools.com/
+* http://asp.net-tutorials.com/
+* https://crbtech.in/dot-net-training/learn-dot-net-programming-step-step/
+* http://www.productivecsharp.com/
+* https://coupontry.wordpress.com/2018/complete-csharp-masterclass/
+* https://www.simpliv.com/csharp/api-in-c-the-best-practices-of-design-and-implementation
+* https://www.simpliv.com/csharp/c-in-depth-puzzles-gotchas-questions-at-interviews
+* https://www.codesdope.com/course/c-sharp-introduction/
+* http://csharp-station.com/Tutorial/CSharp/SmartConsoleSetup.aspx
+* https://www.edx.org/course/programming-c-microsoft-dev204x-3 
+* https://mva.microsoft.com/en-US/training-courses/c-fundamentals-for-absolute-beginners-16169?l=Lvld4EQIC_2706218949
+
+## Learn HTML
+* https://www.learn-html.org/
+* https://www.udemy.com/course/html-and-css-for-beginners-crash-course-learn-fast-easy/
+* https://www.codecademy.com/catalog/language/html-css
+* https://www.codecademy.com/learn/learn-html
+* https://www.udacity.com/course/intro-to-html-and-css--ud001
+* https://www.w3schools.com/html/default.asp
+
+## Learn CSS
+* https://www.w3schools.com/css/default.asp
+* https://dev.to/surajondev/css-position-property-explained-3eg7
+* 
+## Learn Javascript
+* https://www.learn-js.org/
+* https://www.tutorialsteacher.com/javascript/javascript-tutorials
+* https://www.codecademy.com/catalog/language/javascript
+* https://www.w3schools.com/js/default.asp
+
+## Web development
+* https://www.w3schools.com/whatis/default.asp
+* https://dev.to/worldindev/5-tips-to-improve-your-eye-of-design-4nka
+
+## POD
+* https://blog.sellfy.com/teespring-alternatives/#sellfy
+* https://sellfy.com/
+* https://www.printful.com/how-printful-works
+* https://printify.com/comparison-printify-vs-printful-vs-printaura/?utm_source=google&utm_medium=cpc&utm_campaign=CP_EUR
+* https://moteefe.com/?locale=pt&user_currency=EUR
