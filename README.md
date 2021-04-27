@@ -677,7 +677,8 @@ Eight years later — still going strong!
 ## Dictionary
 * [Business Dictionary](http://www.businessdictionary.com/)
 * [Merriam-webster](https://www.merriam-webster.com/)
-* [Oxford](https://www.lexico.com/)
+* [Oxford](https://www.oxfordlearnersdictionaries.com/)
+* [Lexico](https://www.lexico.com/)
 * [Thesaurus](https://www.thesaurus.com/)
 * [The-conjugation.com](https://www.the-conjugation.com/english/verb/register.php)
 * [What is the plural of](https://www.wordhippo.com/what-is/the-plural-of/register.html)
