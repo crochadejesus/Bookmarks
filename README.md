@@ -631,8 +631,10 @@ Eight years later — still going strong!
 * [B98.7 KBEE-FM](http://www.b987.com/)
 * [Aardvark Blues FM](https://www.aardvarkbluesfm.com/)
 * [BBC Radio 1](https://www.bbc.co.uk/radio1)
+* [Freecodecamp CodeRadio](https://coderadio.freecodecamp.org/)
 * [Hitsradio](https://www.hitsradio.com/#/)
 * [Radio Online](https://radioonline.com.pt/)
+* [Soundcloud](https://soundcloud.com/discover)
 * [TuneIn](https://tunein.com/)
 
 ## TV
