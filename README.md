@@ -553,6 +553,7 @@ Eight years later — still going strong!
 
 ## IT News
 * [4gnews](https://4gnews.pt/)
+* [.NET Blog](https://devblogs.microsoft.com/dotnet/)
 * [Channel 9](https://channel9.msdn.com/)
 * [DEV Community](https://dev.to/)
 * [Flipboard](https://flipboard.com/)
