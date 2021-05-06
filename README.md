@@ -345,7 +345,6 @@ Eight years later — still going strong!
 * https://webdesign.tutsplus.com/tutorials/building-an-admin-dashboard-layout-with-css-and-a-touch-of-javascript--cms-33964
 * https://webdesign.tutsplus.com/tutorials/toggle-switch-component-with-css-checkbox-hack--cms-35011
 * https://materialdesignicons.com/
-* https://iconify.design/icon-sets/mdi/
 * https://cssgrid.io/
 * https://flexbox.io/
 * https://hulyakarakaya.hashnode.dev/ultimate-free-javascript-resources
@@ -426,6 +425,10 @@ Eight years later — still going strong!
 
 ### Icons
 * [15 of the best/largest icon libraries](https://dev.to/weeb/15-of-the-best-and-largest-icon-libraries-4p5n)
+* [Findicons](https://findicons.com/)
+* [Flaticon](https://www.flaticon.com/free-icon/animal_47247)
+* [Iconify](https://iconify.design/icon-sets/mdi/)
+* [The Noun Project](https://thenounproject.com/)
 
 ### Web UI
 * https://developer.microsoft.com/en-us/fluentui#/
@@ -448,7 +451,6 @@ Eight years later — still going strong!
 * https://web.dev/sign-up-form-best-practices/
 * https://github.com/jgthms/bulma/issues/2192
 * https://mybyways.com/blog/single-page-bulma-template-with-smooth-scroll-and-scroll-spy-javascript
-* https://materialdesignicons.com/
 * https://www.codeply.com/p/YVSUDyMvZc
 
 ### SASS
