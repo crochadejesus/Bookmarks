@@ -349,6 +349,7 @@ Eight years later — still going strong!
 * https://flexbox.io/
 * https://hulyakarakaya.hashnode.dev/ultimate-free-javascript-resources
 * https://hulyakarakaya.hashnode.dev/50-free-websites-for-learning-how-to-code
+* [The Ultimate Web Developer Resources List 🔥Awesome 200+ Resources](https://dev.to/kiranrajvjd/the-ultimate-web-developer-resources-list-200-resources-2gf5)
 
 ### Utility
 * [Codepen](https://codepen.io/)
