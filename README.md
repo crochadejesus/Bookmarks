@@ -460,6 +460,9 @@ Eight years later — still going strong!
 ## Free Images
 * https://dev.to/hulyakarakaya/70-websites-with-free-images-videos-and-tools-for-your-projects-3ofc
 
+## Free Fonts
+* [1001freefonts](https://www.1001freefonts.com/)
+
 ## Free Documentation
 * https://devdocs.io/
 * https://ebookfoundation.github.io/free-programming-books/
