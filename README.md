@@ -540,6 +540,17 @@ Eight years later — still going strong!
 * [SmarterASP.net](http://www.smarterasp.net/)
 * [Whois](https://www.whois.com/)
 
+##Principles and Guidelines
+* [Code Guidelines](https://dev.azure.com/Whitestar-AssetSolutions/Real%20Estate%20Portal/_wiki/wikis/Real-Estate-Portal.wiki/117/Code-Guidelines)
+* [API Guidelines](https://dev.azure.com/Whitestar-AssetSolutions/Real%20Estate%20Portal/_wiki/wikis/Real-Estate-Portal.wiki/120/API-Guidelines)
+* [Scrum Guidelines](https://dev.azure.com/Whitestar-AssetSolutions/Real%20Estate%20Portal/_wiki/wikis/Real-Estate-Portal.wiki/119/Scrum-Guidelines)
+* [Authorization Name Pattern](https://dev.azure.com/Whitestar-AssetSolutions/Real%20Estate%20Portal/_wiki/wikis/Real-Estate-Portal.wiki/1158/Authorization-Name-Pattern)
+* [SOLID](https://en.wikipedia.org/wiki/SOLID)
+* [KISS](https://en.wikipedia.org/wiki/KISS_principle)
+* [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=From%20Wikipedia%2C%20the%20free%20encyclopedia,data%20normalization%20to%20avoid%20redundancy.)
+* [BEM](http://getbem.com/)
+* [rscss](https://rscss.io/)
+
 ## Crypto
 * [Decrypt](https://decrypt.co)
 
