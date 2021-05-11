@@ -540,7 +540,7 @@ Eight years later — still going strong!
 * [SmarterASP.net](http://www.smarterasp.net/)
 * [Whois](https://www.whois.com/)
 
-##Principles and Guidelines
+## Principles and Guidelines
 * [Code Guidelines](https://dev.azure.com/Whitestar-AssetSolutions/Real%20Estate%20Portal/_wiki/wikis/Real-Estate-Portal.wiki/117/Code-Guidelines)
 * [API Guidelines](https://dev.azure.com/Whitestar-AssetSolutions/Real%20Estate%20Portal/_wiki/wikis/Real-Estate-Portal.wiki/120/API-Guidelines)
 * [Scrum Guidelines](https://dev.azure.com/Whitestar-AssetSolutions/Real%20Estate%20Portal/_wiki/wikis/Real-Estate-Portal.wiki/119/Scrum-Guidelines)
