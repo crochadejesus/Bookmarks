@@ -511,6 +511,9 @@ Eight years later — still going strong!
 * https://www.comparamais.pt/blog/nib-iban-bic-swift-bancos-portugueses
 * http://randomiban.com/?country=Portugal
 * [4Devs Ferramentas online](https://www.4devs.com.br/) - Geração de pessoas e documentos
+* [Racius](https://www.racius.com/)
+* [Empresite](https://empresite.jornaldenegocios.pt/Actividade/LISTA-EMPRESAS/#)
+* [Lista-CAE](https://consultarcae.com/lista-cae)
 
 ## Infrastructure
 * [Example syntax for Secure Copy (scp)](http://www.hypexr.org/linux_scp_help.php)
