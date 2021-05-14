@@ -17,9 +17,7 @@
 * https://channel9.msdn.com/Shows/On-NET/Packaging-and-deploying-NET-Core-for-Linux-Part-2
 * https://dotnetthoughts.net/how-to-display-app-version-in-aspnet-core/
 * https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/options?view=aspnetcore-2.2
-
-### Components
-* [View components in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/view-components?view=aspnetcore-2.2)
+* [Running npm tasks when building a .NET project](https://www.meziantou.net/running-npm-tasks-when-building-a-dotnet-project.htm)
 
 ### Authentication
 * [A simple way to secure your .NET Core 2.0 web app](https://jonhilton.net/2017/10/07/a-simple-way-to-secure-your-.net-core-2.0-web-app/)
@@ -124,8 +122,8 @@
 * [Awesome DotNet Core Performance](https://github.com/adamsitnik/awesome-dot-net-performance)
 * [Awesome VSCode](https://github.com/viatsko/awesome-vscode)
 
-### Validation
-* [Fluent Validation](https://fluentvalidation.net/)
+### Components
+* [View components in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/view-components?view=aspnetcore-2.2)
 
 ### Custom Helpers/Tag Helpers
 * [Creating Custom HTML Helpers](https://docs.microsoft.com/en-us/aspnet/mvc/overview/older-versions-1/views/creating-custom-html-helpers-cs)
@@ -133,6 +131,7 @@
 * [Create a Custom HTML Helper in ASP.NET MVC Using Razor](https://www.foreach.be/blog/create-a-custom-html-helper-in-asp-net-mvc-using-razor?lang=nl)
 
 ### Email
+* [SmtpClient shouldn't be used](https://github.com/dotnet/platform-compat/blob/master/docs/DE0005.md)
 * [ASP.NET CORE: Sending Email with Gmail and Homtail Account using ASP.NET Core services](https://hassantariqblog.wordpress.com/2017/03/20/asp-net-core-sending-email-with-gmail-account-using-asp-net-core-services/)
 * [FluentEmail](https://github.com/lukencode/FluentEmail)
 * [How to Send Emails from ASP.NET Core](https://dotnetthoughts.net/how-to-send-emails-from-aspnet-core/)
@@ -190,6 +189,31 @@
 * [RestClient](https://github.com/MelbourneDeveloper/RestClient.Net)
 * [restsharp](https://restsharp.dev/)
 
+### Validation
+* [Fluent Validation](https://fluentvalidation.net/)
+ 
+### Automapper
+* https://www.thereformedprogrammer.net/building-efficient-database-queries-using-entity-framework-core-and-automapper/
+* https://lostechies.com/jimmybogard/2014/03/11/efficient-querying-with-linq-automapper-and-future-queries/ 
+
+### Localization
+* https://www.youtube.com/watch?v=gov2ZVUSrYs&t=2s
+* https://www.youtube.com/watch?v=Hy9G30nncMM
+* https://www.youtube.com/watch?v=33okCuCK3Ik
+* https://www.youtube.com/watch?v=gov2ZVUSrYs
+* https://stackoverflow.com/questions/40953193/vs-code-resx-file-extension
+* https://docs.microsoft.com/en-us/aspnet/core/fudamentals/localization
+* https://docs.microsoft.com/en-us/aspnet/core/fundamentals/portable-object-localization?view=aspnetcore-5.0
+* https://www.youtube.com/watch?v=_fgbl5SRNnw
+* https://www.gnu.org/savannah-checkouts/gnu/gettext/manual/html_node/PO-Files.html
+* https://gist.github.com/sebastienros/7980aad2ab33dd3a1c011fcf5a3f350c
+ 
+### Newtonsoft.Json
+* https://docs.microsoft.com/en-us/dotnet/standard/serialization/system-text-json-migrate-from-newtonsoft-how-to?pivots=dotnet-5-0
+* https://anthonygiretti.com/2020/05/10/why-model-binding-to-jobject-from-a-request-doesnt-work-anymore-in-asp-net-core-3-1-and-whats-the-alternative/
+* https://geeksarray.com/blog/aspnet-core-mvc-model-binding
+
+
 ### WebScrapping
 * [AngleSharp](https://github.com/AngleSharp/AngleSharp)
 * [Form Submission by Example](https://github.com/AngleSharp/AngleSharp/blob/devel/doc/Forms.md)
@@ -209,27 +233,6 @@
 * [MyCouch client configuration and usage](https://stackoverflow.com/questions/24796300/mycouch-client-configuration-and-usage)
 * [MyCouch Github](https://github.com/danielwertheim/MyCouch)
 * [MyCouch MyCouchClient Code Examples](https://csharp.hotexamples.com/examples/MyCouch/MyCouchClient/-/php-mycouchclient-class-examples.html)
-
-### Automapper
-* https://www.thereformedprogrammer.net/building-efficient-database-queries-using-entity-framework-core-and-automapper/
-* https://lostechies.com/jimmybogard/2014/03/11/efficient-querying-with-linq-automapper-and-future-queries/ 
-
-### Localization
-* https://www.youtube.com/watch?v=gov2ZVUSrYs&t=2s
-* https://www.youtube.com/watch?v=Hy9G30nncMM
-* https://www.youtube.com/watch?v=33okCuCK3Ik
-* https://www.youtube.com/watch?v=gov2ZVUSrYs
-* https://stackoverflow.com/questions/40953193/vs-code-resx-file-extension
-* https://docs.microsoft.com/en-us/aspnet/core/fudamentals/localization
-* https://docs.microsoft.com/en-us/aspnet/core/fundamentals/portable-object-localization?view=aspnetcore-5.0
-* https://www.youtube.com/watch?v=_fgbl5SRNnw
-* https://www.gnu.org/savannah-checkouts/gnu/gettext/manual/html_node/PO-Files.html
-* https://gist.github.com/sebastienros/7980aad2ab33dd3a1c011fcf5a3f350c
-* 
-### Newtonsoft.Json
-* https://docs.microsoft.com/en-us/dotnet/standard/serialization/system-text-json-migrate-from-newtonsoft-how-to?pivots=dotnet-5-0
-* https://anthonygiretti.com/2020/05/10/why-model-binding-to-jobject-from-a-request-doesnt-work-anymore-in-asp-net-core-3-1-and-whats-the-alternative/
-* https://geeksarray.com/blog/aspnet-core-mvc-model-binding
 
 ## CouchDB
 * [Apache CouchDB](http://couchdb.apache.org/)
