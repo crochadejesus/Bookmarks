@@ -350,6 +350,7 @@ Eight years later — still going strong!
 * https://hulyakarakaya.hashnode.dev/ultimate-free-javascript-resources
 * https://hulyakarakaya.hashnode.dev/50-free-websites-for-learning-how-to-code
 * [The Ultimate Web Developer Resources List 🔥Awesome 200+ Resources](https://dev.to/kiranrajvjd/the-ultimate-web-developer-resources-list-200-resources-2gf5)
+* [75🔥 Awesome Web Resources That Make Web Development Easy](https://dev.to/kiranrajvjd/75-awesome-web-resources-that-make-web-development-easy-2pff)
 
 ### Utility
 * [Codepen](https://codepen.io/)
