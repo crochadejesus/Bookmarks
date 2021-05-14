@@ -141,7 +141,6 @@
 * [MailKit](https://github.com/jstedfast/MailKit)
 
 ### Datatable
-* [Coevery](http://www.coevery.com/)
 * [MVC6.Grid](http://mvc6-grid.azurewebsites.net/) - Grid controls for ASP.NET Core projects
 
 ### ERP
