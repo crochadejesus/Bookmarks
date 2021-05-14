@@ -138,6 +138,7 @@
 * [How to Send Email using .NET Core](https://benjii.me/2017/02/send-email-using-asp-net-core/)
 * [Learn How To Send Mail-In ASP.NET CORE MVC using MailKit](https://monkelite.com/learn-how-to-send-mail-in-asp-net-core-mvc-using-mailkit/)
 * [Sending email in .NET Core with FluentEmail](https://lukencode.com/2018/07/01/send-email-in-dotnet-core-with-fluent-email/)
+* [MailKit](https://github.com/jstedfast/MailKit)
 
 ### Datatable
 * [Coevery](http://www.coevery.com/)
