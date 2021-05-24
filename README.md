@@ -76,11 +76,45 @@
 * [Implement LDAP / AD auth extension for .net core 2.0](https://github.com/aspnetboilerplate/aspnetboilerplate/issues/2755)
 * [Install and Configure Linux LDAP Server](https://likegeeks.com/linux-ldap-server/amp/)
 
-### EF
-* https://docs.microsoft.com/en-us/ef/core/performance/
-* https://www.learnentityframeworkcore.com/configuration/many-to-many-relationship-configuration
-* https://blog.jetbrains.com/dotnet/2021/02/24/entity-framework-core-5-pitfalls-to-avoid-and-ideas-to-try/
-* https://docs.microsoft.com/en-us/ef/core/modeling/entity-types?tabs=data-annotations
+### ORM
+* [Entity Framework](https://docs.microsoft.com/en-us/ef/)
+* [LINQ to DB](https://github.com/linq2db/linq2db)
+* [Dapper](https://dapper-tutorial.net/step-by-step-tutorial)
+* [Venflow](https://github.com/TwentyFourMinutes/Venflow)
+* [RepoDb](https://repodb.net/)
+* [MicroLite](https://microliteorm.wordpress.com/)
+* [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco)
+* [EntitySpaces](https://mikegriffinreborn.github.io/EntitySpaces/)
+* [NHibernate](https://nhibernate.info/)
+* [DbConnector](https://grauenwolf.github.io/DotNet-ORM-Cookbook/DbConnector.htm)
+* [Massive](https://github.com/FransBouma/Massive)
+* [Belgrade SqlClient](https://github.com/JocaPC/Belgrade-SqlClient)
+* [Intwenty.DataClient](https://github.com/Domitor/Intwenty.DataClient)
+* [SQLite-net](https://github.com/praeclarum/sqlite-net)
+* [VITA ORM for .NET](https://github.com/rivantsov/vita)
+* [What are the best ORMs for C#?](https://www.slant.co/topics/16667/~orms-for-c)
+
+#### EF Core
+* [Introduction to Performance](https://docs.microsoft.com/en-us/ef/core/performance/)
+* [Configuring Many To Many Relationships in Entity Framework Core](https://www.learnentityframeworkcore.com/configuration/many-to-many-relationship-configuration)
+* [Entity Framework Core 5 – Pitfalls To Avoid and Ideas to Try](https://blog.jetbrains.com/dotnet/2021/02/24/entity-framework-core-5-pitfalls-to-avoid-and-ideas-to-try/)
+* [Entity Types](https://docs.microsoft.com/en-us/ef/core/modeling/entity-types?tabs=data-annotations)
+* [Database Connection Resiliency in Entity Framework ASP.NET Core](https://www.thecodebuzz.com/database-connection-resiliency-entity-framework-asp-net-core/)
+* [Add Entity Framework DbContext As Service (Dependency Injection) in ASP.Net MVC Core 3.1](https://benjaminray.com/codebase/add-entity-framework-dbcontext-as-service-dependency-injection-in-asp-net-mvc-core-3-1/)
+* [Why Repository Pattern with Entity Framework Is No Longer Necessary](https://benjaminray.com/codebase/why-repository-pattern-with-entity-framework-is-no-longer-necessary/)
+* [ASP.NET Core - DBContext](https://www.tutorialspoint.com/asp.net_core/asp.net_core_dbcontext.htm)
+* [How to properly configure the `services.AddDbContext` of `ConfigureServices` method](https://stackoverflow.com/questions/56532595/how-to-properly-configure-the-services-adddbcontext-of-configureservices-met)
+* [Inject DbContext in Asp.Net Core. Concrete type or interface?](https://stackoverflow.com/questions/36583439/inject-dbcontext-in-asp-net-core-concrete-type-or-interface)
+* [DbContext Lifetime, Configuration, and Initialization](https://docs.microsoft.com/en-us/ef/core/dbcontext-configuration/)
+* [Entity Framework Core 5 vs SQLBulkCopy](https://www.michalbialecki.com/2020/05/03/entity-framework-core-5-vs-sqlbulkcopy-2/)
+* [C# – How to use SqlBulkCopy to do a Bulk Insert](https://makolyte.com/csharp-how-to-use-sqlbulkcopy-to-do-a-bulk-insert/)
+* [SqlBulkCopy Class](https://docs.microsoft.com/en-us/dotnet/api/system.data.sqlclient.sqlbulkcopy?view=dotnet-plat-ext-5.0)
+* [Importing a .CSV using SqlBulkCopy With ASP.Net Core](https://stackoverflow.com/questions/40470357/importing-a-csv-using-sqlbulkcopy-with-asp-net-core)
+
+#### LINQ to DB
+* [linq2db](https://dotnetfoundation.org/projects/linq2db)
+* [LINQ to DB](https://linq2db.github.io/)
+* [Bulk copy with Entity Framework Core 5](https://www.michalbialecki.com/2021/01/21/bulk-copy-with-entity-framework-core-5/)
 
 ### Encrypt
 * [Best way to secure password using Cryptographic algorithms in C# .NET](https://immortalcoder.blogspot.com/2015/11/best-way-to-secure-password-using-cryptographic-algorithms-in-csharp-dotnet.html)
@@ -213,6 +247,9 @@
 * https://anthonygiretti.com/2020/05/10/why-model-binding-to-jobject-from-a-request-doesnt-work-anymore-in-asp-net-core-3-1-and-whats-the-alternative/
 * https://geeksarray.com/blog/aspnet-core-mvc-model-binding
 
+### FastMember (IL)
+* [Fast access to .net fields/properties](https://github.com/mgravell/fast-member)
+* [Playing with your member](https://blog.marcgravell.com/2012/01/playing-with-your-member.html)
 
 ### WebScrapping
 * [AngleSharp](https://github.com/AngleSharp/AngleSharp)
