@@ -1,7 +1,7 @@
 # Bookmarks
 
 ## Dotnet
-* [ASP.NET Core 2.2 Docs](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.2)
+* [ASP.NET Core Docs](https://docs.microsoft.com/en-us/aspnet/core/)
 * [GitHub Project Provides 300-Plus Samples of ASP.NET Core/Blazor Fundamentals](https://visualstudiomagazine.com/articles/2020/02/27/aspnet-core-fundamentals.aspx)
 * https://docs.microsoft.com/en-us/aspnet/core/fundamentals/startup?view=aspnetcore-5.0
 * https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-model?view=aspnetcore-5.0&tabs=visual-studio-code
@@ -192,7 +192,7 @@
 * [Sending email in .NET Core with FluentEmail](https://lukencode.com/2018/07/01/send-email-in-dotnet-core-with-fluent-email/)
 * [MailKit](https://github.com/jstedfast/MailKit)
 
-### Datatable
+### Datagrid
 * [MVC6.Grid](http://mvc6-grid.azurewebsites.net/) - Grid controls for ASP.NET Core projects
 
 ### ERP
