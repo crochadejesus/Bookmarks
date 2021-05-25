@@ -57,6 +57,9 @@
 * [Token Based Auth in ASP.NET Core 2 Part 2: Refresh Tokens](https://blogs.ibs.com/2017/12/19/token-based-auth-in-asp-net-core-2-part-2-refresh-tokens/)
 * [Using JSON Web Tokens as API Keys](https://auth0.com/blog/using-json-web-tokens-as-api-keys/)
 * [Use JWT The Right Way!](https://stormpath.com/blog/jwt-the-right-way)
+* [Generate JWT Token in ASP.NET Core Step by Step](https://www.thecodebuzz.com/create-generate-jwt-token-asp-net-core-example/)
+* [JWT Authentication in ASP.NET Core with examples](https://www.thecodebuzz.com/jwt-authentication-in-asp-net-core-3-0-with-examples/)
+* [ASP.NET Core – Use JWT Bearer Authorization Token in Swagger(OpenAPI)](https://www.thecodebuzz.com/jwt-authorization-token-swagger-open-api-asp-net-core-3-0/)
 
 #### OAuth2
 * [ASP.NET Core WebAPI secured using OAuth2 Client Credentials](https://www.codeproject.com/Articles/1185880/ASP-NET-Core-WebAPI-secured-using-OAuth-Client-Cre)
@@ -75,6 +78,21 @@
 * [Authenticating against Active Directory with ASP.Net Core 2 and managing users](https://www.brechtbaekelandt.net/blog/post/authenticating-against-active-directory-with-aspnet-core-2-and-managing-users?searchTerms=asp.net&searchTerms=core&)
 * [Implement LDAP / AD auth extension for .net core 2.0](https://github.com/aspnetboilerplate/aspnetboilerplate/issues/2755)
 * [Install and Configure Linux LDAP Server](https://likegeeks.com/linux-ldap-server/amp/)
+
+### API
+* [API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+* [JSON:API](https://jsonapi.org/)
+* [OpenAPI.Tools](https://openapi.tools/#)
+* [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
+
+### HTTPClient
+* [Using HTTPClient Best Practices and Anti-Patterns](https://www.thecodebuzz.com/using-httpclient-best-practices-and-anti-patterns/)
+* [Create HTTPClient request using IHttpClientFactory in ASP.NET Core](https://www.thecodebuzz.com/httpclient-using-httpclientfactory-asp-net-core/)
+* [Named HTTPClient using IHttpClientFactory in ASP.NET Core](https://www.thecodebuzz.com/create-named-httpclient-ihttpclientfactory-asp-net-core/)
+* [Typed HTTPClient using HttpClientFactory in ASP.NET Core](https://www.thecodebuzz.com/typed-httpclient-using-httpclientfactory-in-asp-net-core/)
+* [Http GET, POST, PUT and DELETE example using HttpClientFactory](https://www.thecodebuzz.com/http-get-post-put-example-using-httpclientfactory/)
+* [Using HTTPClientFactory in .NET Core Console Application](https://www.thecodebuzz.com/using-httpclientfactory-in-net-core-console-application/)
+* [How to use HttpClientHandler with IHttpClientFactory](https://www.thecodebuzz.com/httpclienthandler-client-certificate-basic-auth-httpclientfactory/)
 
 ### ORM
 * [Entity Framework](https://docs.microsoft.com/en-us/ef/)
@@ -188,12 +206,6 @@
 * [Orchard CMS](https://orchardproject.net/)
 * [Piranha CMS](http://piranhacms.org/)
 * [The ultimate guide to the best net e-commerce platforms for 2019](https://www.nop-templates.com/the-ultimate-guide-to-the-best-net-e-commerce-platforms-for-2019)
-
-### API
-* [API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
-* [JSON:API](https://jsonapi.org/)
-* [OpenAPI.Tools](https://openapi.tools/#)
-* [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
 
 ### Job Scheduler
 * [CronMaker](http://www.cronmaker.com/)
