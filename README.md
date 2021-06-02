@@ -468,6 +468,7 @@ Eight years later — still going strong!
 * [Htmlcolorcodes](https://htmlcolorcodes.com/)
 * [Color Palettes](https://colorpalettes.net/)
 * [Scheme Color](https://www.schemecolor.com/)
+* [HTML CSS Color](https://www.htmlcsscolor.com/) - Color names
 
 ### Gradient
 * [cssgradient](https://cssgradient.io/)
