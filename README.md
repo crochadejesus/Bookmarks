@@ -858,3 +858,4 @@ Eight years later — still going strong!
 * [35+ Free Public APIs to Improve Productivity](https://dev.to/olanetsoft/35-free-public-apis-to-improve-productivity-2abo)
 * [Most Popular API Integrations](https://rapidapi.com/blog/most-popular-api/?utm_source=google&utm_medium=cpc&utm_campaign=Beta&utm_term=%2Bapi_b&gclid=CjwKCAiA_9r_BRBZEiwAHZ_v1wViYH_LYXyPh7I3qtB1KfV7b0LI_78da9ZHDZ_lSEfejHl2ZnCo4RoCpNoQAvD_BwE#quick-links)
 * [10 GitHub Repositories every Developer should know](https://dev.to/pb/10-github-repositories-every-developer-should-know-ngm)
+* [Public APIs](https://github.com/public-apis/public-apis)
